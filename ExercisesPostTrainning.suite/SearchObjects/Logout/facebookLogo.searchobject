@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		460,
+		159,
+		167,
+		50
+	],
+	"lastmodifieddate": 1634585203.885,
+	"createddate": 1634585203.885,
+	"name": "Logout/facebookLogo",
+	"lastfounddate": 1634592400.395,
+	"ocrcapturestring": "facebook",
+	"lastfoundlocation": [
+		460,
+		159,
+		167,
+		50
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[83,25]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Logout/facebookLogo.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					460,
+					159,
+					167,
+					50
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "facebook"
+			}
+	]
+}

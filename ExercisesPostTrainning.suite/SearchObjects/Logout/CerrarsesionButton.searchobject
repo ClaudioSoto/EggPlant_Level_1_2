@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		1587,
+		532,
+		98,
+		27
+	],
+	"lastmodifieddate": 1634584858.835,
+	"createddate": 1634584301.0640001,
+	"name": "Logout/CerrarsesionButton",
+	"lastfounddate": 1634584301.29,
+	"ocrcapturestring": "Cerrar sesion",
+	"lastfoundlocation": [
+		1587,
+		532,
+		98,
+		27
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[49,13]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Logout/CerrarsesionButton.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					1587,
+					532,
+					98,
+					27
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Cerrar sesion"
+			}
+	]
+}

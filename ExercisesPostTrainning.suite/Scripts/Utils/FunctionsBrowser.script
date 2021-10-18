@@ -1,0 +1,13 @@
+﻿to handle OpenBrowser with browserName
+	TypeText windowsKey & "r"
+	TypeText browserName & returnKey
+end OpenBrowser
+
+to handle OpenWebSite with URL
+	WaitFor 15, "Browser/ReloadIcon.png"
+	TypeText URL & returnKey
+end OpenWebSite
+
+to handle CloseBrowser
+	TypeText altKey & f4
+end CloseBrowser

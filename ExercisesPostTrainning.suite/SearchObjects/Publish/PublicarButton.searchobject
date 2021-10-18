@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		917,
+		725,
+		70,
+		24
+	],
+	"lastmodifieddate": 1634586536.6430001,
+	"createddate": 1634586536.6430001,
+	"name": "Publish/PublicarButton",
+	"lastfounddate": 1634592366.487,
+	"ocrcapturestring": "Publicar",
+	"lastfoundlocation": [
+		917,
+		725,
+		70,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,12]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Publish/PublicarButton.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					917,
+					725,
+					70,
+					24
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Publicar"
+			}
+	]
+}

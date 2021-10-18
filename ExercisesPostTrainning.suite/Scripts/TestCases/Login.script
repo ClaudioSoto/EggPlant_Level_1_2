@@ -1,0 +1,18 @@
+﻿BeginTestCase "Login"
+
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("TopRightQuadrant")
+Click text:"Correo", waitFor:30
+TypeText "lcsa10@hotmail.com"
+Click text:"Contrase", waitFor:30
+TypeText "Onepiece10."
+Click imageName:"Login", waitFor:30
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("TopLeftQuadrant")
+if ImageFound(imageName:"Login/LoginSuccess", waitFor:30)
+	LogSuccess "Login successful"
+else
+	LogError "Login not successful"
+end if
+set the SearchRectangle to empty
+
+EndTestCase "Login" 
+

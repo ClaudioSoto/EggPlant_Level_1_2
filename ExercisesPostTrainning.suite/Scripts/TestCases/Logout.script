@@ -1,0 +1,15 @@
+﻿BeginTestCase "Logout"
+
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("TopRightQuadrant")
+Click imageName:"Logout/OptionsMenu", waitFor:20
+set the SearchRectangle to [1532,121,1890,573]
+Click imageName:"Logout/CerrarSesionButton", waitFor:20
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("TopLeftQuadrant")
+if ImageFound(imageName:"Logout/facebookLogo", waitFor:20)
+	LogSuccess "Login successful"
+else
+	LogError "Login not successful"
+end if
+set the SearchRectangle to empty
+
+EndTestCase "Logout"

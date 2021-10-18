@@ -1,0 +1,26 @@
+﻿BeginTestCase "Publish"
+Run "TestCases/Login"
+
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("VerticalMiddle")
+Click imageName:"Publish/TextAreaInput", waitFor:20
+
+//RANDOM NAME
+put a..z as list into alphas
+put 1..10 as list into nums
+put (any item of alphas for each item of nums) joined by empty into name
+
+TypeText name
+Click imageName:"Publish/PublicarButton", waitFor:20
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("BottomHalf")
+
+
+if ImageLocation(text:name) is not empty
+	LogSuccess "Publication success"
+else
+	LogError "Publication not success"
+end if
+
+set the SearchRectangle to empty
+Run "TestCases/Logout"
+
+EndTestCase "Publish" 

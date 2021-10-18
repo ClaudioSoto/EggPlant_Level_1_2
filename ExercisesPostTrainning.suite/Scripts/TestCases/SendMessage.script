@@ -1,0 +1,20 @@
+﻿BeginTestCase "SendMessage"
+Run "TestCases/Login"
+
+set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("RightSidebar")
+Click imageName:"Message/UserMessage", waitFor:20
+
+Repeat 10 times
+	TypeText "Soy un robot" & returnKey
+End repeat
+
+if ImageLocation(text:"Soy un robot") is not empty
+	LogSuccess "Message success"
+else
+	LogError "Message not success"
+end if
+
+set the SearchRectangle to empty
+Run "TestCases/Logout"
+
+EndTestCase "SendMessage" 

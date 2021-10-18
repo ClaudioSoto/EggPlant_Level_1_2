@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1634584346.4029999,
+	"lastfoundlocation": [
+		1854,
+		93,
+		27,
+		13
+	],
+	"originalcapturelocation": [
+		1854,
+		89,
+		29,
+		17
+	],
+	"createddate": 1634584273.688,
+	"lastfounddate": 1634592397.721,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[14,8]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Logout/OptionsMenu.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"capturerect": [
+					1854,
+					89,
+					29,
+					17
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.50.44"
+			}
+	],
+	"name": "Logout/OptionsMenu"
+}

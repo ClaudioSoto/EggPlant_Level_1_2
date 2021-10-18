@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		1070,
+		232,
+		324,
+		29
+	],
+	"lastmodifieddate": 1634583685.2249999,
+	"createddate": 1634583081.8509998,
+	"name": "Login/CorreoInput",
+	"lastfounddate": 1634583455.704,
+	"ocrcapturestring": "Correo electronico o numero de telefono",
+	"lastfoundlocation": [
+		1029,
+		494,
+		63,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[162,14]",
+					"Tolerance": "_31",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/CorreoInput.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					1070,
+					232,
+					324,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Correo"
+			}
+	]
+}
