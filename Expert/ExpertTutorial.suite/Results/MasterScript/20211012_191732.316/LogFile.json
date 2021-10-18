@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 19:17:32.322 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 19:17:32.411 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_welcome",
+				"timestamp": "2021-10-12 19:17:32.419 +0000",
+				"message": "Welcome to Sense Talk",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_globaladd",
+				"timestamp": "2021-10-12 19:17:32.428 +0000",
+				"message": "The final value is: 20",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 19:17:32.440 +0000",
+				"message": "2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 20,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.222\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 19:17:32 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 19:17:32.549 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 19:17:32.600 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 19:17:32.325 +0000"
+}

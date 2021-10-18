@@ -1,0 +1,14 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2021-10-13 21:45:59
+  From session:  OnePieceTurboSession
+  Captured on:  2021-10-13 21:41:49
+  From server:  1921685044
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "ChromeIcon"
+Click (Image:"NavBarChrome", WaitFor:12)
+TypeText "www.google.com",Return
+Wait 10
+TypeText "one piece wiki",Return
+Click {Image:"ReydelosPiratasOnePieceWiki", WaitFor:3}
+ScrollWheelDown 18.5

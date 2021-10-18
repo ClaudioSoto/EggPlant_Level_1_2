@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Exercise4">
+ <run>
+  <RunDate>2021-10-12 20:35:48.142 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.243000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_203548.142/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:36:11.063 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.185000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_203611.063/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn&#x27;t be read using the defaultStringEncoding (UTF8)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:37:42.797 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.187000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_203742.797/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn&#x27;t be read using the defaultStringEncoding (UTF8)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:40:14.681 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.190000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_204014.681/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn&#x27;t be read using the defaultStringEncoding (UTF8)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:41:46.828 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.197000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_204146.828/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn&#x27;t be read using the defaultStringEncoding (ASCII)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:42:03.125 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.187000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_204203.125/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn&#x27;t be read using the defaultStringEncoding (Unicode)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:44:14.140 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.225000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_204414.140/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:46:54.152 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.194000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_204654.152/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:47:14.015 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.191000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_204714.015/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet 2 doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:51:03.431 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.193000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_205103.431/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): C:/Users/claudio.sotoayala/Documents/{file:&quot;C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx&quot;, name:&quot;file&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:51:46.233 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.208000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_205146.233/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): C:/Users/claudio.sotoayala/Documents/{file:&quot;C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx&quot;, name:&quot;ExcelFile&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:52:11.223 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.188000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_205211.223/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): C:/Users/claudio.sotoayala/Documents/{file:&quot;C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx&quot;, name:&quot;ExcelFile&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:52:32.625 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.066000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_205232.625/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): C:/Users/claudio.sotoayala/Documents/{file:&quot;C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx&quot;, name:&quot;ExcelFile&quot;}</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:54:21.314 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.195000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_205421.314/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Users/claudio.sotoayala/Documents/ResponsiveList.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:54:29.963 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.194000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_205429.963/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook C:/Users/claudio.sotoayala/Documents/ResponsiveList.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:56:38.621 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.242000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_205638.621/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:57:51.650 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.242000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_205751.650/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:59:57.119 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.237000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_205957.119/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:00:26.567 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.238000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_210026.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:02:25.671 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.223000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_210225.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:13:52.781 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_211352.781/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in exercise4:
+Syntax Error at line 14: Syntax Error - can&#x27;t understand &quot;name&quot; at character 15</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:15:06.654 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3.858000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_211506.654/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:17:53.063 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>2.150000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_211753.063/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:24:11.752 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>7.709000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_212411.752/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:25:30.118 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>27.274000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_212530.118/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;FullName&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:27:00.488 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>11.157000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_212700.488/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:30:31.581 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>19.810000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_213031.581/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- Exercise4 Error - Too Many Parameters, please use searchrectangle() with no parameters
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:31:31.020 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>20.036000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_213131.020/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:33:47.501 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>43.506000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_213347.501/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:34:45.460 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>28.440000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_213445.460/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:37:20.233 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>46.746000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_213720.233/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Submit&quot;  Restricted Search Rectangle ((626,593),(716,653))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:38:30.391 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>33.491000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_213830.391/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:39:45.596 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>27.574000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_213945.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Submit</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:41:01.216 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.310000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_214101.216/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:42:24.536 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>25.418000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_214224.536/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:43:22.377 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>89.633000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_214322.377/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Text Found On Screen: &quot;(TEXT:&quot;Green&quot;)&quot;. Text not found.  Restricted Search Rectangle ((629,400),(714,473))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:47:09.378 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>75.144000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_214709.378/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

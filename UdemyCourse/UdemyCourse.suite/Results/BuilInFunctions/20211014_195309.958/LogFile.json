@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running BuilInFunctions.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 19:53:09.963 +0000"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:53:10.030 +0000",
+				"message": "10 0 25 1",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:53:10.036 +0000",
+				"message": "100",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:53:10.041 +0000",
+				"message": "370",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:53:10.045 +0000",
+				"message": "6",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:53:10.046 +0000",
+				"message": "3.99",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.173\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 19:53:09 +0000\", Successes:\"1\", TestCase:\"BuilInFunctions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 19:53:10.144 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 BuilInFunctions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 19:53:10.179 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 19:53:09.971 +0000"
+}

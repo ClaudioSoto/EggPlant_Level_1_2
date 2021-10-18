@@ -1,0 +1,10 @@
+﻿2021-10-12 17:39:59.005 +0000	START		Running MasterScript.script
+2021-10-12 17:39:59.406 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:40:01.310 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:40:01.325 +0000	set		SEARCHRECTANGLE = [611,263,753,316]	8	on_exercise2	Exercise2.script
+2021-10-12 17:40:26.545 +0000	LogWarning		Timing Problem: Increase search time in script for this search
+2021-10-12 17:40:27.047 +0000	moveto	(TEXT:"Electronics")	at (675, 286)	9	on_exercise2	Exercise2.script
+2021-10-12 17:40:27.068 +0000	set		SEARCHRECTANGLE = [623,303,818,426]	12	on_exercise2	Exercise2.script
+2021-10-12 17:40:37.275 +0000	click	(TEXT:"Camera & photo")	at (702, 331)	13	on_exercise2	Exercise2.script
+2021-10-12 17:40:37.407 +0000	EndTestCase		(Duration:"38.397", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 17:39:59 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"1")
+2021-10-12 17:40:37.443 +0000	SUCCESS		Execution Time 0:00:38 MasterScript.script

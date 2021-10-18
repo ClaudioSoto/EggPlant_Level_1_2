@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise3FailedScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-18 14:38:21.453 +0000"
+			},
+		{
+				"message": "(Duration:\"0.006\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-18 14:38:21 +0000\", Successes:\"0\", TestCase:\"Exercise3FailedScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-18 14:38:21.475 +0000"
+			},
+		{
+				"message": "SenseTalk Compiler Exception: in exercise3failedscript:\\nSyntax Error at line 2: Syntax Error - can't understand \"int\" at character 15 -- Execution Time 0:00:00 Exercise3FailedScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-18 14:38:21.507 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-18 14:38:21.469 +0000"
+}

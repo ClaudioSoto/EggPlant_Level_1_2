@@ -1,0 +1,5 @@
+﻿2021-10-12 19:11:32.343 +0000	START		Running MasterScript.script
+2021-10-12 19:11:32.428 +0000	Log		The add result is: 10	9	on_masterscript	MasterScript.script
+2021-10-12 19:11:32.437 +0000	Log		Welcome to Sense Talk	2	on_welcome	Exercise3B.script
+2021-10-12 19:11:39.139 +0000	EndTestCase		(Duration:"6.791", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 19:11:32 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 19:11:39.153 +0000	ABORTED		Execution Time 0:00:06 MasterScript.script

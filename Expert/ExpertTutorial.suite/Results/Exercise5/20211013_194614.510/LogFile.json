@@ -1,0 +1,151 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise5A.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 19:46:14.516 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-13 19:46:14.823 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-13 19:46:18.088 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:24.858 +0000",
+				"scriptName": "Exercise5A.script",
+				"message": "at (99, 258)",
+				"image": "SQUARES",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:25.752 +0000",
+				"scriptName": "Exercise5A.script",
+				"message": "found 5 images",
+				"image": "SQUARES",
+				"handlerLine": 11,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:25.761 +0000",
+				"message": "[102,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:25.874 +0000",
+				"message": "at (102, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:27.889 +0000",
+				"message": "[390,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:28.031 +0000",
+				"message": "at (390, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:30.046 +0000",
+				"message": "[678,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:30.179 +0000",
+				"message": "at (678, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:32.181 +0000",
+				"message": "[966,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:32.327 +0000",
+				"message": "at (966, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:34.341 +0000",
+				"message": "[1221,452]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:34.475 +0000",
+				"message": "at (1221, 452)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:46:36.480 +0000",
+				"message": "All green squares were clicked",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_utils_closebrowser",
+				"timestamp": "2021-10-13 19:46:41.569 +0000",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Utils/CloseBrowser.script",
+				"handlerLine": 2,
+				"identifier": "keydown"
+			},
+		{
+				"message": "(Duration:\"27.278\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-13 19:46:14 +0000\", Successes:\"1\", TestCase:\"Exercise5A.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 19:46:41.801 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:27 Exercise5A.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-13 19:46:41.883 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 19:46:14.516 +0000"
+}

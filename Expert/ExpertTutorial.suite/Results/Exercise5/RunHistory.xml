@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Exercise5">
+ <run>
+  <RunDate>2021-10-13 19:16:10.161 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>5.026000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211013_191610.161/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:17:25.357 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>3.632000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211013_191725.357/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:19:16.957 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>12.474000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211013_191916.957/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:32:29.123 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.877000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211013_193229.123/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;GreenSquare&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:41:34.806 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>25.039000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211013_194134.806/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:45:14.019 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.315000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211013_194514.019/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: GreenSquare</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:46:14.510 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>27.291000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211013_194614.510/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

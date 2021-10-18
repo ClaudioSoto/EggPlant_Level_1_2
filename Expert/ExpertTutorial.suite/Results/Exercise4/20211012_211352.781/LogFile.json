@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 21:13:52.788 +0000"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 21:13:52 +0000\", Successes:\"0\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 21:13:52.795 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in exercise4:\\nSyntax Error at line 14: Syntax Error - can't understand \"name\" at character 15 -- Execution Time 0:00:00 Exercise4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 21:13:53.050 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 21:13:52.792 +0000"
+}

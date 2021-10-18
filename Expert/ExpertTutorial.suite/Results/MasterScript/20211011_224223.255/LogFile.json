@@ -1,0 +1,211 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-11 22:42:23.262 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:23.664 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:26.879 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (958, 40)",
+				"image": "MaximizeIcon",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:28.865 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:29.592 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 6,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:29.807 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 8,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:30.297 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:35.587 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:35.597 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:40.971 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:41.023 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:46.311 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:46.311 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:51.592 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:51.602 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:56.832 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "found at (1402, 829)",
+				"image": "HTCProduct",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:57.111 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (1402, 829)",
+				"image": "HTCProduct",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:57.258 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "found at (448, 972)",
+				"image": "AddToCartIcon.png",
+				"handlerLine": 18,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:58.154 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (1047, 730)",
+				"image": "AddToCartIcon",
+				"handlerLine": 20,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:59.108 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (1473, 90)",
+				"image": "CartIcon",
+				"handlerLine": 21,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:43:09.336 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image HTCProductInCart",
+				"image": "HTCProductInCart",
+				"handlerLine": 24,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:43:09.346 +0000",
+				"message": "Test failed",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 27,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:43:09.596 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (1896, 15)",
+				"image": "CloseBrowserIcon",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"46.406\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-11 22:42:23 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-11 22:43:09.671 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Script Error: Number of Errors logged: 1 -- Execution Time 0:00:46 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-11 22:43:09.846 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-11 22:42:23.265 +0000"
+}

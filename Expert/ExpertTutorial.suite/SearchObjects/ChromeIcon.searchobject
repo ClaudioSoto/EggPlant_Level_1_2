@@ -1,0 +1,72 @@
+{
+	"lastmodifieddate": 1634072661.9679999,
+	"lastfoundlocation": [
+		181,
+		683,
+		17,
+		26
+	],
+	"originalcapturelocation": [
+		180,
+		682,
+		19,
+		28
+	],
+	"createddate": 1633990457.8039999,
+	"lastfounddate": 1634154500.349,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[9,14]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "ChromeIcon.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"capturerect": [
+					180,
+					682,
+					19,
+					28
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.50.44"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[1,1,18,27]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[8,13]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "ChromeIcon.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"capturerect": [
+					180,
+					682,
+					17,
+					26
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.50.44"
+			}
+	],
+	"name": "ChromeIcon"
+}

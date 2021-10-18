@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 20:35:48.151 +0000"
+			},
+		{
+				"handlerName": "on_utils_closebrowser",
+				"timestamp": "2021-10-12 20:35:48.270 +0000",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Utils/CloseBrowser.script",
+				"handlerLine": 2,
+				"identifier": "keydown"
+			},
+		{
+				"message": "(Duration:\"0.23\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 20:35:48 +0000\", Successes:\"1\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 20:35:48.386 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 Exercise4.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 20:35:48.431 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 20:35:48.156 +0000"
+}

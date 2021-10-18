@@ -1,0 +1,201 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 17:53:58.817 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 17:53:59.150 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 17:54:11.574 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/information_list.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.589 +0000",
+				"message": "Claudio",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.604 +0000",
+				"message": "Claudio 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.605 +0000",
+				"message": "Mi nombre es Claudio y mi edad es 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.622 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.622 +0000",
+				"message": "rojo",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.640 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.644 +0000",
+				"message": "negro",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:11.644 +0000",
+				"message": "morado",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.220 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "found at (69, 226)",
+				"image": "Squares/GreenSquare",
+				"handlerLine": 18,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.526 +0000",
+				"message": "(69,226,189,302)",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 20,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.527 +0000",
+				"message": "John Doe",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.527 +0000",
+				"message": "SEARCHRECTANGLE = [80,388,131,424]",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 23,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.616 +0000",
+				"message": "(80,388,131,424)",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 24,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.619 +0000",
+				"message": "40",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.619 +0000",
+				"message": "65",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 27,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.619 +0000",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 35,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:30.619 +0000",
+				"message": "JOHN DOW IS OLDER",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 37,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:31.003 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "at (91, 700)",
+				"image": "TextArea",
+				"handlerLine": 38,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:32.450 +0000",
+				"message": "JOHN DOW IS OLDER",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 39,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:54:32.485 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Could Not Open Image: Submit",
+				"image": "Submit",
+				"handlerLine": 41,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"33.765\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-14 17:53:58 +0000\", Successes:\"0\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 17:54:32.587 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: Submit -- Execution Time 0:00:33 Exercise1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-14 17:54:32.777 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 17:53:58.818 +0000"
+}

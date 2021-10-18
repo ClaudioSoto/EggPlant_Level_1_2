@@ -1,0 +1,17 @@
+﻿//OPEN BROWSER
+On  OpenBrowser
+	DoubleClick "ChromeIcon"
+End OpenBrowser
+
+//SEARCH WEBSITE
+On SearchWebSite webSite
+	Wait 10
+	TypeText website & returnKey
+End SearchWebSite
+
+//CLOSE WEBSITE
+On CloseBrowser
+	WaitFor 25, "CloseBrowserButton.png"
+	Click "CloseBrowserButton"
+End CloseBrowser
+

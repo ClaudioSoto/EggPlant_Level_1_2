@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		622,
+		602,
+		71,
+		35
+	],
+	"lastmodifieddate": 1634073033.2909999,
+	"createddate": 1634073033.2909999,
+	"name": "Submit",
+	"lastfounddate": 1634075506.2550001,
+	"ocrcapturestring": "Submit",
+	"lastfoundlocation": [
+		622,
+		602,
+		71,
+		35
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,17]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Submit.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					622,
+					602,
+					71,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Submit"
+			}
+	]
+}

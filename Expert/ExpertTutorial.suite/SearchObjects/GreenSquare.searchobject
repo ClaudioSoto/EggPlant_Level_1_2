@@ -1,0 +1,47 @@
+{
+	"originalcapturelocation": [
+		41,
+		197,
+		127,
+		128
+	],
+	"lastmodifieddate": 1634154169.7820001,
+	"createddate": 1634152689.1059999,
+	"name": "GreenSquare",
+	"lastfounddate": 1634154507.6890001,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		620,
+		384,
+		127,
+		128
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[63,64]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "TitleOfPage/GreenSquare.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"capturerect": [
+					41,
+					197,
+					127,
+					128
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.50.44"
+			}
+	]
+}

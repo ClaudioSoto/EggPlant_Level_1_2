@@ -1,0 +1,3 @@
+﻿2021-10-12 20:52:11.230 +0000	START		Running Exercise4.script
+2021-10-12 20:52:11.412 +0000	EndTestCase		(Duration:"0.177", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 20:52:11 +0000", Successes:"0", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 20:52:11.799 +0000	FAILURE	Screen_Error.png	Workbook Error: Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/claudio.sotoayala/Documents/{file:"C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx", name:"ExcelFile"} -- Execution Time 0:00:00 Exercise4.script

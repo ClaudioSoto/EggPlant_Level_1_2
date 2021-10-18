@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Exercise2">
+ <run>
+  <RunDate>2021-10-12 17:11:45.646 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.172000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171145.646/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:13:05.775 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.197000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171305.775/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:42:34.025 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>20.776000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_174234.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:58:51.073 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>67.232000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_175851.073/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:02:18.322 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>29.628000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_180218.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

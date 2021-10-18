@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="BuilInFunctions_script" package="UdemyCourse.suite" timestamp="2021-10-14 19:41:16.296 +0000"
+ tests="1"  failures="1" errors="0" time="0.178000">
+  <properties>
+   <property name="RunDate" value="2021-10-14 19:41:16.296 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="BuilInFunctions.script" assertions="1" status="failure"  time="0.165">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Function: 'avg' -- Execution Time 0:00:00 BuilInFunctions.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

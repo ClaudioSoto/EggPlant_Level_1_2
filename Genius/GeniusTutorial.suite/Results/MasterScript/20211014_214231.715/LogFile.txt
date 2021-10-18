@@ -1,0 +1,14 @@
+﻿2021-10-14 21:42:31.727 +0000	START		Running MasterScript.script
+2021-10-14 21:42:32.086 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 21:42:43.662 +0000	typetext		http://epftraining.eggplantsoftware.com/information_list.html[returnKey]	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 21:42:43.691 +0000	Log		Claudio	7	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.702 +0000	Log		Claudio 25	8	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.710 +0000	Log		Mi nombre es Claudio y mi edad es 25	9	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.715 +0000	Log		azul	12	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.723 +0000	Log		rojo	15	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.732 +0000	Log		azul	15	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.738 +0000	Log		negro	15	on_exercise1a	Exercise1A.script
+2021-10-14 21:42:43.741 +0000	Log		morado	15	on_exercise1a	Exercise1A.script
+2021-10-14 21:43:28.295 +0000	Exception	Squares/GreenSquare	Unable To Find Any Image On Screen "Squares/GreenSquare" within 25.00 seconds	18	on_exercise1a	Exercise1A.script
+2021-10-14 21:43:28.435 +0000	EndTestCase		(Duration:"56.707", Errors:"1", Exceptions:"1", StartTime:"2021-10-14 21:42:31 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-14 21:43:28.448 +0000	ABORTED		Execution Time 0:00:56 MasterScript.script

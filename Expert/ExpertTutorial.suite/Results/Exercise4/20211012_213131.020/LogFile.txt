@@ -1,0 +1,16 @@
+﻿2021-10-12 21:31:31.027 +0000	START		Running Exercise4.script
+2021-10-12 21:31:31.359 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:31:34.357 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:31:44.213 +0000	waitfor	TitleOfPage	found at (437, 114)	11	on_exercise4	Exercise4.script
+2021-10-12 21:31:44.213 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	21	on_exercise4	Exercise4.script
+2021-10-12 21:31:44.458 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:31:45.302 +0000	typetext		Randy	24	on_exercise4	Exercise4.script
+2021-10-12 21:31:46.189 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:31:47.183 +0000	typetext		me@you.com	27	on_exercise4	Exercise4.script
+2021-10-12 21:31:48.071 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:31:49.132 +0000	typetext		Hi everyone!	30	on_exercise4	Exercise4.script
+2021-10-12 21:31:49.140 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:31:50.141 +0000	click	(TEXT:"Purple")	at (672, 464)	33	on_exercise4	Exercise4.script
+2021-10-12 21:31:50.883 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-12 21:31:51.056 +0000	EndTestCase		(Duration:"20.022", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 21:31:31 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:31:51.105 +0000	SUCCESS		Execution Time 0:00:20 Exercise4.script

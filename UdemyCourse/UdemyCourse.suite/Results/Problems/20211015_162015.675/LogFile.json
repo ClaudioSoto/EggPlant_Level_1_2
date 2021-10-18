@@ -1,0 +1,103 @@
+{
+	"entries": [
+		{
+				"message": "Running Problems.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 16:20:15.682 +0000"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:15.751 +0000",
+				"message": "[10,9,8,7,-1,5,4,3,2,1]",
+				"scriptName": "Problems.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:15.778 +0000",
+				"message": "Sorted Array: [-1,1,2,3,4,5,7,8,9,10]",
+				"scriptName": "Problems.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:15.802 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Problems.script",
+				"handlerLine": 24,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:16.610 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Problems.script",
+				"handlerLine": 25,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:19.961 +0000",
+				"scriptName": "Problems.script",
+				"message": "at (1012, 751)",
+				"image": "(TEXT:\"Nuevo\")",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:19.963 +0000",
+				"message": "SEARCHRECTANGLE = [1206,414,1528,765]",
+				"scriptName": "Problems.script",
+				"handlerLine": 27,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:21.244 +0000",
+				"scriptName": "Problems.script",
+				"message": "at (1299, 683)",
+				"image": "(TEXT:\"Documento de texto\")",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:22.589 +0000",
+				"message": "EggplantPractice",
+				"scriptName": "Problems.script",
+				"handlerLine": 29,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:22.595 +0000",
+				"message": "SEARCHRECTANGLE = [846,483,1059,622]",
+				"scriptName": "Problems.script",
+				"handlerLine": 30,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:44.459 +0000",
+				"scriptName": "Problems.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"EggplantPractice\")\". Text not found.",
+				"image": "(TEXT:\"EggplantPractice\")",
+				"handlerLine": 31,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"28.94\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-15 16:20:15 +0000\", Successes:\"0\", TestCase:\"Problems.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 16:20:44.627 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:28 Problems.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-15 16:20:44.638 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 16:20:15.685 +0000"
+}

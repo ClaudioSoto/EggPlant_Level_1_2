@@ -1,0 +1,73 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 15:43:23.032 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 15:43:23.343 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 15:43:33.051 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "found at (236, 51)",
+				"image": "SearchBar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 15:43:33.251 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (236, 51)",
+				"image": "SearchBar",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 15:43:34.755 +0000",
+				"message": "www.google.com[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_closebrowser",
+				"timestamp": "2021-10-14 15:43:34.777 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "found at (1898, 14)",
+				"image": "CloseBrowserButton.png",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_closebrowser",
+				"timestamp": "2021-10-14 15:43:35.608 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (1898, 14)",
+				"image": "CloseBrowserButton",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"12.842\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 15:43:23 +0000\", Successes:\"1\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 15:43:35.882 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:12 Exercise1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 15:43:35.913 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 15:43:23.040 +0000"
+}

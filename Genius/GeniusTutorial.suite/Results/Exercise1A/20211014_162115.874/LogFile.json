@@ -1,0 +1,119 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 16:21:15.874 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 16:21:18.645 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 16:21:28.528 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "found at (236, 51)",
+				"image": "SearchBar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 16:21:28.659 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (236, 51)",
+				"image": "SearchBar",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 16:21:31.627 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/information_list.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.627 +0000",
+				"message": "Claudio",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.627 +0000",
+				"message": "Claudio 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.642 +0000",
+				"message": "Mi nombre es Claudio y mi edad es 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.642 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.642 +0000",
+				"message": "rojo",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.658 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.658 +0000",
+				"message": "negro",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 16:21:31.664 +0000",
+				"message": "morado",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"39.783\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-14 16:21:15 +0000\", Successes:\"0\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 16:21:55.658 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:39 Exercise1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-14 16:21:55.669 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 16:21:15.874 +0000"
+}

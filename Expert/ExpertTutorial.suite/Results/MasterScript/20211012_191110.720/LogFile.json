@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 19:11:10.726 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 19:11:10.809 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_welcome",
+				"timestamp": "2021-10-12 19:11:10.817 +0000",
+				"message": "Welcome to Sense Talk",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_globaladd",
+				"timestamp": "2021-10-12 19:11:14.159 +0000",
+				"message": "The final value is: 20",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"4.694\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 19:11:10 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 19:11:15.425 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Function: 'division' -- Execution Time 0:00:04 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 19:11:15.795 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 19:11:10.730 +0000"
+}

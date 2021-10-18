@@ -1,0 +1,6 @@
+﻿2021-10-13 19:32:29.129 +0000	START		Running Exercise5A.script
+2021-10-13 19:32:31.200 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-13 19:32:34.529 +0000	typetext		http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-13 19:33:05.808 +0000	Exception	GreenSquare	No Image Found On Screen: "GreenSquare"	8	on_exercise5a	Exercise5A.script
+2021-10-13 19:33:06.000 +0000	EndTestCase		(Duration:"36.868", Errors:"1", Exceptions:"1", StartTime:"2021-10-13 19:32:29 +0000", Successes:"0", TestCase:"Exercise5A.script", Warnings:"0")
+2021-10-13 19:33:06.695 +0000	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "GreenSquare" -- Execution Time 0:00:36 Exercise5A.script

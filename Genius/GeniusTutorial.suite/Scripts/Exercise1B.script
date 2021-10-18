@@ -1,0 +1,47 @@
+﻿Run "Utils/Functions".OpenBrowser
+Run "Utils/Functions".SearchWebSite "http://epftraining.eggplantsoftware.com/scrolling.html"
+
+if ImageFound(imageName:"SquaresB/Green", waitFor:30)
+	log "FIGURA VERDE ENCONTRADA"
+else
+	log "FIGURA NO ENCONTRADA"
+end if
+
+ScrollWheelDown 3
+wait 10
+
+put 0 into count
+put 0 into count2
+
+Repeat until ImageFound(imageName:"SquaresB/Purple", waitFor:0)
+	ScrollWheelDown 3
+	put (1+count) into count
+	put repeatIndex() into count2
+	wait 2
+End repeat
+
+log "Las bajadas fueron: " & count
+log "Las bajadas in index fueron:" & count2
+
+Repeat until ImageFound(imageName:"SquaresB/Blue", waitFor:0)
+	ScrollWheelDown 7
+	put (1+count) into count
+	put repeatIndex() into count2
+	wait 2
+End repeat
+
+put EveryImageLocation("SquaresB/Orange") into orageSquares
+log orageSquares
+
+Try
+	Click imageName:"SquaresB/Blue", waitFor:10
+	
+Catch theException
+	Click imageName:"SquaresB/Green", waitFor:10
+	
+	throw theException — re-throw the exception (if desired)
+End try
+
+Run "Utils/Functions".CloseBrowser
+
+

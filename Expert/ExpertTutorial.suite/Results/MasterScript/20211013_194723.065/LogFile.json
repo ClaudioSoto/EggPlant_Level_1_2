@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 19:47:23.077 +0000"
+			},
+		{
+				"message": "(Duration:\"0.263\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-13 19:47:23 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 19:47:23.344 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'exercise5a' -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-13 19:47:23.800 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 19:47:23.081 +0000"
+}

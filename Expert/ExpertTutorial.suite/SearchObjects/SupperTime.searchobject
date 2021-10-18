@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		528,
+		569,
+		93,
+		36
+	],
+	"lastmodifieddate": 1634073011.7410002,
+	"createddate": 1634073011.7410002,
+	"name": "SupperTime",
+	"lastfounddate": 1634075504.027,
+	"ocrcapturestring": "Supper Time",
+	"lastfoundlocation": [
+		528,
+		569,
+		93,
+		36
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[141,15]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "SupperTime.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					528,
+					569,
+					93,
+					36
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Supper Time"
+			}
+	]
+}

@@ -1,0 +1,318 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1B.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 18:24:43.208 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 18:24:43.527 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 18:24:55.731 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:07.707 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found at (67, 225)",
+				"image": "SquaresB/Green",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:07.707 +0000",
+				"message": "FIGURA VERDE ENCONTRADA",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:08.225 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:18.342 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 16,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:18.343 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:20.482 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:20.482 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:22.605 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:22.605 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:24.714 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:24.729 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:26.835 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:26.852 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:28.957 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:28.957 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:31.065 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:31.065 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 17,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:33.174 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found at (69, 940)",
+				"image": "SquaresB/Purple",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:33.182 +0000",
+				"message": "Las bajadas fueron: 7",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 23,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:33.182 +0000",
+				"message": "Las bajadas in index fueron:7",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 24,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:33.266 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Blue",
+				"image": "SquaresB/Blue",
+				"handlerLine": 26,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:33.274 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 27,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:35.351 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Blue",
+				"image": "SquaresB/Blue",
+				"handlerLine": 31,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:35.360 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 27,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:37.473 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Blue",
+				"image": "SquaresB/Blue",
+				"handlerLine": 31,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:37.483 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 27,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:39.603 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Blue",
+				"image": "SquaresB/Blue",
+				"handlerLine": 31,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:39.604 +0000",
+				"message": "moved 3",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 27,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:41.715 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found at (67, 956)",
+				"image": "SquaresB/Blue",
+				"handlerLine": 31,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:41.858 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found 3 images",
+				"image": "SquaresB/Orange",
+				"handlerLine": 33,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:25:41.866 +0000",
+				"message": "orangeSquares",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 34,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:26:12.415 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "No Image Found On Screen: \"SquaresB/Purple\"",
+				"image": "SquaresB/Purple",
+				"handlerLine": 37,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:26:29.555 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "No Image Found On Screen: \"SquaresB/Green\"",
+				"image": "SquaresB/Green",
+				"handlerLine": 40,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"106.564\", Errors:\"1\", Exceptions:\"2\", StartTime:\"2021-10-14 18:24:43 +0000\", Successes:\"0\", TestCase:\"Exercise1B.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 18:26:29.776 +0000"
+			},
+		{
+				"message": "Execution Time 0:01:46 Exercise1B.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-14 18:26:29.788 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 18:24:43.208 +0000"
+}

@@ -1,0 +1,4 @@
+﻿2021-10-13 14:59:44.565 +0000	START		Running MasterScript.script
+2021-10-13 14:59:44.630 +0000	Log		C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/UdemyCourse/UdemyCourse.suite/Resources/Practice1.txt	4	on_masterscript	MasterScript.script
+2021-10-13 14:59:44.765 +0000	EndTestCase		(Duration:"0.193", Errors:"0", Exceptions:"0", StartTime:"2021-10-13 14:59:44 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-13 14:59:44.799 +0000	SUCCESS		Execution Time 0:00:00 MasterScript.script

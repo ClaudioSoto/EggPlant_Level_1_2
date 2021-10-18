@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 18:52:47.009 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 18:52:47.089 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.185\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 18:52:47 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 18:52:47.200 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 18:52:47.236 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 18:52:47.013 +0000"
+}

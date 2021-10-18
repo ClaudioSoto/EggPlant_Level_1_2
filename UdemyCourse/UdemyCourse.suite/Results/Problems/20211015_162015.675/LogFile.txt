@@ -1,0 +1,13 @@
+﻿2021-10-15 16:20:15.682 +0000	START		Running Problems.script
+2021-10-15 16:20:15.751 +0000	Log		[10,9,8,7,-1,5,4,3,2,1]	3	on_problems	Problems.script
+2021-10-15 16:20:15.778 +0000	Log		Sorted Array: [-1,1,2,3,4,5,7,8,9,10]	21	on_problems	Problems.script
+2021-10-15 16:20:15.802 +0000	moveto		at (960, 540)	24	on_problems	Problems.script
+2021-10-15 16:20:16.610 +0000	rightclick		at (960, 540)	25	on_problems	Problems.script
+2021-10-15 16:20:19.961 +0000	click	(TEXT:"Nuevo")	at (1012, 751)	26	on_problems	Problems.script
+2021-10-15 16:20:19.963 +0000	set		SEARCHRECTANGLE = [1206,414,1528,765]	27	on_problems	Problems.script
+2021-10-15 16:20:21.244 +0000	click	(TEXT:"Documento de texto")	at (1299, 683)	28	on_problems	Problems.script
+2021-10-15 16:20:22.589 +0000	typetext		EggplantPractice	29	on_problems	Problems.script
+2021-10-15 16:20:22.595 +0000	set		SEARCHRECTANGLE = [846,483,1059,622]	30	on_problems	Problems.script
+2021-10-15 16:20:44.459 +0000	Exception	(TEXT:"EggplantPractice")	No Text Found On Screen: "(TEXT:"EggplantPractice")". Text not found.	31	on_problems	Problems.script
+2021-10-15 16:20:44.627 +0000	EndTestCase		(Duration:"28.94", Errors:"1", Exceptions:"1", StartTime:"2021-10-15 16:20:15 +0000", Successes:"0", TestCase:"Problems.script", Warnings:"0")
+2021-10-15 16:20:44.638 +0000	ABORTED		Execution Time 0:00:28 Problems.script

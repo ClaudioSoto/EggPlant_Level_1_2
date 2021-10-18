@@ -1,0 +1,75 @@
+﻿(*SORT A 10 NUMBER LIST WITH NO BUIL IN FUNCTION*)
+set lista to [10,9,8,7,-1,5,4,3,2,1]
+log lista
+
+put the number of items of lista into len
+
+put 1 into interIndex
+
+Repeat len times
+	Repeat len-1 times
+		if item (interIndex) of lista is greater than item (interIndex + 1) of lista
+			put item (interIndex) of lista into temp
+			put item (interIndex + 1) of lista into item interIndex of lista
+			put temp into item (interIndex + 1) of lista
+		end if
+		put interIndex + 1 into interIndex
+	End repeat
+	put 1 into interIndex
+End repeat
+
+log "Sorted Array:" && lista
+
+(*CREATE TXT IN THE SUT AN ENTER TEXT THERE*)
+MoveTo RemoteScreenSize()/2
+RightClick RemoteScreenSize()/2
+Click text:"Nuevo", waitFor:10
+set the SearchRectangle to [1206,414,1528,765]
+Click text:"Documento de texto", waitFor:10
+TypeText "EggplantPractice" & returnKey
+set the SearchRectangle to [846,483,1059,622]
+DoubleClick text:"Eggplant", waitFor:10
+set the SearchRectangle to []
+wait 10
+Repeat 5 times
+	TypeText "claudio" & returnKey
+End repeat
+TypeText controlKey & "w"
+Click imageName:"GuardarButton", waitFor:10
+
+
+(*SCRIPT OF WIKIPEDIA*)
+DoubleClick imageName:"ChromeIcon", waitFor:20
+TypeText "https://en.wikipedia.org/wiki/Main_Page" & returnKey
+Click imageName:"SearchWikipediaBar", waitFor:20
+TypeText "iron man" & returnKey
+
+
+ScrollWheelDown 6
+
+Repeat until ImageFound(text:"In other media", waitFor:0)
+	ScrollWheelDown 4
+	wait 5
+End repeat
+
+Click text:"In other media"
+wait 5
+
+LogSuccess "TEST SUCCESSFUL"
+
+Click "ExitButton"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

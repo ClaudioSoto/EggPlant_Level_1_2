@@ -1,0 +1,34 @@
+﻿set the ScriptLogging to off
+//EXERCISE 1A
+//Exercise1A
+
+//wait 10
+
+//EXERCISE 1B
+//Exercise1B
+
+//EXERCISE 2A
+//Exercise2A
+
+//EXERCISE 3
+//RunWithNewResults "Exercise3FailedScript"
+//RunWithNewResults "Exercise3SuccessScript"
+
+//CALCULATE 12345 TIMES 67890 AND LOG THE RESULT
+(*
+BeginTestCase "Exersice3"
+BeginTimer()
+put 0 into result
+Repeat 12345 times
+	put (33945*2) into result
+End repeat
+log result
+log EndTimer()
+EndTestCase "Exersice3"
+*)
+
+//EXERCISE 4
+
+
+
+

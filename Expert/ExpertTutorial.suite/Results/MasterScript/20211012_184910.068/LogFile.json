@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 18:49:10.074 +0000"
+			},
+		{
+				"message": "(Duration:\"0.163\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 18:49:10 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 18:49:10.243 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Function: 'exercise3.a' -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 18:49:10.628 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 18:49:10.079 +0000"
+}

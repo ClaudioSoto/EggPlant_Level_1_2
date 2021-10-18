@@ -1,0 +1,29 @@
+﻿//EXERCISE 1
+//TEST FIND A PRODUCT AND ADD TO CART
+//Exercise1
+
+//EXERCISE 2
+//TEST TO GET THE PRICE TO REMOTE CLIPBOARD
+//Exercise2
+
+//EXERCISE 3
+//ADD VALUES PART A
+//put "Exercise3A" (5,5) into result
+//log "The add result is: " & result
+
+//TO HANDLER - PART B
+//Exercise3B.Welcome
+
+//ON HANLDER - PART B
+//put 10 into global total
+//Exercise3B.GlobalAdd 10
+
+//FUNCTION - PART B
+//put "Exercise3B".Division(10,5) into div
+//log div
+
+//EXERCISE 4
+//Exercise4
+
+//EXERCISE 5
+Exercise5

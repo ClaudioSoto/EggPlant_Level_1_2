@@ -1,0 +1,3 @@
+﻿//OPEN BROWSER
+DoubleClick imageName:"ChromeIcon", waitFor:10
+

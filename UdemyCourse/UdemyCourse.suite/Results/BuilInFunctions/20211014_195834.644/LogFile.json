@@ -1,0 +1,76 @@
+{
+	"entries": [
+		{
+				"message": "Running BuilInFunctions.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 19:58:34.648 +0000"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.723 +0000",
+				"message": "10 0 25 1",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.728 +0000",
+				"message": "100",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.731 +0000",
+				"message": "370",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.737 +0000",
+				"message": "6",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.743 +0000",
+				"message": "3.99",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.743 +0000",
+				"message": "[\"claudio\",\"sofia\",\"marcela\"]",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 27,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:34.750 +0000",
+				"message": "[\"claudio\",\"sofia\"]",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 29,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.206\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 19:58:34 +0000\", Successes:\"1\", TestCase:\"BuilInFunctions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 19:58:34.860 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 BuilInFunctions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 19:58:34.900 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 19:58:34.654 +0000"
+}

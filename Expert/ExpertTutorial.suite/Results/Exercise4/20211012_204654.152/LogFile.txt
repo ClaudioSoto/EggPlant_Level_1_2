@@ -1,0 +1,4 @@
+﻿2021-10-12 20:46:54.158 +0000	START		Running Exercise4.script
+2021-10-12 20:46:54.237 +0000	Log		Worksheet("in") of Workbook("C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx")	15	on_exercise4	Exercise4.script
+2021-10-12 20:46:54.348 +0000	EndTestCase		(Duration:"0.184", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 20:46:54 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 20:46:54.394 +0000	SUCCESS		Execution Time 0:00:00 Exercise4.script

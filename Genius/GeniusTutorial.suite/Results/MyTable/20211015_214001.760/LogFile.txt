@@ -1,0 +1,7 @@
+﻿2021-10-15 21:40:01.777 +0000	START		Running MyTable.table
+2021-10-15 21:40:01.836 +0000	connect		192.168.50.44:(null)
+2021-10-15 21:40:01.879 +0000	typetext		[windowsKey]r
+2021-10-15 21:40:02.837 +0000	typetext		chrome[returnKey]
+2021-10-15 21:40:04.164 +0000	typetext		www.eggplant.io[returnKey]
+2021-10-15 21:40:04.174 +0000	EndTestCase		(Duration:"2.387", Errors:"0", Exceptions:"0", StartTime:"2021-10-15 21:40:01 +0000", Successes:"1", TestCase:"MyTable.table", Warnings:"0")
+2021-10-15 21:40:04.234 +0000	SUCCESS		Execution Time 0:00:02 MyTable.table

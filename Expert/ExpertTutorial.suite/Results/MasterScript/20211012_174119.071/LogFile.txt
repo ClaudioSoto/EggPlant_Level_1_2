@@ -1,0 +1,6 @@
+﻿2021-10-12 17:41:19.077 +0000	START		Running MasterScript.script
+2021-10-12 17:41:19.455 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:41:21.539 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:41:21.547 +0000	set		SEARCHRECTANGLE = [611,263,753,316]	8	on_exercise2	Exercise2.script
+2021-10-12 17:42:10.246 +0000	EndTestCase		(Duration:"51.164", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 17:41:19 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 17:42:10.258 +0000	ABORTED		Execution Time 0:00:51 MasterScript.script

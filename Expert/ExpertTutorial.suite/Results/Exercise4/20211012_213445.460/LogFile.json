@@ -1,0 +1,164 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 21:34:45.471 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 21:34:45.794 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 21:34:49.476 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:05.107 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "found at (437, 114)",
+				"image": "TitleOfPage",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:05.107 +0000",
+				"message": "Randy me@you.com Hi everyone! Purple Laptop Breakfast",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:05.369 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (719, 179)",
+				"image": "FullName",
+				"handlerLine": 23,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:06.207 +0000",
+				"message": "Randy",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 24,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:07.094 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (740, 210)",
+				"image": "Email",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:08.063 +0000",
+				"message": "me@you.com",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 27,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:08.951 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (753, 284)",
+				"image": "Message",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:10.029 +0000",
+				"message": "Hi everyone!",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 30,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:10.043 +0000",
+				"message": "SEARCHRECTANGLE = [629,400,714,473]",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 32,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:11.019 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (672, 464)",
+				"image": "(TEXT:\"Purple\")",
+				"handlerLine": 33,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:11.035 +0000",
+				"message": "SEARCHRECTANGLE = [630,488,715,561]",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 35,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:11.994 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (673, 526)",
+				"image": "(TEXT:\"Laptop\")",
+				"handlerLine": 36,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:12.012 +0000",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 38,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:35:12.982 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (669, 584)",
+				"image": "SupperTime",
+				"handlerLine": 40,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_utils_closebrowser",
+				"timestamp": "2021-10-12 21:35:13.728 +0000",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Utils/CloseBrowser.script",
+				"handlerLine": 2,
+				"identifier": "keydown"
+			},
+		{
+				"message": "(Duration:\"28.423\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 21:34:45 +0000\", Successes:\"1\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 21:35:13.900 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:28 Exercise4.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 21:35:13.961 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 21:34:45.477 +0000"
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Exercise3FailedScript">
+ <run>
+  <RunDate>2021-10-18 14:38:21.453 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.022000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211018_143821.453/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in exercise3failedscript:
+Syntax Error at line 2: Syntax Error - can&#x27;t understand &quot;int&quot; at character 15</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-18 14:45:32.245 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211018_144532.245/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in exercise3failedscript:
+Syntax Error at line 2: Syntax Error - can&#x27;t understand &quot;int&quot; at character 15</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 21:02:25.679 +0000"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:02:25.762 +0000",
+				"message": "Purple",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:02:25.767 +0000",
+				"message": "Yellow",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:02:25.771 +0000",
+				"message": "Orange",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:02:25.776 +0000",
+				"message": "Yellow",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:02:25.781 +0000",
+				"message": "Green",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.211\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 21:02:25 +0000\", Successes:\"1\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 21:02:25.896 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 Exercise4.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 21:02:25.937 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 21:02:25.683 +0000"
+}

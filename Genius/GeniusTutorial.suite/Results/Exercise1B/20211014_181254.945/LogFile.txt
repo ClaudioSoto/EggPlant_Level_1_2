@@ -1,0 +1,11 @@
+﻿2021-10-14 18:12:54.951 +0000	START		Running Exercise1B.script
+2021-10-14 18:12:55.322 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 18:13:07.494 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 18:13:31.855 +0000	imagefound	SquaresB/Green	found at (67, 225)	4	on_exercise1b	Exercise1B.script
+2021-10-14 18:13:31.855 +0000	Log		FIGURA VERDE ENCONTRADA	5	on_exercise1b	Exercise1B.script
+2021-10-14 18:13:32.787 +0000	scrollwheeldown		moved 2	10	on_exercise1b	Exercise1B.script
+2021-10-14 18:13:32.911 +0000	imagefound	SquaresB/Green	found at (67, 107)	13	on_exercise1b	Exercise1B.script
+2021-10-14 18:13:33.024 +0000	imagefound	SquaresB/Purple	found at (227, 101)	19	on_exercise1b	Exercise1B.script
+2021-10-14 18:13:33.035 +0000	Log		Las bajadas fueron: 0	25	on_exercise1b	Exercise1B.script
+2021-10-14 18:13:33.298 +0000	EndTestCase		(Duration:"38.342", Errors:"0", Exceptions:"0", StartTime:"2021-10-14 18:12:54 +0000", Successes:"1", TestCase:"Exercise1B.script", Warnings:"0")
+2021-10-14 18:13:33.332 +0000	SUCCESS		Execution Time 0:00:38 Exercise1B.script

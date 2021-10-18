@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise4_script" package="ExpertTutorial.suite" timestamp="2021-10-12 21:37:20.233 +0000"
+ tests="1"  failures="1" errors="1" time="46.746000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 21:37:20.233 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Exercise4.script" assertions="1" status="error"  time="46.734">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;Submit&quot;  Restricted Search Rectangle ((626,593),(716,653))\n -- Execution Time 0:00:46 Exercise4.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Submit&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

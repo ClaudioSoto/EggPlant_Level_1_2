@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Exercise1A">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2021-10-14 15:40:20 +0000</FirstRun>
+  <LastRun>2021-10-14 17:56:32 +0000</LastRun>
+  <TotalTimeOnSuccess>157.113000</TotalTimeOnSuccess>
+ </script>
+ <script name="Exercise3FailedScript">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2021-10-18 14:38:21 +0000</FirstRun>
+  <LastRun>2021-10-18 14:45:32 +0000</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Exercise3SuccessScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-10-18 14:45:10 +0000</FirstRun>
+  <LastRun>2021-10-18 14:45:54 +0000</LastRun>
+  <TotalTimeOnSuccess>0.298000</TotalTimeOnSuccess>
+ </script>
+ <script name="MyTable">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-10-15 21:34:24 +0000</FirstRun>
+  <LastRun>2021-10-15 21:40:01 +0000</LastRun>
+  <TotalTimeOnSuccess>6.360000</TotalTimeOnSuccess>
+ </script>
+ <script name="Exercise1B">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-10-14 18:03:27 +0000</FirstRun>
+  <LastRun>2021-10-14 18:28:49 +0000</LastRun>
+  <TotalTimeOnSuccess>449.471000</TotalTimeOnSuccess>
+ </script>
+ <script name="MasterScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>33</NumberOfRuns>
+  <NumberOfFails>19</NumberOfFails>
+  <FirstRun>2021-10-14 18:00:39 +0000</FirstRun>
+  <LastRun>2021-10-18 15:03:11 +0000</LastRun>
+  <TotalTimeOnSuccess>279.760000</TotalTimeOnSuccess>
+ </script>
+</statistics>

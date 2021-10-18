@@ -1,0 +1,5 @@
+﻿2021-10-14 19:38:20.559 +0000	START		Running BuilInFunctions.script
+2021-10-14 19:38:20.626 +0000	Log		10 0 25 1	6	on_builinfunctions	BuilInFunctions.script
+2021-10-14 19:38:20.631 +0000	Log		100	10	on_builinfunctions	BuilInFunctions.script
+2021-10-14 19:38:20.723 +0000	EndTestCase		(Duration:"0.159", Errors:"0", Exceptions:"0", StartTime:"2021-10-14 19:38:20 +0000", Successes:"1", TestCase:"BuilInFunctions.script", Warnings:"0")
+2021-10-14 19:38:20.765 +0000	SUCCESS		Execution Time 0:00:00 BuilInFunctions.script

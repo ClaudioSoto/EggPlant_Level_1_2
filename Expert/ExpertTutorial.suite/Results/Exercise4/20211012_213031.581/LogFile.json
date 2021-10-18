@@ -1,0 +1,111 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 21:30:31.588 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 21:30:31.886 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 21:30:35.115 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:45.978 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "found at (437, 114)",
+				"image": "TitleOfPage",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:45.986 +0000",
+				"message": "Randy me@you.com Hi everyone! Purple Laptop Breakfast",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:46.376 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (719, 179)",
+				"image": "FullName",
+				"handlerLine": 23,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:47.310 +0000",
+				"message": "Randy",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 24,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:48.184 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (740, 210)",
+				"image": "Email",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:49.183 +0000",
+				"message": "me@you.com",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 27,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:50.088 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (753, 284)",
+				"image": "Message",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:30:51.153 +0000",
+				"message": "Hi everyone!",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 30,
+				"identifier": "typetext"
+			},
+		{
+				"message": "Too Many Parameters, please use searchrectangle() with no parameters\\n",
+				"identifier": "Exception",
+				"timestamp": "2021-10-12 21:30:51.166 +0000"
+			},
+		{
+				"message": "(Duration:\"19.807\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-12 21:30:31 +0000\", Successes:\"0\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 21:30:51.399 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: Exercise4 Error - Too Many Parameters, please use searchrectangle() with no parameters\\n -- Execution Time 0:00:19 Exercise4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 21:30:51.571 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 21:30:31.592 +0000"
+}

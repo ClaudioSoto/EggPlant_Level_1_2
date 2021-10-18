@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running BuilInFunctions.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 19:41:16.303 +0000"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:41:16.368 +0000",
+				"message": "10 0 25 1",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:41:16.375 +0000",
+				"message": "100",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.165\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-14 19:41:16 +0000\", Successes:\"0\", TestCase:\"BuilInFunctions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 19:41:16.474 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Function: 'avg' -- Execution Time 0:00:00 BuilInFunctions.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-14 19:41:16.885 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 19:41:16.308 +0000"
+}

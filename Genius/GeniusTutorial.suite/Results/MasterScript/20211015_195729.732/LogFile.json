@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 19:57:29.739 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 19:57:29.864 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/OpenBrowser.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 19:57:30.789 +0000",
+				"message": "chrome[returnKey]",
+				"scriptName": "Ejercicio2/OpenBrowser.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"1.609\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-15 19:57:29 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 19:57:31.349 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:01 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-15 19:57:31.446 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 19:57:29.739 +0000"
+}

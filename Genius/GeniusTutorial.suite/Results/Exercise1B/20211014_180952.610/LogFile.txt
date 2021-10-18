@@ -1,0 +1,4 @@
+﻿2021-10-14 18:09:52.619 +0000	START		Running Exercise1B.script
+2021-10-14 18:10:01.688 +0000	Exception	ChromeIcon	No Image Found On Screen: "ChromeIcon"	2	on_openbrowser	Utils/Functions.script
+2021-10-14 18:10:01.843 +0000	EndTestCase		(Duration:"9.222", Errors:"1", Exceptions:"1", StartTime:"2021-10-14 18:09:52 +0000", Successes:"0", TestCase:"Exercise1B.script", Warnings:"0")
+2021-10-14 18:10:01.869 +0000	ABORTED		Execution Time 0:00:09 Exercise1B.script

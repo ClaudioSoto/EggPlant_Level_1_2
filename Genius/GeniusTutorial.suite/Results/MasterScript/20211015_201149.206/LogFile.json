@@ -1,0 +1,137 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 20:11:49.210 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:11:49.326 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:11:50.275 +0000",
+				"message": "chrome[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:11:51.046 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:11:53.951 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:13.135 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "found at (228, 226)",
+				"image": "Squares/PurpleSquare.png",
+				"handlerLine": 12,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:13.901 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:14.612 +0000",
+				"message": "moved 5",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 14,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:19.735 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:19.735 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 19,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:22.842 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 26,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:22.850 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 19,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:25.976 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable to Find Image SquaresB/Purple",
+				"image": "SquaresB/Purple",
+				"handlerLine": 26,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:25.981 +0000",
+				"message": "moved 2",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 19,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:12:28.996 +0000",
+				"message": "Too much scroll down",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 23,
+				"identifier": "LogError"
+			},
+		{
+				"message": "(Duration:\"40.054\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-15 20:11:49 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 20:12:29.264 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Script Error: Number of Errors logged: 1 -- Execution Time 0:00:40 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-15 20:12:29.408 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 20:11:49.210 +0000"
+}

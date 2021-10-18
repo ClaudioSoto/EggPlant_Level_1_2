@@ -1,0 +1,4 @@
+﻿2021-10-11 22:50:43.857 +0000	START		Running MasterScript.script
+2021-10-11 22:50:43.911 +0000	Exception		Remote Connection Unavailable	1	on_masterscript	MasterScript.script
+2021-10-11 22:50:43.976 +0000	EndTestCase		(Duration:"0.114", Errors:"1", Exceptions:"1", StartTime:"2021-10-11 22:50:43 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-11 22:50:44.004 +0000	FAILURE		No Remote Connection: doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:00 MasterScript.script

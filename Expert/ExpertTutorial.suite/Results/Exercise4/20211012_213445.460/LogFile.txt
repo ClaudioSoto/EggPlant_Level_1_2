@@ -1,0 +1,20 @@
+﻿2021-10-12 21:34:45.471 +0000	START		Running Exercise4.script
+2021-10-12 21:34:45.794 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:34:49.476 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:35:05.107 +0000	waitfor	TitleOfPage	found at (437, 114)	11	on_exercise4	Exercise4.script
+2021-10-12 21:35:05.107 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	21	on_exercise4	Exercise4.script
+2021-10-12 21:35:05.369 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:35:06.207 +0000	typetext		Randy	24	on_exercise4	Exercise4.script
+2021-10-12 21:35:07.094 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:35:08.063 +0000	typetext		me@you.com	27	on_exercise4	Exercise4.script
+2021-10-12 21:35:08.951 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:35:10.029 +0000	typetext		Hi everyone!	30	on_exercise4	Exercise4.script
+2021-10-12 21:35:10.043 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:35:11.019 +0000	click	(TEXT:"Purple")	at (672, 464)	33	on_exercise4	Exercise4.script
+2021-10-12 21:35:11.035 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	35	on_exercise4	Exercise4.script
+2021-10-12 21:35:11.994 +0000	click	(TEXT:"Laptop")	at (673, 526)	36	on_exercise4	Exercise4.script
+2021-10-12 21:35:12.012 +0000	set		SEARCHRECTANGLE = []	38	on_exercise4	Exercise4.script
+2021-10-12 21:35:12.982 +0000	click	SupperTime	at (669, 584)	40	on_exercise4	Exercise4.script
+2021-10-12 21:35:13.728 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-12 21:35:13.900 +0000	EndTestCase		(Duration:"28.423", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 21:34:45 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:35:13.961 +0000	SUCCESS		Execution Time 0:00:28 Exercise4.script

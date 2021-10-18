@@ -1,0 +1,24 @@
+﻿2021-10-12 16:45:52.771 +0000	START		Running MasterScript.script
+2021-10-12 16:45:53.070 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_exercise1	Exercise1.script
+2021-10-12 16:45:55.170 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_exercise1	Exercise1.script
+2021-10-12 16:45:55.904 +0000	moveto		at (960, 540)	6	on_exercise1	Exercise1.script
+2021-10-12 16:45:56.639 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	7	on_exercise1	Exercise1.script
+2021-10-12 16:45:56.778 +0000	scrollwheeldown		moved 2	8	on_exercise1	Exercise1.script
+2021-10-12 16:46:02.105 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	10	on_exercise1	Exercise1.script
+2021-10-12 16:46:02.138 +0000	scrollwheeldown		moved 2	8	on_exercise1	Exercise1.script
+2021-10-12 16:46:07.405 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	10	on_exercise1	Exercise1.script
+2021-10-12 16:46:07.428 +0000	scrollwheeldown		moved 2	8	on_exercise1	Exercise1.script
+2021-10-12 16:46:12.633 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	10	on_exercise1	Exercise1.script
+2021-10-12 16:46:12.638 +0000	scrollwheeldown		moved 2	8	on_exercise1	Exercise1.script
+2021-10-12 16:46:17.883 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	10	on_exercise1	Exercise1.script
+2021-10-12 16:46:17.927 +0000	scrollwheeldown		moved 2	8	on_exercise1	Exercise1.script
+2021-10-12 16:46:23.173 +0000	imagefound	HTCProduct	found at (1402, 929)	10	on_exercise1	Exercise1.script
+2021-10-12 16:46:23.455 +0000	click	HTCProduct	at (1402, 929)	13	on_exercise1	Exercise1.script
+2021-10-12 16:46:24.484 +0000	waitfor	AddToCartIcon.png	found at (1047, 730)	16	on_exercise1	Exercise1.script
+2021-10-12 16:46:24.703 +0000	click	AddToCartIcon	at (1047, 730)	17	on_exercise1	Exercise1.script
+2021-10-12 16:46:39.924 +0000	doubleclick	CartIcon	at (1473, 90)	21	on_exercise1	Exercise1.script
+2021-10-12 16:46:41.407 +0000	imagefound	HTCProductInCart	found at (687, 513)	24	on_exercise1	Exercise1.script
+2021-10-12 16:46:41.411 +0000	LogSuccess		Test passed	25	on_exercise1	Exercise1.script
+2021-10-12 16:46:41.699 +0000	keydown		[windowsAltKey][F4]	31	on_exercise1	Exercise1.script
+2021-10-12 16:46:41.801 +0000	EndTestCase		(Duration:"49.025", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 16:45:52 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 16:46:41.831 +0000	SUCCESS		Execution Time 0:00:49 MasterScript.script

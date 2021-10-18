@@ -1,0 +1,68 @@
+{
+	"entries": [
+		{
+				"message": "Running BuilInFunctions.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 19:58:11.088 +0000"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:11.166 +0000",
+				"message": "10 0 25 1",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:11.166 +0000",
+				"message": "100",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:11.172 +0000",
+				"message": "370",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:11.180 +0000",
+				"message": "6",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:11.185 +0000",
+				"message": "3.99",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 22,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:58:11.189 +0000",
+				"message": "[\"claudio\",\"sofia\",\"marcela\"]",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 27,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.209\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 19:58:11 +0000\", Successes:\"1\", TestCase:\"BuilInFunctions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 19:58:11.297 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 BuilInFunctions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 19:58:11.342 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 19:58:11.088 +0000"
+}

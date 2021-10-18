@@ -1,0 +1,27 @@
+﻿2021-10-12 17:22:22.626 +0000	START		Running MasterScript.script
+2021-10-12 17:22:22.949 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:22:25.009 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:22:25.739 +0000	moveto		at (960, 540)	8	on_exercise1	Exercise1.script
+2021-10-12 17:22:26.247 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	9	on_exercise1	Exercise1.script
+2021-10-12 17:22:26.454 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:22:31.780 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:22:31.804 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:22:37.120 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:22:37.164 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:22:42.433 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:22:42.470 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:22:47.704 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:22:47.714 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:22:52.942 +0000	imagefound	HTCProduct	found at (1402, 829)	12	on_exercise1	Exercise1.script
+2021-10-12 17:22:53.234 +0000	click	HTCProduct	at (1402, 829)	15	on_exercise1	Exercise1.script
+2021-10-12 17:22:53.375 +0000	waitfor	AddToCartIcon.png	found at (448, 972)	18	on_exercise1	Exercise1.script
+2021-10-12 17:22:54.270 +0000	click	AddToCartIcon	at (448, 972)	19	on_exercise1	Exercise1.script
+2021-10-12 17:23:09.481 +0000	doubleclick	CartIcon	at (1473, 90)	23	on_exercise1	Exercise1.script
+2021-10-12 17:23:10.507 +0000	imagefound	HTCProductInCart	found at (695, 513)	26	on_exercise1	Exercise1.script
+2021-10-12 17:23:10.513 +0000	LogSuccess		Test passed	27	on_exercise1	Exercise1.script
+2021-10-12 17:23:10.706 +0000	keydown		[windowsAltKey][F4]	33	on_exercise1	Exercise1.script
+2021-10-12 17:23:16.078 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:23:18.121 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:24:16.494 +0000	Exception		Searching For Image: OCR Error: Operation was aborted	8	on_exercise2	Exercise2.script
+2021-10-12 17:24:16.945 +0000	EndTestCase		(Duration:"114.314", Errors:"1", Exceptions:"1", StartTime:"2021-10-12 17:22:22 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 17:24:16.956 +0000	ABORTED		Execution Time 0:01:54 MasterScript.script

@@ -1,0 +1,138 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise2.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 18:02:18.328 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 18:02:18.745 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 18:02:20.722 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:20.729 +0000",
+				"message": "SEARCHRECTANGLE = [437,245,1477,325]",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 8,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:24.390 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "at (675, 286)",
+				"image": "(TEXT:\"Electronics\")",
+				"handlerLine": 9,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:24.399 +0000",
+				"message": "SEARCHRECTANGLE = [623,303,818,426]",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 12,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:25.580 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "at (702, 331)",
+				"image": "(TEXT:\"Camera & photo\")",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:25.590 +0000",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 16,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:26.307 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 19,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:30.910 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "Unable to Find Image (TEXT:\"Apple iCAM\"). Text not found.",
+				"image": "(TEXT:\"Apple iCAM\")",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:31.573 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 21,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:41.078 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "found at (1025, 846)",
+				"image": "(TEXT:\"Apple iCAM\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:46.708 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "at (1017, 924)",
+				"image": "(TEXT:\"$1,300.00\")",
+				"handlerLine": 26,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:47.516 +0000",
+				"message": "[controlKey]c",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 29,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 18:02:47.826 +0000",
+				"message": "The value is: 1,300.00",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 34,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"29.618\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 18:02:18 +0000\", Successes:\"1\", TestCase:\"Exercise2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 18:02:47.952 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:29 Exercise2.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 18:02:47.990 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 18:02:18.333 +0000"
+}

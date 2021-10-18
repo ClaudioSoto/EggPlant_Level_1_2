@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1634161560.3940001,
+	"lastfoundlocation": [
+		143,
+		34,
+		70,
+		30
+	],
+	"originalcapturelocation": [
+		174,
+		34,
+		70,
+		30
+	],
+	"createddate": 1634161560.3940001,
+	"lastfounddate": 1634161679.934,
+	"testlocationdata": [
+		{
+				"name": "NavBarChrome.png",
+				"type": 1,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,15]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"capturerect": [
+					174,
+					34,
+					70,
+					30
+				]
+			}
+	],
+	"name": "NavBarChrome"
+}

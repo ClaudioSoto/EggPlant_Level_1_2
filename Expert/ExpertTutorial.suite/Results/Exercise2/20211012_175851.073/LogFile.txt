@@ -1,0 +1,32 @@
+﻿2021-10-12 17:58:51.079 +0000	START		Running Exercise2.script
+2021-10-12 17:58:51.474 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:58:53.356 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:58:53.366 +0000	set		SEARCHRECTANGLE = [437,245,1477,325]	8	on_exercise2	Exercise2.script
+2021-10-12 17:58:58.075 +0000	moveto	(TEXT:"Electronics")	at (675, 286)	9	on_exercise2	Exercise2.script
+2021-10-12 17:58:58.083 +0000	set		SEARCHRECTANGLE = [623,303,818,426]	12	on_exercise2	Exercise2.script
+2021-10-12 17:59:04.274 +0000	click	(TEXT:"Camera & photo")	at (702, 331)	13	on_exercise2	Exercise2.script
+2021-10-12 17:59:04.994 +0000	moveto		at (960, 540)	16	on_exercise2	Exercise2.script
+2021-10-12 17:59:05.060 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	17	on_exercise2	Exercise2.script
+2021-10-12 17:59:05.705 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:10.796 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:10.814 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:15.925 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:15.931 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:21.110 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:21.116 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:26.376 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:26.382 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:31.433 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:31.439 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:36.481 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:36.487 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:41.533 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:41.538 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:46.578 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:46.583 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:51.642 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:51.647 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:56.783 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 17:59:56.789 +0000	scrollwheeldown		moved 2	18	on_exercise2	Exercise2.script
+2021-10-12 17:59:58.306 +0000	EndTestCase		(Duration:"67.222", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 17:58:51 +0000", Successes:"0", TestCase:"Exercise2.script", Warnings:"0")
+2021-10-12 17:59:58.319 +0000	ABORTED		Execution Time 0:01:07 Exercise2.script

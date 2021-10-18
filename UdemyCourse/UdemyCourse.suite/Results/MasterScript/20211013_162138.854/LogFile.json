@@ -1,0 +1,100 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 16:21:38.859 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.937 +0000",
+				"message": "Hello world my friends",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.946 +0000",
+				"message": "This is an example",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.951 +0000",
+				"message": "Of reading from a file",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.952 +0000",
+				"message": "Using eggplant to do it",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.959 +0000",
+				"message": "Claudio is the best engineer",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.959 +0000",
+				"message": "Claudio is the best engineer",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.969 +0000",
+				"message": "This is an example",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.977 +0000",
+				"message": "[\"This\",\"is\",\"an\",\"example\"]",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.977 +0000",
+				"message": "example",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:21:38.989 +0000",
+				"message": "Hello world my friends\\nThis is an example\\nOf reading from a file\\nUsing eggplant to do itClaudio is the best engineer\\nClaudio is the best engineer",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 20,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.275\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-13 16:21:38 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 16:21:39.138 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-13 16:21:39.173 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 16:21:38.863 +0000"
+}

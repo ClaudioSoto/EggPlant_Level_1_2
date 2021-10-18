@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="ExpertTutorial.suite" timestamp="2021-10-11 22:42:06.774 +0000"
+ tests="1"  failures="0" errors="0" time="15.386000">
+  <properties>
+   <property name="RunDate" value="2021-10-11 22:42:06.774 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="error"  time="15.375">
+    <error type="Exception" message="No Image Found On Screen: &quot;ChromeIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

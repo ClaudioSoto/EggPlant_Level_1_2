@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise4_script" package="ExpertTutorial.suite" timestamp="2021-10-12 20:54:21.314 +0000"
+ tests="1"  failures="1" errors="0" time="0.195000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 20:54:21.314 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Exercise4.script" assertions="1" status="failure"  time="0.184">
+    <failure type="FAILURE" message="Workbook Error: Error loading workbook C:/Users/claudio.sotoayala/Documents/ResponsiveList.xlsx: No such file or directory. -- Execution Time 0:00:00 Exercise4.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

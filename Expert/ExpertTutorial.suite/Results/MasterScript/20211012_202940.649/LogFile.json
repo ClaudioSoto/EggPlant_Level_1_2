@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 20:29:40.655 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 20:29:40.958 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 20:29:44.001 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3.463\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 20:29:40 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 20:29:44.123 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:03 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 20:29:44.165 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 20:29:40.659 +0000"
+}

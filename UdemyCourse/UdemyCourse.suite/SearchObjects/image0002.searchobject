@@ -1,0 +1,33 @@
+{
+	"lastmodifieddate": 1634161576.2290001,
+	"originalcapturelocation": [
+		1022,
+		498,
+		70,
+		30
+	],
+	"createddate": 1634161562.457,
+	"testlocationdata": [
+		{
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,15]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"type": 1,
+				"capturerect": [
+					1022,
+					498,
+					70,
+					30
+				],
+				"name": "image0002.png"
+			}
+	],
+	"name": "image0002"
+}

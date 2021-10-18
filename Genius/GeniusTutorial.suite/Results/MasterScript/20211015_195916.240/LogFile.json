@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 19:59:16.245 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 19:59:16.384 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 19:59:17.321 +0000",
+				"message": "chrome[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 19:59:18.357 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 19:59:19.580 +0000",
+				"message": "www.facebook.com[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3.591\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-15 19:59:16 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 19:59:19.836 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:03 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-15 19:59:19.873 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 19:59:16.245 +0000"
+}

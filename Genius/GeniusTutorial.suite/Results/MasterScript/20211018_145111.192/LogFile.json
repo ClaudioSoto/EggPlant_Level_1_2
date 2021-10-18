@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-18 14:51:11.192 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-18 14:51:11.596 +0000",
+				"message": "67890",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 23,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-18 14:51:11.604 +0000",
+				"message": "0.343 seconds",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 24,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.636\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-18 14:51:11 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-18 14:51:11.828 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-18 14:51:11.868 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-18 14:51:11.192 +0000"
+}

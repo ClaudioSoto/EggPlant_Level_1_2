@@ -1,0 +1,103 @@
+{
+	"entries": [
+		{
+				"message": "Running Problems.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 16:20:56.196 +0000"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:56.279 +0000",
+				"message": "[10,9,8,7,-1,5,4,3,2,1]",
+				"scriptName": "Problems.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:56.305 +0000",
+				"message": "Sorted Array: [-1,1,2,3,4,5,7,8,9,10]",
+				"scriptName": "Problems.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:56.324 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Problems.script",
+				"handlerLine": 24,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:20:57.134 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Problems.script",
+				"handlerLine": 25,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:21:00.894 +0000",
+				"scriptName": "Problems.script",
+				"message": "at (1012, 751)",
+				"image": "(TEXT:\"Nuevo\")",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:21:00.902 +0000",
+				"message": "SEARCHRECTANGLE = [1206,414,1528,765]",
+				"scriptName": "Problems.script",
+				"handlerLine": 27,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:21:02.166 +0000",
+				"scriptName": "Problems.script",
+				"message": "at (1299, 683)",
+				"image": "(TEXT:\"Documento de texto\")",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:21:03.433 +0000",
+				"message": "EggplantPractice",
+				"scriptName": "Problems.script",
+				"handlerLine": 29,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:21:03.438 +0000",
+				"message": "SEARCHRECTANGLE = [846,483,1059,622]",
+				"scriptName": "Problems.script",
+				"handlerLine": 30,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:21:04.411 +0000",
+				"scriptName": "Problems.script",
+				"message": "at (939, 555)",
+				"image": "(TEXT:\"Eggplant\")",
+				"handlerLine": 31,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"8.329\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-15 16:20:56 +0000\", Successes:\"1\", TestCase:\"Problems.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 16:21:04.531 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:08 Problems.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-15 16:21:04.573 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 16:20:56.200 +0000"
+}

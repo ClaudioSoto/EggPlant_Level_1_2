@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Problems_script" package="UdemyCourse.suite" timestamp="2021-10-15 18:01:11.868 +0000"
+ tests="1"  failures="0" errors="0" time="2.397000">
+  <properties>
+   <property name="RunDate" value="2021-10-15 18:01:11.868 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Problems.script" assertions="1" status="error"  time="2.392">
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 18:59:54.646 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 18:59:54.733 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_welcome",
+				"timestamp": "2021-10-12 18:59:54.741 +0000",
+				"message": "Welcome to Sense Talk",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.248\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 18:59:54 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 18:59:54.900 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STInvalidNumber: Value is not a number: 'total' -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 18:59:55.271 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 18:59:54.651 +0000"
+}

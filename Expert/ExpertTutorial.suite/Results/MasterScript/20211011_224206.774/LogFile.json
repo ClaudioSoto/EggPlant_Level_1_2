@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-11 22:42:06.780 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:42:22.017 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "No Image Found On Screen: \"ChromeIcon\"",
+				"image": "ChromeIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"15.375\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-11 22:42:06 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-11 22:42:22.160 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:15 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-11 22:42:22.174 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-11 22:42:06.785 +0000"
+}

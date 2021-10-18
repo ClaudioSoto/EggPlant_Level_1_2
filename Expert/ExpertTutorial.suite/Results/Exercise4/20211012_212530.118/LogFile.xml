@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise4_script" package="ExpertTutorial.suite" timestamp="2021-10-12 21:25:30.118 +0000"
+ tests="1"  failures="1" errors="1" time="27.274000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 21:25:30.118 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Exercise4.script" assertions="1" status="error"  time="27.262">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;FullName&quot; -- Execution Time 0:00:27 Exercise4.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;FullName&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,2 @@
+﻿//SUCCESS SCRIPT WITH LOG MESSAGE
+LogSuccess "Test case -> passed"

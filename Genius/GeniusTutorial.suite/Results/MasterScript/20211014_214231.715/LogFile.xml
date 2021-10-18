@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="GeniusTutorial.suite" timestamp="2021-10-14 21:42:31.715 +0000"
+ tests="1"  failures="0" errors="0" time="56.719000">
+  <properties>
+   <property name="RunDate" value="2021-10-14 21:42:31.715 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="error"  time="56.707">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;Squares/GreenSquare&quot; within 25.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

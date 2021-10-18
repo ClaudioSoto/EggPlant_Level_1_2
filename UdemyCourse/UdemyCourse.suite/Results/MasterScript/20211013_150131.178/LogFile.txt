@@ -1,0 +1,7 @@
+﻿2021-10-13 15:01:31.190 +0000	START		Running MasterScript.script
+2021-10-13 15:01:34.168 +0000	Log		Hello world my friends	4	on_masterscript	MasterScript.script
+2021-10-13 15:01:35.529 +0000	Log		This is an example	4	on_masterscript	MasterScript.script
+2021-10-13 15:01:36.735 +0000	Log		Of reading from a file	4	on_masterscript	MasterScript.script
+2021-10-13 15:01:37.819 +0000	Log		Using eggplant to do it	4	on_masterscript	MasterScript.script
+2021-10-13 15:01:39.227 +0000	EndTestCase		(Duration:"8.036", Errors:"0", Exceptions:"0", StartTime:"2021-10-13 15:01:31 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-13 15:01:39.262 +0000	SUCCESS		Execution Time 0:00:08 MasterScript.script

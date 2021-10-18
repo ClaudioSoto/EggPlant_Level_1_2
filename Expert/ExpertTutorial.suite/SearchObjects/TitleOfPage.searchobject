@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		292,
+		100,
+		291,
+		28
+	],
+	"lastmodifieddate": 1634154174.674,
+	"createddate": 1634073988.878,
+	"name": "TitleOfPage",
+	"lastfounddate": 1634075447.0279999,
+	"ocrcapturestring": "Eggplant Responsive Form",
+	"lastfoundlocation": [
+		292,
+		100,
+		291,
+		28
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[145,14]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "TitleOfPage.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					292,
+					100,
+					291,
+					28
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Eggplant Responsive Form"
+			}
+	]
+}

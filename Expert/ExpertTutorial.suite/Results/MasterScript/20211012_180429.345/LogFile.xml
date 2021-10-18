@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="ExpertTutorial.suite" timestamp="2021-10-12 18:04:29.345 +0000"
+ tests="1"  failures="0" errors="0" time="99.336000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 18:04:29.345 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="2" status="error"  time="99.324">
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;Electronics&quot;)&quot;. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,30 @@
+﻿put (5*5) into mult
+put (5+5) into sum
+put (5-5) into rest
+put (5/5) into div
+
+log sum && rest && mult && div
+
+//abs 
+put abs(100) into absVar
+log absVar
+
+//average
+put average(10,100,1000) into avgVar
+log avgVar
+
+//trunc
+put trunc(6.9) into truncVar
+log truncVar
+
+//format
+put 3.99123 into float
+log format("%3.2f",float)
+
+//append y pop
+put ["claudio","sofia"] into nombres
+push "marcela" after nombres 
+log nombres
+pop item -1 of nombres
+log nombres
+log nombres joined by ":"

@@ -1,0 +1,20 @@
+﻿2021-10-14 17:47:27.418 +0000	START		Running Exercise1.script
+2021-10-14 17:47:27.748 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 17:47:39.414 +0000	typetext		http://epftraining.eggplantsoftware.com/information_list.html[returnKey]	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 17:47:49.430 +0000	Log		Claudio	7	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.439 +0000	Log		Claudio 25	8	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.452 +0000	Log		Mi nombre es Claudio y mi edad es 25	9	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.462 +0000	Log		azul	12	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.471 +0000	Log		rojo	15	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.480 +0000	Log		azul	15	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.490 +0000	Log		negro	15	on_exercise1	Exercise1.script
+2021-10-14 17:47:49.499 +0000	Log		morado	15	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.433 +0000	waitfor	Squares/GreenSquare	found at (69, 226)	18	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.651 +0000	readtext		(69,226,189,302)	20	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.651 +0000	Log		John Doe	21	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.651 +0000	set		SEARCHRECTANGLE = [80,388,131,424]	23	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.740 +0000	readtext		(80,388,131,424)	24	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.741 +0000	Log		40	25	on_exercise1	Exercise1.script
+2021-10-14 17:48:01.749 +0000	Log		65	27	on_exercise1	Exercise1.script
+2021-10-14 17:49:11.197 +0000	EndTestCase		(Duration:"103.765", Errors:"1", Exceptions:"0", StartTime:"2021-10-14 17:47:27 +0000", Successes:"0", TestCase:"Exercise1.script", Warnings:"0")
+2021-10-14 17:49:11.210 +0000	ABORTED		Execution Time 0:01:43 Exercise1.script

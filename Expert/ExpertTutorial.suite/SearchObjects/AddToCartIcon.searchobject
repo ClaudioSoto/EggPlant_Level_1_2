@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		993,
+		715,
+		108,
+		31
+	],
+	"lastmodifieddate": 1633991329.4660001,
+	"createddate": 1633991329.4660001,
+	"name": "AddToCartIcon",
+	"lastfounddate": 1634061906.0669999,
+	"ocrcapturestring": "ADD TO CART",
+	"lastfoundlocation": [
+		394,
+		757,
+		108,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[54,15]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "AddToCartIcon.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					993,
+					715,
+					108,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "ADD TO CART"
+			}
+	]
+}

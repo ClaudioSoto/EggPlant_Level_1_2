@@ -1,0 +1,5 @@
+﻿2021-10-12 19:18:51.762 +0000	START		Running MasterScript.script
+2021-10-12 19:18:51.849 +0000	Log		The add result is: 10	9	on_masterscript	MasterScript.script
+2021-10-12 19:18:51.858 +0000	Log		Welcome to Sense Talk	2	on_welcome	Exercise3B.script
+2021-10-12 19:18:55.962 +0000	EndTestCase		(Duration:"4.196", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 19:18:51 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 19:18:56.341 +0000	FAILURE	Screen_Error.png	SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and/or lists; got 'result' and '20' -- Execution Time 0:00:04 MasterScript.script

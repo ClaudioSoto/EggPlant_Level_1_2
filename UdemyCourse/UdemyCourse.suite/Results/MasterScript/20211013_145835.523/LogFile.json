@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 14:58:35.532 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 14:58:35.595 +0000",
+				"message": "C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/UdemyCourse/UdemyCourse.suite/Resources/Practice1.txt",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.194\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-13 14:58:35 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 14:58:35.730 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-13 14:58:35.781 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 14:58:35.536 +0000"
+}

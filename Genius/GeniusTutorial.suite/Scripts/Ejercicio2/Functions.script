@@ -1,0 +1,12 @@
+﻿to handle OpenBrowser with browserName
+	TypeText windowsKey & r
+	TypeText browserName & returnKey
+end OpenBrowser
+
+to handle EnterURL with URL
+	TypeText URL & returnKey
+end EnterURL
+
+to handle CloseBrowser
+	TypeText controlKey & f4
+end CloseBrowser

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Problems_script" package="UdemyCourse.suite" timestamp="2021-10-15 16:20:15.675 +0000"
+ tests="1"  failures="0" errors="0" time="28.950000">
+  <properties>
+   <property name="RunDate" value="2021-10-15 16:20:15.675 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Problems.script" assertions="1" status="error"  time="28.94">
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;EggplantPractice&quot;)&quot;. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

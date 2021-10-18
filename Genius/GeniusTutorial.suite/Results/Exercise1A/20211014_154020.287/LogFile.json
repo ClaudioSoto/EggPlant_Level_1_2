@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 15:40:20.287 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 15:40:20.737 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"0.701\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 15:40:20 +0000\", Successes:\"1\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 15:40:21.004 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 Exercise1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 15:40:21.073 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 15:40:20.303 +0000"
+}

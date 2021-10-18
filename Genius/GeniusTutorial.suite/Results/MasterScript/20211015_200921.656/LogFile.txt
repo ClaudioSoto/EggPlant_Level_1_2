@@ -1,0 +1,12 @@
+﻿2021-10-15 20:09:21.663 +0000	START		Running MasterScript.script
+2021-10-15 20:09:21.784 +0000	typetext		[windowsKey]r	2	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:09:22.707 +0000	typetext		chrome[returnKey]	3	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:09:23.489 +0000	typetext		[windowsKey]r	2	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:09:25.852 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:09:32.642 +0000	waitfor	Squares/PurpleSquare.png	found at (228, 226)	12	on_masterscript	MasterScript.script
+2021-10-15 20:09:33.143 +0000	click		at (960, 540)	13	on_masterscript	MasterScript.script
+2021-10-15 20:09:33.852 +0000	scrollwheeldown		moved 5	14	on_masterscript	MasterScript.script
+2021-10-15 20:09:38.944 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	18	on_masterscript	MasterScript.script
+2021-10-15 20:09:38.949 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:09:42.220 +0000	EndTestCase		(Duration:"20.55", Errors:"1", Exceptions:"0", StartTime:"2021-10-15 20:09:21 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-15 20:09:42.386 +0000	FAILURE	Screen_Error.png	STInvalidNumber: Value is not a number: 'count' -- Execution Time 0:00:20 MasterScript.script

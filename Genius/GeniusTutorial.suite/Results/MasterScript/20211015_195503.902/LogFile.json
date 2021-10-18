@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 19:55:03.909 +0000"
+			},
+		{
+				"message": "(Duration:\"0.285\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-15 19:55:03 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 19:55:04.199 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'. -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-15 19:55:04.606 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 19:55:03.913 +0000"
+}

@@ -1,0 +1,31 @@
+﻿2021-10-15 20:10:19.585 +0000	START		Running MasterScript.script
+2021-10-15 20:10:19.710 +0000	typetext		[windowsKey]r	2	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:10:20.627 +0000	typetext		chrome[returnKey]	3	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:10:21.587 +0000	typetext		[windowsKey]r	2	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:10:23.851 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:10:42.091 +0000	waitfor	Squares/PurpleSquare.png	found at (228, 226)	12	on_masterscript	MasterScript.script
+2021-10-15 20:10:42.699 +0000	click		at (960, 540)	13	on_masterscript	MasterScript.script
+2021-10-15 20:10:43.405 +0000	scrollwheeldown		moved 5	14	on_masterscript	MasterScript.script
+2021-10-15 20:10:48.528 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	18	on_masterscript	MasterScript.script
+2021-10-15 20:10:48.528 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:10:51.647 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:10:51.647 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:10:54.769 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:10:54.777 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:10:57.868 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:10:57.876 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:00.966 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:00.972 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:04.071 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:04.079 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:07.217 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:07.224 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:10.330 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:10.330 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:13.452 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:13.452 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:16.560 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:16.560 +0000	scrollwheeldown		moved 2	19	on_masterscript	MasterScript.script
+2021-10-15 20:11:19.656 +0000	imagefound	SquaresB/Purple	found at (69, 840)	26	on_masterscript	MasterScript.script
+2021-10-15 20:11:19.959 +0000	EndTestCase		(Duration:"60.373", Errors:"0", Exceptions:"0", StartTime:"2021-10-15 20:10:19 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-15 20:11:20.017 +0000	SUCCESS		Execution Time 0:01:00 MasterScript.script

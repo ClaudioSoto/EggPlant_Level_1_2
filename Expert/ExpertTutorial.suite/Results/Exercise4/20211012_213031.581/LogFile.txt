@@ -1,0 +1,14 @@
+﻿2021-10-12 21:30:31.588 +0000	START		Running Exercise4.script
+2021-10-12 21:30:31.886 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:30:35.115 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:30:45.978 +0000	waitfor	TitleOfPage	found at (437, 114)	11	on_exercise4	Exercise4.script
+2021-10-12 21:30:45.986 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	21	on_exercise4	Exercise4.script
+2021-10-12 21:30:46.376 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:30:47.310 +0000	typetext		Randy	24	on_exercise4	Exercise4.script
+2021-10-12 21:30:48.184 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:30:49.183 +0000	typetext		me@you.com	27	on_exercise4	Exercise4.script
+2021-10-12 21:30:50.088 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:30:51.153 +0000	typetext		Hi everyone!	30	on_exercise4	Exercise4.script
+2021-10-12 21:30:51.166 +0000	Exception		Too Many Parameters, please use searchrectangle() with no parameters\n
+2021-10-12 21:30:51.399 +0000	EndTestCase		(Duration:"19.807", Errors:"1", Exceptions:"1", StartTime:"2021-10-12 21:30:31 +0000", Successes:"0", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:30:51.571 +0000	FAILURE	Screen_Error.png	Error Running Script Command: Exercise4 Error - Too Many Parameters, please use searchrectangle() with no parameters\n -- Execution Time 0:00:19 Exercise4.script

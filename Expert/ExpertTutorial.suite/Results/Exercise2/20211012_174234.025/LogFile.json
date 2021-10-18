@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise2.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:42:34.031 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 17:42:34.303 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 17:42:36.285 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:42:36.291 +0000",
+				"message": "SEARCHRECTANGLE = [437,245,1477,325]",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 8,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:42:45.700 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "at (675, 286)",
+				"image": "(TEXT:\"Electronics\")",
+				"handlerLine": 9,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:42:45.736 +0000",
+				"message": "SEARCHRECTANGLE = [623,303,818,426]",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 12,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:42:54.678 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "at (702, 331)",
+				"image": "(TEXT:\"Camera & photo\")",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"20.766\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 17:42:34 +0000\", Successes:\"1\", TestCase:\"Exercise2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:42:54.803 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:20 Exercise2.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 17:42:54.840 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:42:34.036 +0000"
+}

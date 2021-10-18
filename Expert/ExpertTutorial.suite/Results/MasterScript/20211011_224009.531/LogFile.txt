@@ -1,0 +1,56 @@
+﻿2021-10-11 22:40:09.540 +0000	START		Running MasterScript.script
+2021-10-11 22:40:09.823 +0000	doubleclick	ChromeIcon	at (189, 696)	1	on_masterscript	MasterScript.script
+2021-10-11 22:40:15.914 +0000	click	MaximizeIcon	at (958, 40)	2	on_masterscript	MasterScript.script
+2021-10-11 22:40:18.084 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_masterscript	MasterScript.script
+2021-10-11 22:40:18.805 +0000	moveto		at (960, 540)	6	on_masterscript	MasterScript.script
+2021-10-11 22:40:19.054 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	8	on_masterscript	MasterScript.script
+2021-10-11 22:40:19.527 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:21.728 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:21.793 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:24.122 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:24.161 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:26.464 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:26.464 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:28.757 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:28.805 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:31.085 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:31.085 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:33.371 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:33.371 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:35.695 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:35.742 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:37.966 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:37.993 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:40.271 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:40.291 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:42.610 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:42.931 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:45.253 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:45.254 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:47.627 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:47.632 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:49.913 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:49.921 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:52.235 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:52.242 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:54.532 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:54.536 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:56.921 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:56.927 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:40:59.225 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:40:59.229 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:01.508 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:01.509 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:03.802 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:03.805 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:06.078 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:06.081 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:08.386 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:08.392 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:10.677 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:10.684 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:12.966 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:12.974 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:41:15.114 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:41:15.225 +0000	EndTestCase		(Duration:"65.677", Errors:"1", Exceptions:"0", StartTime:"2021-10-11 22:40:09 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-11 22:41:15.240 +0000	ABORTED		Execution Time 0:01:05 MasterScript.script

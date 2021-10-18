@@ -1,0 +1,24 @@
+﻿2021-10-12 21:38:30.405 +0000	START		Running Exercise4.script
+2021-10-12 21:38:30.688 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:38:33.452 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:38:52.949 +0000	waitfor	TitleOfPage	found at (437, 114)	11	on_exercise4	Exercise4.script
+2021-10-12 21:38:52.952 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	21	on_exercise4	Exercise4.script
+2021-10-12 21:38:53.393 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:38:54.336 +0000	typetext		Randy	24	on_exercise4	Exercise4.script
+2021-10-12 21:38:55.291 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:38:56.262 +0000	typetext		me@you.com	27	on_exercise4	Exercise4.script
+2021-10-12 21:38:57.147 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:38:58.196 +0000	typetext		Hi everyone!	30	on_exercise4	Exercise4.script
+2021-10-12 21:38:58.214 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:38:59.236 +0000	click	(TEXT:"Purple")	at (672, 464)	33	on_exercise4	Exercise4.script
+2021-10-12 21:38:59.245 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	35	on_exercise4	Exercise4.script
+2021-10-12 21:39:00.132 +0000	click	(TEXT:"Laptop")	at (673, 526)	36	on_exercise4	Exercise4.script
+2021-10-12 21:39:00.133 +0000	set		SEARCHRECTANGLE = []	38	on_exercise4	Exercise4.script
+2021-10-12 21:39:01.110 +0000	click	SupperTime	at (669, 584)	40	on_exercise4	Exercise4.script
+2021-10-12 21:39:01.120 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	42	on_exercise4	Exercise4.script
+2021-10-12 21:39:01.976 +0000	click	(TEXT:"Breakfast")	at (661, 603)	43	on_exercise4	Exercise4.script
+2021-10-12 21:39:01.980 +0000	set		SEARCHRECTANGLE = []	45	on_exercise4	Exercise4.script
+2021-10-12 21:39:02.951 +0000	click	Submit	at (657, 619)	47	on_exercise4	Exercise4.script
+2021-10-12 21:39:03.694 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-12 21:39:03.882 +0000	EndTestCase		(Duration:"33.474", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 21:38:30 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:39:03.926 +0000	SUCCESS		Execution Time 0:00:33 Exercise4.script

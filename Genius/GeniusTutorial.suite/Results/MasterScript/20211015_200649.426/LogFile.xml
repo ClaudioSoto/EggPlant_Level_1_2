@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="GeniusTutorial.suite" timestamp="2021-10-15 20:06:49.426 +0000"
+ tests="1"  failures="1" errors="1" time="45.921000">
+  <properties>
+   <property name="RunDate" value="2021-10-15 20:06:49.426 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="error"  time="45.905">
+    <failure type="FAILURE" message="Image Not Found: waitfor Error - Unable To Find Any Image On Screen &quot;Squares/PurpleSquare.png&quot; within 20.00 seconds -- Execution Time 0:00:45 MasterScript.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;Squares/PurpleSquare.png&quot; within 20.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

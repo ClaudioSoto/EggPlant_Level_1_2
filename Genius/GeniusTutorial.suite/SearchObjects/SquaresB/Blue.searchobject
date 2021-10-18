@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		508,
+		191,
+		67,
+		67
+	],
+	"lastmodifieddate": 1634234511.8959999,
+	"createddate": 1634234511.8959999,
+	"name": "SquaresB/Blue",
+	"lastfounddate": 1634236328.177,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		34,
+		665,
+		67,
+		67
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,33]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "SquaresB/Blue.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					508,
+					191,
+					67,
+					67
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

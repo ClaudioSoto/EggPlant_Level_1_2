@@ -1,0 +1,38 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-10-12 20:35:48.142 +0000,"Success",0:00:00,0,0,0,"20211012_203548.142/LogFile.txt","","",1
+2021-10-12 20:36:11.063 +0000,"Failure",0:00:00,1,0,0,"20211012_203611.063/LogFile.txt","","STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn't be read using the defaultStringEncoding (UTF8)",0
+2021-10-12 20:37:42.797 +0000,"Failure",0:00:00,1,0,0,"20211012_203742.797/LogFile.txt","","STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn't be read using the defaultStringEncoding (UTF8)",0
+2021-10-12 20:40:14.681 +0000,"Failure",0:00:00,1,0,0,"20211012_204014.681/LogFile.txt","","STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn't be read using the defaultStringEncoding (UTF8)",0
+2021-10-12 20:41:46.828 +0000,"Failure",0:00:00,1,0,0,"20211012_204146.828/LogFile.txt","","STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn't be read using the defaultStringEncoding (ASCII)",0
+2021-10-12 20:42:03.125 +0000,"Failure",0:00:00,1,0,0,"20211012_204203.125/LogFile.txt","","STFileException -- File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn't be read using the defaultStringEncoding (Unicode)",0
+2021-10-12 20:44:14.140 +0000,"Success",0:00:00,0,0,0,"20211012_204414.140/LogFile.txt","","",1
+2021-10-12 20:46:54.152 +0000,"Success",0:00:00,0,0,0,"20211012_204654.152/LogFile.txt","","",1
+2021-10-12 20:47:14.015 +0000,"Failure",0:00:00,1,0,0,"20211012_204714.015/LogFile.txt","","Workbook Error -- Worksheet 2 doesn't exist",0
+2021-10-12 20:51:03.431 +0000,"Failure",0:00:00,1,0,0,"20211012_205103.431/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/claudio.sotoayala/Documents/{file:""C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx"", name:""file""}",0
+2021-10-12 20:51:46.233 +0000,"Failure",0:00:00,1,0,0,"20211012_205146.233/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/claudio.sotoayala/Documents/{file:""C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx"", name:""ExcelFile""}",0
+2021-10-12 20:52:11.223 +0000,"Failure",0:00:00,1,0,0,"20211012_205211.223/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/claudio.sotoayala/Documents/{file:""C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx"", name:""ExcelFile""}",0
+2021-10-12 20:52:32.625 +0000,"Failure",0:00:02,1,0,0,"20211012_205232.625/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/claudio.sotoayala/Documents/{file:""C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx"", name:""ExcelFile""}",0
+2021-10-12 20:54:21.314 +0000,"Failure",0:00:00,1,0,0,"20211012_205421.314/LogFile.txt","","Workbook Error -- Error loading workbook C:/Users/claudio.sotoayala/Documents/ResponsiveList.xlsx: No such file or directory.",0
+2021-10-12 20:54:29.963 +0000,"Failure",0:00:00,1,0,0,"20211012_205429.963/LogFile.txt","","Workbook Error -- Error loading workbook C:/Users/claudio.sotoayala/Documents/ResponsiveList.xlsx: No such file or directory.",0
+2021-10-12 20:56:38.621 +0000,"Success",0:00:00,0,0,0,"20211012_205638.621/LogFile.txt","","",1
+2021-10-12 20:57:51.650 +0000,"Success",0:00:00,0,0,0,"20211012_205751.650/LogFile.txt","","",1
+2021-10-12 20:59:57.119 +0000,"Success",0:00:00,0,0,0,"20211012_205957.119/LogFile.txt","","",1
+2021-10-12 21:00:26.567 +0000,"Success",0:00:00,0,0,0,"20211012_210026.567/LogFile.txt","","",1
+2021-10-12 21:02:25.671 +0000,"Success",0:00:00,0,0,0,"20211012_210225.671/LogFile.txt","","",1
+2021-10-12 21:13:52.781 +0000,"Failure",0:00:00,1,0,0,"20211012_211352.781/LogFile.txt","","SenseTalk Compiler Exception -- in exercise4:\nSyntax Error at line 14: Syntax Error - can't understand ""name"" at character 15",0
+2021-10-12 21:15:06.654 +0000,"Aborted",0:00:03,1,0,0,"20211012_211506.654/LogFile.txt","","",0
+2021-10-12 21:17:53.063 +0000,"Aborted",0:00:02,1,0,0,"20211012_211753.063/LogFile.txt","","",0
+2021-10-12 21:24:11.752 +0000,"Success",0:00:07,0,0,0,"20211012_212411.752/LogFile.txt","","",1
+2021-10-12 21:25:30.118 +0000,"Failure",0:00:27,1,0,1,"20211012_212530.118/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""FullName""",0
+2021-10-12 21:27:00.488 +0000,"Success",0:00:11,0,0,0,"20211012_212700.488/LogFile.txt","","",1
+2021-10-12 21:30:31.581 +0000,"Failure",0:00:19,1,0,1,"20211012_213031.581/LogFile.txt","","Error Running Script Command -- Exercise4 Error - Too Many Parameters, please use searchrectangle() with no parameters\n",0
+2021-10-12 21:31:31.020 +0000,"Success",0:00:20,0,0,0,"20211012_213131.020/LogFile.txt","","",1
+2021-10-12 21:33:47.501 +0000,"Aborted",0:00:43,1,0,1,"20211012_213347.501/LogFile.txt","","",0
+2021-10-12 21:34:45.460 +0000,"Success",0:00:28,0,0,0,"20211012_213445.460/LogFile.txt","","",1
+2021-10-12 21:37:20.233 +0000,"Failure",0:00:46,1,0,1,"20211012_213720.233/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Submit""  Restricted Search Rectangle ((626,593),(716,653))\n",0
+2021-10-12 21:38:30.391 +0000,"Success",0:00:33,0,0,0,"20211012_213830.391/LogFile.txt","","",1
+2021-10-12 21:39:45.596 +0000,"Failure",0:00:27,1,0,1,"20211012_213945.596/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Submit\r",0
+2021-10-12 21:41:01.216 +0000,"Failure",0:00:23,1,0,1,"20211012_214101.216/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: \r",0
+2021-10-12 21:42:24.536 +0000,"Success",0:00:25,0,0,0,"20211012_214224.536/LogFile.txt","","",1
+2021-10-12 21:43:22.377 +0000,"Failure",0:01:29,1,0,1,"20211012_214322.377/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Green"")"". Text not found.  Restricted Search Rectangle ((629,400),(714,473))\n",0
+2021-10-12 21:47:09.378 +0000,"Success",0:01:15,0,1,0,"20211012_214709.378/LogFile.txt","","",1

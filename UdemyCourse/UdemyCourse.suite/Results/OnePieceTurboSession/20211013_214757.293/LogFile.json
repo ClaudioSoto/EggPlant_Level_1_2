@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running OnePieceTurboSession.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 21:47:57.303 +0000"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:47:57.700 +0000",
+				"scriptName": "OnePieceTurboSession.script",
+				"message": "at (188, 699)",
+				"image": "ChromeIcon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:48:00.034 +0000",
+				"scriptName": "OnePieceTurboSession.script",
+				"message": "at (178, 49)",
+				"image": "NavBarChrome",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:48:01.484 +0000",
+				"message": "www.google.com[return]",
+				"scriptName": "OnePieceTurboSession.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:48:12.217 +0000",
+				"message": "one piece wiki[return]",
+				"scriptName": "OnePieceTurboSession.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:48:14.319 +0000",
+				"scriptName": "OnePieceTurboSession.script",
+				"message": "at (312, 288)",
+				"image": "ReydelosPiratasOnePieceWiki",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:48:15.039 +0000",
+				"message": "moved 19",
+				"scriptName": "OnePieceTurboSession.script",
+				"handlerLine": 14,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"message": "(Duration:\"18.038\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-13 21:47:57 +0000\", Successes:\"1\", TestCase:\"OnePieceTurboSession.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 21:48:15.353 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:18 OnePieceTurboSession.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-13 21:48:15.520 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 21:47:57.307 +0000"
+}

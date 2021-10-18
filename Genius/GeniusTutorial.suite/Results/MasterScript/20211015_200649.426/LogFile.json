@@ -1,0 +1,62 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 20:06:49.436 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:06:49.574 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:06:50.523 +0000",
+				"message": "chrome[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:06:51.291 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:06:54.512 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:07:35.073 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "Unable To Find Any Image On Screen \"Squares/PurpleSquare.png\" within 20.00 seconds",
+				"image": "Squares/PurpleSquare.png",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"45.905\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-15 20:06:49 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 20:07:35.348 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"Squares/PurpleSquare.png\" within 20.00 seconds -- Execution Time 0:00:45 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-15 20:07:36.011 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 20:06:49.442 +0000"
+}

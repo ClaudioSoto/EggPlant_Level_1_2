@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise5.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 19:16:10.167 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-13 19:16:10.475 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-13 19:16:14.238 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_utils_closebrowser",
+				"timestamp": "2021-10-13 19:16:14.988 +0000",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Utils/CloseBrowser.script",
+				"handlerLine": 2,
+				"identifier": "keydown"
+			},
+		{
+				"message": "(Duration:\"5.014\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-13 19:16:10 +0000\", Successes:\"1\", TestCase:\"Exercise5.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 19:16:15.187 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:05 Exercise5.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-13 19:16:15.237 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 19:16:10.167 +0000"
+}

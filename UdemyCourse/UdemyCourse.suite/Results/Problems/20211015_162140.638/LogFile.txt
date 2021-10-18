@@ -1,0 +1,13 @@
+﻿2021-10-15 16:21:40.645 +0000	START		Running Problems.script
+2021-10-15 16:21:40.709 +0000	Log		[10,9,8,7,-1,5,4,3,2,1]	3	on_problems	Problems.script
+2021-10-15 16:21:40.736 +0000	Log		Sorted Array: [-1,1,2,3,4,5,7,8,9,10]	21	on_problems	Problems.script
+2021-10-15 16:21:40.756 +0000	moveto		at (960, 540)	24	on_problems	Problems.script
+2021-10-15 16:21:41.570 +0000	rightclick		at (960, 540)	25	on_problems	Problems.script
+2021-10-15 16:21:44.929 +0000	click	(TEXT:"Nuevo")	at (1012, 751)	26	on_problems	Problems.script
+2021-10-15 16:21:44.934 +0000	set		SEARCHRECTANGLE = [1206,414,1528,765]	27	on_problems	Problems.script
+2021-10-15 16:21:46.225 +0000	click	(TEXT:"Documento de texto")	at (1299, 683)	28	on_problems	Problems.script
+2021-10-15 16:21:47.504 +0000	typetext		EggplantPractice[returnKey]	29	on_problems	Problems.script
+2021-10-15 16:21:47.509 +0000	set		SEARCHRECTANGLE = [846,483,1059,622]	30	on_problems	Problems.script
+2021-10-15 16:21:48.467 +0000	doubleclick	(TEXT:"Eggplant")	at (938, 554)	31	on_problems	Problems.script
+2021-10-15 16:21:48.581 +0000	EndTestCase		(Duration:"7.931", Errors:"0", Exceptions:"0", StartTime:"2021-10-15 16:21:40 +0000", Successes:"1", TestCase:"Problems.script", Warnings:"0")
+2021-10-15 16:21:48.621 +0000	SUCCESS		Execution Time 0:00:07 Problems.script

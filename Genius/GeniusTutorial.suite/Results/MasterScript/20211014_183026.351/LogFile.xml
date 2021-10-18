@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="GeniusTutorial.suite" timestamp="2021-10-14 18:30:26.351 +0000"
+ tests="1"  failures="0" errors="0" time="103.294000">
+  <properties>
+   <property name="RunDate" value="2021-10-14 18:30:26.351 +0000"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="success"  time="103.29">
+  </testcase>
+ </testsuite>
+</testsuites>

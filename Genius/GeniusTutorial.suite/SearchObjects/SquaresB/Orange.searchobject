@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		350,
+		191,
+		67,
+		67
+	],
+	"lastmodifieddate": 1634234503.664,
+	"createddate": 1634234503.6630001,
+	"name": "SquaresB/Orange",
+	"lastfounddate": 1634236328.112,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		34,
+		507,
+		67,
+		67
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,33]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "SquaresB/Orange.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					350,
+					191,
+					67,
+					67
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

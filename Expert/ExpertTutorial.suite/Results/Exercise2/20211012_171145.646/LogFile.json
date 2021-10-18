@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise2.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:11:45.654 +0000"
+			},
+		{
+				"message": "(Duration:\"0.16\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 17:11:45 +0000\", Successes:\"0\", TestCase:\"Exercise2.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:11:45.820 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STInvalidNumber: Value is not a number: 'Utils' -- Execution Time 0:00:00 Exercise2.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 17:11:46.197 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:11:45.658 +0000"
+}

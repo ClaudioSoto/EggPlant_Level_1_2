@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 18:49:47.267 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 18:49:47.342 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.18\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 18:49:47 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 18:49:47.453 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'Exercise3'. -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 18:49:47.818 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 18:49:47.271 +0000"
+}

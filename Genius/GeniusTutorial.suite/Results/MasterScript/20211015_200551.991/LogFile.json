@@ -1,0 +1,78 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 20:05:51.997 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:05:52.136 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:05:53.074 +0000",
+				"message": "chrome[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:05:54.240 +0000",
+				"message": "[windowsKey]r",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-15 20:05:56.509 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Ejercicio2/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:06:02.552 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "found at (228, 226)",
+				"image": "Squares/PurpleSquare.png",
+				"handlerLine": 12,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:06:02.991 +0000",
+				"message": "moved 3",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-15 20:06:03.038 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "found at (227, 124)",
+				"image": "SquaresB/Purple",
+				"handlerLine": 16,
+				"identifier": "imagefound"
+			},
+		{
+				"message": "(Duration:\"11.373\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-15 20:05:52 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 20:06:03.374 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:11 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-15 20:06:03.431 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 20:05:51.998 +0000"
+}

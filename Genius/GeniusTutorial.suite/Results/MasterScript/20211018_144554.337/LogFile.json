@@ -1,0 +1,15 @@
+{
+	"entries": [
+		{
+				"message": "(Duration:\"0.371\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-18 14:45:54 +0000\", Successes:\"2\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-18 14:45:54.723 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-18 14:45:54.769 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-18 14:45:54.735 +0000"
+}

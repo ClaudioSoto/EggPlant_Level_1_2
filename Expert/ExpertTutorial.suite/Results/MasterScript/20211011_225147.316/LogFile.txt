@@ -1,0 +1,25 @@
+﻿2021-10-11 22:51:47.326 +0000	START		Running MasterScript.script
+2021-10-11 22:51:47.629 +0000	doubleclick	ChromeIcon	at (189, 696)	1	on_masterscript	MasterScript.script
+2021-10-11 22:51:52.300 +0000	click	MaximizeIcon	at (958, 38)	2	on_masterscript	MasterScript.script
+2021-10-11 22:51:53.837 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_masterscript	MasterScript.script
+2021-10-11 22:51:54.563 +0000	moveto		at (960, 540)	6	on_masterscript	MasterScript.script
+2021-10-11 22:51:54.804 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	8	on_masterscript	MasterScript.script
+2021-10-11 22:51:55.266 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:52:00.606 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:52:00.633 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:52:05.905 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:52:05.944 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:52:11.210 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:52:11.606 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:52:16.841 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	14	on_masterscript	MasterScript.script
+2021-10-11 22:52:16.904 +0000	scrollwheeldown		moved 2	10	on_masterscript	MasterScript.script
+2021-10-11 22:52:22.138 +0000	imagefound	HTCProduct	found at (1402, 829)	14	on_masterscript	MasterScript.script
+2021-10-11 22:52:22.395 +0000	click	HTCProduct	at (1402, 829)	16	on_masterscript	MasterScript.script
+2021-10-11 22:52:22.526 +0000	waitfor	AddToCartIcon.png	found at (448, 972)	18	on_masterscript	MasterScript.script
+2021-10-11 22:52:23.854 +0000	click	AddToCartIcon	at (448, 972)	20	on_masterscript	MasterScript.script
+2021-10-11 22:52:39.039 +0000	doubleclick	CartIcon	at (1473, 90)	22	on_masterscript	MasterScript.script
+2021-10-11 22:52:40.078 +0000	imagefound	HTCProductInCart	found at (687, 513)	25	on_masterscript	MasterScript.script
+2021-10-11 22:52:40.086 +0000	LogSuccess		Test passed	26	on_masterscript	MasterScript.script
+2021-10-11 22:52:40.514 +0000	click	CloseBrowserIcon	at (1896, 15)	31	on_masterscript	MasterScript.script
+2021-10-11 22:52:40.620 +0000	EndTestCase		(Duration:"53.285", Errors:"0", Exceptions:"0", StartTime:"2021-10-11 22:51:47 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-11 22:52:40.670 +0000	SUCCESS		Execution Time 0:00:53 MasterScript.script

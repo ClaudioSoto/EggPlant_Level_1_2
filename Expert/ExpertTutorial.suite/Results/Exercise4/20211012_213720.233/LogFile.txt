@@ -1,0 +1,22 @@
+﻿2021-10-12 21:37:20.245 +0000	START		Running Exercise4.script
+2021-10-12 21:37:20.547 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:37:23.207 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:37:34.778 +0000	waitfor	TitleOfPage	found at (437, 114)	11	on_exercise4	Exercise4.script
+2021-10-12 21:37:34.786 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	21	on_exercise4	Exercise4.script
+2021-10-12 21:37:35.020 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:37:35.882 +0000	typetext		Randy	24	on_exercise4	Exercise4.script
+2021-10-12 21:37:36.770 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:37:37.767 +0000	typetext		me@you.com	27	on_exercise4	Exercise4.script
+2021-10-12 21:37:38.657 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:37:39.718 +0000	typetext		Hi everyone!	30	on_exercise4	Exercise4.script
+2021-10-12 21:37:39.733 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:37:40.714 +0000	click	(TEXT:"Purple")	at (672, 464)	33	on_exercise4	Exercise4.script
+2021-10-12 21:37:40.722 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	35	on_exercise4	Exercise4.script
+2021-10-12 21:37:41.715 +0000	click	(TEXT:"Laptop")	at (673, 526)	36	on_exercise4	Exercise4.script
+2021-10-12 21:37:41.721 +0000	set		SEARCHRECTANGLE = []	38	on_exercise4	Exercise4.script
+2021-10-12 21:37:42.828 +0000	click	SupperTime	at (669, 584)	40	on_exercise4	Exercise4.script
+2021-10-12 21:37:42.830 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	42	on_exercise4	Exercise4.script
+2021-10-12 21:37:43.684 +0000	click	(TEXT:"Breakfast")	at (661, 603)	43	on_exercise4	Exercise4.script
+2021-10-12 21:38:06.791 +0000	Exception	Submit	No Image Found On Screen: "Submit"	45	on_exercise4	Exercise4.script
+2021-10-12 21:38:06.988 +0000	EndTestCase		(Duration:"46.734", Errors:"1", Exceptions:"1", StartTime:"2021-10-12 21:37:20 +0000", Successes:"0", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:38:07.201 +0000	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Submit"  Restricted Search Rectangle ((626,593),(716,653))\n -- Execution Time 0:00:46 Exercise4.script

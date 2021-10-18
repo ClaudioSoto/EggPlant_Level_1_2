@@ -1,0 +1,37 @@
+﻿2021-10-14 18:28:49.365 +0000	START		Running Exercise1B.script
+2021-10-14 18:28:49.672 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 18:29:01.857 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 18:29:15.864 +0000	imagefound	SquaresB/Green	found at (67, 225)	4	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:15.883 +0000	Log		FIGURA VERDE ENCONTRADA	5	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:15.980 +0000	scrollwheeldown		moved 3	10	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:26.118 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	16	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:26.118 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:28.273 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:28.273 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:30.400 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:30.401 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:32.499 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:32.500 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:34.606 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:34.617 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:36.700 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:36.700 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:38.816 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:38.824 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:40.915 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:40.915 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:43.005 +0000	imagefound	SquaresB/Purple	found at (69, 740)	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:43.013 +0000	Log		Las bajadas fueron: 8	23	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:43.013 +0000	Log		Las bajadas in index fueron:8	24	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:43.105 +0000	imagefound	SquaresB/Blue	Unable to Find Image SquaresB/Blue	26	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:43.106 +0000	scrollwheeldown		moved 7	27	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:45.209 +0000	imagefound	SquaresB/Blue	Unable to Find Image SquaresB/Blue	31	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:45.217 +0000	scrollwheeldown		moved 7	27	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:47.303 +0000	imagefound	SquaresB/Blue	found at (67, 698)	31	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:47.418 +0000	everyimagelocation	SquaresB/Orange	found 3 images	33	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:47.422 +0000	Log		[[67,540],[225,540],[383,540]]	34	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:47.594 +0000	click	SquaresB/Blue	at (67, 698)	37	on_exercise1b	Exercise1B.script
+2021-10-14 18:29:47.622 +0000	waitfor	CloseBrowserButton.png	found at (1898, 14)	2	on_closebrowser	Utils/Functions.script
+2021-10-14 18:29:48.451 +0000	click	CloseBrowserButton	at (1898, 14)	3	on_closebrowser	Utils/Functions.script
+2021-10-14 18:29:48.566 +0000	EndTestCase		(Duration:"59.191", Errors:"0", Exceptions:"0", StartTime:"2021-10-14 18:28:49 +0000", Successes:"1", TestCase:"Exercise1B.script", Warnings:"0")
+2021-10-14 18:29:48.640 +0000	SUCCESS		Execution Time 0:00:59 Exercise1B.script

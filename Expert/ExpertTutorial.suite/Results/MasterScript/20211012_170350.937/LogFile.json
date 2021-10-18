@@ -1,0 +1,96 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:03:50.943 +0000"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:51.219 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:53.010 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:53.744 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 6,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:54.319 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 7,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:54.452 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:59.790 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:03:59.822 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:04:05.094 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:04:05.130 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"message": "(Duration:\"16.487\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 17:03:50 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:04:07.435 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:16 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-12 17:04:07.447 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:03:50.947 +0000"
+}

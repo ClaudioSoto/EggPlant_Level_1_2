@@ -1,0 +1,4 @@
+﻿2021-10-18 14:45:10.726 +0000	START		Running Exercise3SuccessScript.script
+2021-10-18 14:45:10.779 +0000	LogSuccess		Test case -> passed	2	on_exercise3successscript	Exercise3SuccessScript.script
+2021-10-18 14:45:11.001 +0000	EndTestCase		(Duration:"0.275", Errors:"0", Exceptions:"0", StartTime:"2021-10-18 14:45:10 +0000", Successes:"1", TestCase:"Exercise3SuccessScript.script", Warnings:"0")
+2021-10-18 14:45:11.050 +0000	SUCCESS		Execution Time 0:00:00 Exercise3SuccessScript.script

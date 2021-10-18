@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 21:33:47.506 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 21:33:47.788 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 21:33:50.174 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:34:30.753 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "Unable To Find Any Image On Screen \"TitleOfPage\" within 20.00 seconds",
+				"image": "TitleOfPage",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"43.496\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-12 21:33:47 +0000\", Successes:\"0\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 21:34:31.008 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:43 Exercise4.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-12 21:34:31.020 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 21:33:47.511 +0000"
+}

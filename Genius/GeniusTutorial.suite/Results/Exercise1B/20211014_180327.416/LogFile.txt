@@ -1,0 +1,7 @@
+﻿2021-10-14 18:03:27.421 +0000	START		Running Exercise1B.script
+2021-10-14 18:03:27.708 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 18:03:39.129 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 18:03:59.276 +0000	imagefound	SquaresB/Green	Unable to Find Image SquaresB/Green	4	on_exercise1b	Exercise1B.script
+2021-10-14 18:03:59.293 +0000	Log		FIGURA NO ENCONTRADA	7	on_exercise1b	Exercise1B.script
+2021-10-14 18:03:59.369 +0000	EndTestCase		(Duration:"31.942", Errors:"0", Exceptions:"0", StartTime:"2021-10-14 18:03:27 +0000", Successes:"1", TestCase:"Exercise1B.script", Warnings:"0")
+2021-10-14 18:03:59.417 +0000	SUCCESS		Execution Time 0:00:31 Exercise1B.script

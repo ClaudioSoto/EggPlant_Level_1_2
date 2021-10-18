@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 20:59:57.126 +0000"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 20:59:57.207 +0000",
+				"message": "row:IT {color:\"Purple\", device:\"Laptop\", email:\"me@you.com\", @\"full name\":\"Randy\", message:\"Hi everyone!\", @\"supper time\":\"Breakfast\"}",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 20:59:57.212 +0000",
+				"message": "row:IT {color:\"Yellow\", device:\"Desktop\", email:\"p@ill.go\", @\"full name\":\"Phil\", message:\"It's Cloudy out today\", @\"supper time\":\"Lunch\"}",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 20:59:57.217 +0000",
+				"message": "row:IT {color:\"Orange\", device:\"Phone\", email:\"ren@ru.po\", @\"full name\":\"Lauren\", message:\"Jars are made out of Honey\", @\"supper time\":\"Dinner\"}",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 20:59:57.223 +0000",
+				"message": "row:IT {color:\"Yellow\", device:\"Phone\", email:\"patty@mayo.doug\", @\"full name\":\"Patty\", message:\"I love the beets\", @\"supper time\":\"Lunch\"}",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 20:59:57.228 +0000",
+				"message": "row:IT {color:\"Green\", device:\"Laptop\", email:\"tom@top.hat\", @\"full name\":\"Tom\", message:\"Trees are Colorful\", @\"supper time\":\"Dinner\"}",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.225\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-12 20:59:57 +0000\", Successes:\"1\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 20:59:57.356 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 Exercise4.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-12 20:59:57.403 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 20:59:57.130 +0000"
+}

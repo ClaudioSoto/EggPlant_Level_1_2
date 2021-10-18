@@ -1,0 +1,19 @@
+﻿2021-10-13 19:48:20.224 +0000	START		Running MasterScript.script
+2021-10-13 19:48:20.535 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-13 19:48:23.301 +0000	typetext		http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-13 19:48:26.866 +0000	click	SQUARES	at (99, 258)	8	on_exercise5	Exercise5.script
+2021-10-13 19:48:27.689 +0000	everyimagelocation	SQUARES	found 5 images	11	on_exercise5	Exercise5.script
+2021-10-13 19:48:27.703 +0000	Log		[102,445]	15	on_exercise5	Exercise5.script
+2021-10-13 19:48:27.819 +0000	click		at (102, 445)	16	on_exercise5	Exercise5.script
+2021-10-13 19:48:29.841 +0000	Log		[390,445]	15	on_exercise5	Exercise5.script
+2021-10-13 19:48:29.962 +0000	click		at (390, 445)	16	on_exercise5	Exercise5.script
+2021-10-13 19:48:31.984 +0000	Log		[678,445]	15	on_exercise5	Exercise5.script
+2021-10-13 19:48:32.126 +0000	click		at (678, 445)	16	on_exercise5	Exercise5.script
+2021-10-13 19:48:34.139 +0000	Log		[966,445]	15	on_exercise5	Exercise5.script
+2021-10-13 19:48:34.273 +0000	click		at (966, 445)	16	on_exercise5	Exercise5.script
+2021-10-13 19:48:36.287 +0000	Log		[1221,452]	15	on_exercise5	Exercise5.script
+2021-10-13 19:48:36.422 +0000	click		at (1221, 452)	16	on_exercise5	Exercise5.script
+2021-10-13 19:48:38.436 +0000	LogSuccess		All green squares were clicked	21	on_exercise5	Exercise5.script
+2021-10-13 19:48:43.516 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-13 19:48:43.731 +0000	EndTestCase		(Duration:"23.501", Errors:"0", Exceptions:"0", StartTime:"2021-10-13 19:48:20 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-13 19:48:43.776 +0000	SUCCESS		Execution Time 0:00:23 MasterScript.script

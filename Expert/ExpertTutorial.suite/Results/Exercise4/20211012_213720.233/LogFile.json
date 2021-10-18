@@ -1,0 +1,183 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 21:37:20.245 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 21:37:20.547 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 21:37:23.207 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:34.778 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "found at (437, 114)",
+				"image": "TitleOfPage",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:34.786 +0000",
+				"message": "Randy me@you.com Hi everyone! Purple Laptop Breakfast",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:35.020 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (719, 179)",
+				"image": "FullName",
+				"handlerLine": 23,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:35.882 +0000",
+				"message": "Randy",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 24,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:36.770 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (740, 210)",
+				"image": "Email",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:37.767 +0000",
+				"message": "me@you.com",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 27,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:38.657 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (753, 284)",
+				"image": "Message",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:39.718 +0000",
+				"message": "Hi everyone!",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 30,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:39.733 +0000",
+				"message": "SEARCHRECTANGLE = [629,400,714,473]",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 32,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:40.714 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (672, 464)",
+				"image": "(TEXT:\"Purple\")",
+				"handlerLine": 33,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:40.722 +0000",
+				"message": "SEARCHRECTANGLE = [630,488,715,561]",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 35,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:41.715 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (673, 526)",
+				"image": "(TEXT:\"Laptop\")",
+				"handlerLine": 36,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:41.721 +0000",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 38,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:42.828 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (669, 584)",
+				"image": "SupperTime",
+				"handlerLine": 40,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:42.830 +0000",
+				"message": "SEARCHRECTANGLE = [626,593,716,653]",
+				"scriptName": "Exercise4.script",
+				"handlerLine": 42,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:37:43.684 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "at (661, 603)",
+				"image": "(TEXT:\"Breakfast\")",
+				"handlerLine": 43,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise4",
+				"timestamp": "2021-10-12 21:38:06.791 +0000",
+				"scriptName": "Exercise4.script",
+				"message": "No Image Found On Screen: \"Submit\"",
+				"image": "Submit",
+				"handlerLine": 45,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"46.734\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-12 21:37:20 +0000\", Successes:\"0\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 21:38:06.988 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"Submit\"  Restricted Search Rectangle ((626,593),(716,653))\\n -- Execution Time 0:00:46 Exercise4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 21:38:07.201 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 21:37:20.254 +0000"
+}

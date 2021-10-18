@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 16:40:34.581 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 16:40:57.488 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "No Image Found On Screen: \"ChromeIcon\"",
+				"image": "ChromeIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.994\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-12 16:40:34 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 16:40:57.581 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: doubleclick Error - No Image Found On Screen: \"ChromeIcon\" -- Execution Time 0:00:23 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 16:40:58.402 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 16:40:34.585 +0000"
+}

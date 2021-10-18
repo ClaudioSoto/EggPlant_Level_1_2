@@ -1,0 +1,19 @@
+﻿to handle Welcome 
+	log "Welcome to Sense Talk"
+end Welcome
+
+on GlobalAdd num2
+put 0 into result
+	Repeat 2 times
+		put global total + num2 + result into result
+	End repeat
+	log "The final value is: " & result
+end GlobalAdd
+
+function Division dividend, divisor
+	put (dividend/divisor) into result
+	return result
+end Division
+
+
+

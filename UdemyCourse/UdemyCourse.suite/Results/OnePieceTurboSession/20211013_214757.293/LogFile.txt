@@ -1,0 +1,9 @@
+﻿2021-10-13 21:47:57.303 +0000	START		Running OnePieceTurboSession.script
+2021-10-13 21:47:57.700 +0000	doubleclick	ChromeIcon	at (188, 699)	8	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:48:00.034 +0000	click	NavBarChrome	at (178, 49)	9	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:48:01.484 +0000	typetext		www.google.com[return]	10	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:48:12.217 +0000	typetext		one piece wiki[return]	12	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:48:14.319 +0000	click	ReydelosPiratasOnePieceWiki	at (312, 288)	13	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:48:15.039 +0000	scrollwheeldown		moved 19	14	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:48:15.353 +0000	EndTestCase		(Duration:"18.038", Errors:"0", Exceptions:"0", StartTime:"2021-10-13 21:47:57 +0000", Successes:"1", TestCase:"OnePieceTurboSession.script", Warnings:"0")
+2021-10-13 21:48:15.520 +0000	SUCCESS		Execution Time 0:00:18 OnePieceTurboSession.script

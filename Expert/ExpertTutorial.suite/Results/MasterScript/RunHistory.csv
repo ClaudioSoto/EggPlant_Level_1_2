@@ -1,0 +1,69 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-10-11 22:37:10.099 +0000,"Failure",0:00:49,1,0,1,"20211011_223710.099/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""AddToCartIcon""",0
+2021-10-11 22:38:37.986 +0000,"Failure",0:00:54,1,0,1,"20211011_223837.986/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""AddToCartIcon.png"" within 10.00 seconds",0
+2021-10-11 22:39:51.760 +0000,"Aborted",0:00:16,1,0,1,"20211011_223951.760/LogFile.txt","","",0
+2021-10-11 22:40:09.531 +0000,"Aborted",0:01:05,1,0,0,"20211011_224009.531/LogFile.txt","","",0
+2021-10-11 22:42:06.774 +0000,"Aborted",0:00:15,1,0,1,"20211011_224206.774/LogFile.txt","","",0
+2021-10-11 22:42:23.255 +0000,"Failure",0:00:46,1,0,0,"20211011_224223.255/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2021-10-11 22:44:32.585 +0000,"Success",0:00:37,0,0,0,"20211011_224432.585/LogFile.txt","","",1
+2021-10-11 22:46:00.711 +0000,"Failure",0:00:50,1,0,0,"20211011_224600.711/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2021-10-11 22:47:13.030 +0000,"Failure",0:00:45,1,0,0,"20211011_224713.030/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2021-10-11 22:48:29.697 +0000,"Success",0:00:51,0,0,0,"20211011_224829.697/LogFile.txt","","",1
+2021-10-11 22:50:43.851 +0000,"Failure",0:00:00,1,0,1,"20211011_225043.851/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2021-10-11 22:51:00.597 +0000,"Failure",0:00:00,1,0,1,"20211011_225100.597/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2021-10-11 22:51:47.316 +0000,"Success",0:00:53,0,0,0,"20211011_225147.316/LogFile.txt","","",1
+2021-10-12 16:38:26.675 +0000,"Failure",0:00:36,1,0,1,"20211012_163826.675/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""MaximizeIcon""",0
+2021-10-12 16:39:31.933 +0000,"Aborted",0:00:31,1,0,1,"20211012_163931.933/LogFile.txt","","",0
+2021-10-12 16:40:34.574 +0000,"Failure",0:00:23,1,0,1,"20211012_164034.574/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""ChromeIcon""",0
+2021-10-12 16:41:03.586 +0000,"Success",0:00:54,0,0,0,"20211012_164103.586/LogFile.txt","","",1
+2021-10-12 16:45:52.765 +0000,"Success",0:00:49,0,0,0,"20211012_164552.765/LogFile.txt","","",1
+2021-10-12 16:51:08.795 +0000,"Success",0:00:54,0,0,0,"20211012_165108.795/LogFile.txt","","",1
+2021-10-12 16:59:19.100 +0000,"Success",0:00:00,0,0,0,"20211012_165919.100/LogFile.txt","","",1
+2021-10-12 17:03:05.005 +0000,"Success",0:00:00,0,0,0,"20211012_170305.005/LogFile.txt","","",1
+2021-10-12 17:03:50.937 +0000,"Aborted",0:00:16,1,0,0,"20211012_170350.937/LogFile.txt","","",0
+2021-10-12 17:04:30.827 +0000,"Success",0:00:49,0,0,0,"20211012_170430.827/LogFile.txt","","",1
+2021-10-12 17:09:50.946 +0000,"Success",0:00:00,0,0,0,"20211012_170950.946/LogFile.txt","","",1
+2021-10-12 17:10:29.869 +0000,"Success",0:00:00,0,0,0,"20211012_171029.869/LogFile.txt","","",1
+2021-10-12 17:11:23.003 +0000,"Success",0:00:00,0,0,0,"20211012_171123.003/LogFile.txt","","",1
+2021-10-12 17:15:19.380 +0000,"Failure",0:00:00,1,0,0,"20211012_171519.380/LogFile.txt","","STInvalidNumber -- Value is not a number: 'Utils'",0
+2021-10-12 17:16:19.440 +0000,"Failure",0:00:00,1,0,0,"20211012_171619.440/LogFile.txt","","STInvalidNumber -- Value is not a number: 'Utils'",0
+2021-10-12 17:16:38.025 +0000,"Failure",0:00:00,1,0,0,"20211012_171638.025/LogFile.txt","","STInvalidNumber -- Value is not a number: 'Utils'",0
+2021-10-12 17:16:55.647 +0000,"Failure",0:00:00,1,0,0,"20211012_171655.647/LogFile.txt","","STInvalidNumber -- Value is not a number: 'Utils'",0
+2021-10-12 17:20:16.375 +0000,"Failure",0:01:22,1,0,1,"20211012_172016.375/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""ChromeIcon""",1
+2021-10-12 17:22:22.619 +0000,"Aborted",0:01:54,1,0,1,"20211012_172222.619/LogFile.txt","","",1
+2021-10-12 17:24:38.417 +0000,"Success",0:01:08,0,1,0,"20211012_172438.417/LogFile.txt","","",1
+2021-10-12 17:27:05.534 +0000,"Success",0:00:49,0,1,0,"20211012_172705.534/LogFile.txt","","",1
+2021-10-12 17:29:33.843 +0000,"Aborted",0:00:07,1,0,0,"20211012_172933.843/LogFile.txt","","",0
+2021-10-12 17:30:21.061 +0000,"Failure",0:00:02,1,0,1,"20211012_173021.061/LogFile.txt","","Error Running Script Command -- searchrectangle Error - Too Many Parameters, please use searchrectangle() with no parameters\n",0
+2021-10-12 17:32:51.168 +0000,"Success",0:00:12,0,0,0,"20211012_173251.168/LogFile.txt","","",1
+2021-10-12 17:36:17.315 +0000,"Aborted",0:02:22,1,0,0,"20211012_173617.315/LogFile.txt","","",0
+2021-10-12 17:39:58.998 +0000,"Success",0:00:38,0,1,0,"20211012_173958.998/LogFile.txt","","",1
+2021-10-12 17:41:19.071 +0000,"Aborted",0:00:51,1,0,0,"20211012_174119.071/LogFile.txt","","",0
+2021-10-12 18:04:29.345 +0000,"Aborted",0:01:39,1,0,1,"20211012_180429.345/LogFile.txt","","",1
+2021-10-12 18:06:10.808 +0000,"Success",0:00:48,0,0,0,"20211012_180610.808/LogFile.txt","","",1
+2021-10-12 18:48:22.914 +0000,"Success",0:00:00,0,0,0,"20211012_184822.914/LogFile.txt","","",1
+2021-10-12 18:48:43.175 +0000,"Success",0:00:00,0,0,0,"20211012_184843.175/LogFile.txt","","",1
+2021-10-12 18:49:10.068 +0000,"Failure",0:00:00,1,0,0,"20211012_184910.068/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'exercise3.a'",0
+2021-10-12 18:49:47.259 +0000,"Failure",0:00:00,1,0,0,"20211012_184947.259/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Exercise3'.",0
+2021-10-12 18:50:05.695 +0000,"Success",0:00:00,0,0,0,"20211012_185005.695/LogFile.txt","","",1
+2021-10-12 18:52:47.003 +0000,"Success",0:00:00,0,0,0,"20211012_185247.003/LogFile.txt","","",1
+2021-10-12 18:52:57.871 +0000,"Success",0:00:00,0,0,0,"20211012_185257.871/LogFile.txt","","",1
+2021-10-12 18:56:40.529 +0000,"Failure",0:00:00,1,0,0,"20211012_185640.529/LogFile.txt","","STInvalidNumber -- Value is not a number: 'num1'",0
+2021-10-12 18:56:54.555 +0000,"Failure",0:00:00,1,0,0,"20211012_185654.555/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'globaladd'",0
+2021-10-12 18:58:55.199 +0000,"Failure",0:00:00,1,0,0,"20211012_185855.199/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'globaladd'",0
+2021-10-12 18:59:39.484 +0000,"Failure",0:00:00,1,0,0,"20211012_185939.484/LogFile.txt","","STInvalidNumber -- Value is not a number: 'total'",0
+2021-10-12 18:59:54.640 +0000,"Failure",0:00:00,1,0,0,"20211012_185954.640/LogFile.txt","","STInvalidNumber -- Value is not a number: 'total'",0
+2021-10-12 19:00:57.206 +0000,"Failure",0:00:00,1,0,0,"20211012_190057.206/LogFile.txt","","STInvalidNumber -- Value is not a number: 'total'",0
+2021-10-12 19:06:43.590 +0000,"Success",0:00:07,0,0,0,"20211012_190643.590/LogFile.txt","","",1
+2021-10-12 19:11:10.720 +0000,"Failure",0:00:04,1,0,0,"20211012_191110.720/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'division'",0
+2021-10-12 19:11:32.337 +0000,"Aborted",0:00:06,1,0,0,"20211012_191132.337/LogFile.txt","","",0
+2021-10-12 19:16:13.402 +0000,"Success",0:00:00,0,0,0,"20211012_191613.402/LogFile.txt","","",1
+2021-10-12 19:17:32.316 +0000,"Success",0:00:00,0,0,0,"20211012_191732.316/LogFile.txt","","",1
+2021-10-12 19:17:54.858 +0000,"Aborted",0:00:49,1,0,0,"20211012_191754.858/LogFile.txt","","",0
+2021-10-12 19:18:51.756 +0000,"Failure",0:00:04,1,0,0,"20211012_191851.756/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'result' and '20'",0
+2021-10-12 19:19:30.871 +0000,"Success",0:00:11,0,0,0,"20211012_191930.871/LogFile.txt","","",1
+2021-10-12 20:29:40.649 +0000,"Success",0:00:03,0,0,0,"20211012_202940.649/LogFile.txt","","",1
+2021-10-12 21:50:33.758 +0000,"Success",0:01:14,0,1,0,"20211012_215033.758/LogFile.txt","","",1
+2021-10-13 19:47:23.065 +0000,"Failure",0:00:00,1,0,0,"20211013_194723.065/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'exercise5a'",0
+2021-10-13 19:47:32.032 +0000,"Failure",0:00:35,1,0,1,"20211013_194732.032/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""SQUARES""",0
+2021-10-13 19:48:20.217 +0000,"Success",0:00:23,0,0,0,"20211013_194820.217/LogFile.txt","","",1

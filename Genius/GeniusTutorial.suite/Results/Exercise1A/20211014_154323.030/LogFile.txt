@@ -1,0 +1,9 @@
+﻿2021-10-14 15:43:23.032 +0000	START		Running Exercise1.script
+2021-10-14 15:43:23.343 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 15:43:33.051 +0000	waitfor	SearchBar	found at (236, 51)	2	on_searchwebsite	Utils/Functions.script
+2021-10-14 15:43:33.251 +0000	click	SearchBar	at (236, 51)	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 15:43:34.755 +0000	typetext		www.google.com[returnKey]	4	on_searchwebsite	Utils/Functions.script
+2021-10-14 15:43:34.777 +0000	waitfor	CloseBrowserButton.png	found at (1898, 14)	2	on_closebrowser	Utils/Functions.script
+2021-10-14 15:43:35.608 +0000	click	CloseBrowserButton	at (1898, 14)	3	on_closebrowser	Utils/Functions.script
+2021-10-14 15:43:35.882 +0000	EndTestCase		(Duration:"12.842", Errors:"0", Exceptions:"0", StartTime:"2021-10-14 15:43:23 +0000", Successes:"1", TestCase:"Exercise1.script", Warnings:"0")
+2021-10-14 15:43:35.913 +0000	SUCCESS		Execution Time 0:00:12 Exercise1.script

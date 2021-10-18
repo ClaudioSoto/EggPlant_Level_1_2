@@ -1,0 +1,8 @@
+﻿2021-10-13 21:46:38.403 +0000	START		Running OnePieceTurboSession.script
+2021-10-13 21:46:38.695 +0000	doubleclick	ChromeIcon	at (188, 699)	8	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:46:40.124 +0000	click	NavBarChrome	at (178, 49)	9	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:46:41.421 +0000	typetext		www.google.com[return]	10	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:46:42.534 +0000	typetext		one piece wiki[return]	11	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:47:07.002 +0000	Exception	ReydelosPiratasOnePieceWiki	No Image Found On Screen: "ReydelosPiratasOnePieceWiki"	12	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:47:07.340 +0000	EndTestCase		(Duration:"28.93", Errors:"1", Exceptions:"1", StartTime:"2021-10-13 21:46:38 +0000", Successes:"0", TestCase:"OnePieceTurboSession.script", Warnings:"0")
+2021-10-13 21:47:08.537 +0000	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "ReydelosPiratasOnePieceWiki" -- Execution Time 0:00:28 OnePieceTurboSession.script

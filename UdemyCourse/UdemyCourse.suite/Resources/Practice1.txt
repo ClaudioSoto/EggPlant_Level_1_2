@@ -1,0 +1,6 @@
+Hello world my friends
+This is an example
+Of reading from a file
+Using eggplant to do itClaudio is the best engineer
+Claudio is the best engineer
+Claudio is the best engineer

@@ -1,0 +1,33 @@
+﻿//OPEN BROWSER
+Run "Utils/OpenBrowser"
+
+//NAVIGATE WEBSITE
+Run "Utils/NavigateWebSite" ("http://nopcommerce.testplant.com")
+
+//SCROLL DOWN UNTIL PRODUCT IS FOUND
+Moveto remotescreensize()*(1/2)
+repeat until imagefound(image:"HTCProduct",waitFor:0)
+	ScrollWheelDown 2
+	wait 5
+end repeat
+
+//CLICK ON FOUNDED PRODUCT
+click "HTCProduct"
+
+//ADD TO CART
+WaitFor 10, "AddToCartIcon.png"
+Click "AddToCartIcon"
+
+//CLICK IN CART
+wait 15
+DoubleClick "CartIcon"
+
+//CHECK IF PRODUCT WAS ADD TO CART
+if ImageFound(imageName:"HTCProductInCart", waitFor:10)
+	LogSuccess "Test passed"
+else
+	LogError "Test failed"
+end if
+
+//CLOSE BROWSER
+Run "Utils/CloseBrowser"

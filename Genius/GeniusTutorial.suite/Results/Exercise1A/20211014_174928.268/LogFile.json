@@ -1,0 +1,111 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 17:49:28.273 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 17:49:28.545 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 17:49:41.089 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/information_list.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.103 +0000",
+				"message": "Claudio",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.113 +0000",
+				"message": "Claudio 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.114 +0000",
+				"message": "Mi nombre es Claudio y mi edad es 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.126 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.126 +0000",
+				"message": "rojo",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.140 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.143 +0000",
+				"message": "negro",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:49:51.143 +0000",
+				"message": "morado",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:50:26.889 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable To Find Any Image On Screen \"Squares/GreenSquare\" within 15.00 seconds",
+				"image": "Squares/GreenSquare",
+				"handlerLine": 18,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"58.789\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-14 17:49:28 +0000\", Successes:\"0\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 17:50:27.062 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"Squares/GreenSquare\" within 15.00 seconds -- Execution Time 0:00:58 Exercise1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-14 17:50:27.848 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 17:49:28.273 +0000"
+}

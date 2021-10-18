@@ -1,0 +1,7 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Exercise1A,Success,11,4,2021-10-14 15:40:20 +0000,2021-10-14 17:56:32 +0000,0:00:22
+Exercise3FailedScript,Failure,2,2,2021-10-18 14:38:21 +0000,2021-10-18 14:45:32 +0000,0:00:00
+Exercise3SuccessScript,Success,2,0,2021-10-18 14:45:10 +0000,2021-10-18 14:45:54 +0000,0:00:00
+MyTable,Success,3,0,2021-10-15 21:34:24 +0000,2021-10-15 21:40:01 +0000,0:00:02
+Exercise1B,Success,10,0,2021-10-14 18:03:27 +0000,2021-10-14 18:28:49 +0000,0:00:44
+MasterScript,Success,33,19,2021-10-14 18:00:39 +0000,2021-10-18 15:03:11 +0000,0:00:19

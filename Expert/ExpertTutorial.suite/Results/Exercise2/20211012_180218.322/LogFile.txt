@@ -1,0 +1,17 @@
+﻿2021-10-12 18:02:18.328 +0000	START		Running Exercise2.script
+2021-10-12 18:02:18.745 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 18:02:20.722 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 18:02:20.729 +0000	set		SEARCHRECTANGLE = [437,245,1477,325]	8	on_exercise2	Exercise2.script
+2021-10-12 18:02:24.390 +0000	moveto	(TEXT:"Electronics")	at (675, 286)	9	on_exercise2	Exercise2.script
+2021-10-12 18:02:24.399 +0000	set		SEARCHRECTANGLE = [623,303,818,426]	12	on_exercise2	Exercise2.script
+2021-10-12 18:02:25.580 +0000	click	(TEXT:"Camera & photo")	at (702, 331)	13	on_exercise2	Exercise2.script
+2021-10-12 18:02:25.590 +0000	set		SEARCHRECTANGLE = []	16	on_exercise2	Exercise2.script
+2021-10-12 18:02:26.307 +0000	moveto		at (960, 540)	19	on_exercise2	Exercise2.script
+2021-10-12 18:02:30.910 +0000	imagefound	(TEXT:"Apple iCAM")	Unable to Find Image (TEXT:"Apple iCAM"). Text not found.	20	on_exercise2	Exercise2.script
+2021-10-12 18:02:31.573 +0000	scrollwheeldown		moved 2	21	on_exercise2	Exercise2.script
+2021-10-12 18:02:41.078 +0000	imagefound	(TEXT:"Apple iCAM")	found at (1025, 846)	23	on_exercise2	Exercise2.script
+2021-10-12 18:02:46.708 +0000	doubleclick	(TEXT:"$1,300.00")	at (1017, 924)	26	on_exercise2	Exercise2.script
+2021-10-12 18:02:47.516 +0000	typetext		[controlKey]c	29	on_exercise2	Exercise2.script
+2021-10-12 18:02:47.826 +0000	Log		The value is: 1,300.00	34	on_exercise2	Exercise2.script
+2021-10-12 18:02:47.952 +0000	EndTestCase		(Duration:"29.618", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 18:02:18 +0000", Successes:"1", TestCase:"Exercise2.script", Warnings:"0")
+2021-10-12 18:02:47.990 +0000	SUCCESS		Execution Time 0:00:29 Exercise2.script

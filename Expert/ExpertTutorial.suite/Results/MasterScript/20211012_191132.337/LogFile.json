@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 19:11:32.343 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 19:11:32.428 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_welcome",
+				"timestamp": "2021-10-12 19:11:32.437 +0000",
+				"message": "Welcome to Sense Talk",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"6.791\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 19:11:32 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 19:11:39.139 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:06 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-12 19:11:39.153 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 19:11:32.347 +0000"
+}

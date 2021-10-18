@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running Problems.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 16:18:48.851 +0000"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:18:48.917 +0000",
+				"message": "[10,9,8,7,-1,5,4,3,2,1]",
+				"scriptName": "Problems.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:18:48.948 +0000",
+				"message": "Sorted Array: [-1,1,2,3,4,5,7,8,9,10]",
+				"scriptName": "Problems.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:18:48.979 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Problems.script",
+				"handlerLine": 24,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:18:49.781 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Problems.script",
+				"handlerLine": 25,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 16:18:54.414 +0000",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "Problems.script",
+				"handlerLine": 26,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"5.675\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-15 16:18:48 +0000\", Successes:\"0\", TestCase:\"Problems.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 16:18:54.534 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:05 Problems.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-15 16:18:54.544 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 16:18:48.851 +0000"
+}

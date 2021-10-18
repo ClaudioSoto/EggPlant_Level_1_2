@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Problems_script" package="UdemyCourse.suite" timestamp="2021-10-15 16:00:13.917 +0000"
+ tests="1"  failures="0" errors="0" time="0.269000">
+  <properties>
+   <property name="RunDate" value="2021-10-15 16:00:13.917 +0000"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Problems.script" assertions="1" status="success"  time="0.254">
+  </testcase>
+ </testsuite>
+</testsuites>

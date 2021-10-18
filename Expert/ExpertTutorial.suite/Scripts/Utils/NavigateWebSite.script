@@ -1,0 +1,3 @@
+﻿Params webSite
+//NAVIGATE TO WEBSITE
+TypeText webSite,returnKey

@@ -1,0 +1,8 @@
+﻿2021-10-12 21:00:26.573 +0000	START		Running Exercise4.script
+2021-10-12 21:00:26.656 +0000	Log		row:1 {color:"Purple", device:"Laptop", email:"me@you.com", @"full name":"Randy", message:"Hi everyone!", @"supper time":"Breakfast"}	16	on_exercise4	Exercise4.script
+2021-10-12 21:00:26.662 +0000	Log		row:2 {color:"Yellow", device:"Desktop", email:"p@ill.go", @"full name":"Phil", message:"It's Cloudy out today", @"supper time":"Lunch"}	16	on_exercise4	Exercise4.script
+2021-10-12 21:00:26.668 +0000	Log		row:3 {color:"Orange", device:"Phone", email:"ren@ru.po", @"full name":"Lauren", message:"Jars are made out of Honey", @"supper time":"Dinner"}	16	on_exercise4	Exercise4.script
+2021-10-12 21:00:26.673 +0000	Log		row:4 {color:"Yellow", device:"Phone", email:"patty@mayo.doug", @"full name":"Patty", message:"I love the beets", @"supper time":"Lunch"}	16	on_exercise4	Exercise4.script
+2021-10-12 21:00:26.679 +0000	Log		row:5 {color:"Green", device:"Laptop", email:"tom@top.hat", @"full name":"Tom", message:"Trees are Colorful", @"supper time":"Dinner"}	16	on_exercise4	Exercise4.script
+2021-10-12 21:00:26.806 +0000	EndTestCase		(Duration:"0.228", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 21:00:26 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:00:26.852 +0000	SUCCESS		Execution Time 0:00:00 Exercise4.script

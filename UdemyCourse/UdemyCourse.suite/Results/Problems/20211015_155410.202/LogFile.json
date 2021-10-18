@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Problems.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 15:54:10.208 +0000"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 15:54:10.266 +0000",
+				"message": "[5,4,3,2,1]",
+				"scriptName": "Problems.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 15:54:10.277 +0000",
+				"message": "[5,4,3,2,1]",
+				"scriptName": "Problems.script",
+				"handlerLine": 23,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.167\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-15 15:54:10 +0000\", Successes:\"1\", TestCase:\"Problems.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 15:54:10.380 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 Problems.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-15 15:54:10.421 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 15:54:10.212 +0000"
+}

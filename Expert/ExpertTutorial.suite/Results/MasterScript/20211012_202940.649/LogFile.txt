@@ -1,0 +1,5 @@
+﻿2021-10-12 20:29:40.655 +0000	START		Running MasterScript.script
+2021-10-12 20:29:40.958 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 20:29:44.001 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 20:29:44.123 +0000	EndTestCase		(Duration:"3.463", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 20:29:40 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 20:29:44.165 +0000	SUCCESS		Execution Time 0:00:03 MasterScript.script

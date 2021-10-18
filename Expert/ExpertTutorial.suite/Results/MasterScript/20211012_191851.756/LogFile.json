@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 19:18:51.762 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 19:18:51.849 +0000",
+				"message": "The add result is: 10",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_welcome",
+				"timestamp": "2021-10-12 19:18:51.858 +0000",
+				"message": "Welcome to Sense Talk",
+				"scriptName": "Exercise3B.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"4.196\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 19:18:51 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 19:18:55.962 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and/or lists; got 'result' and '20' -- Execution Time 0:00:04 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 19:18:56.341 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 19:18:51.766 +0000"
+}

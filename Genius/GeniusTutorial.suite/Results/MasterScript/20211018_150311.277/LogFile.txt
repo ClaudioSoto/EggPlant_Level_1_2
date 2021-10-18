@@ -1,0 +1,7 @@
+﻿2021-10-18 15:03:11.284 +0000	START		Running MasterScript.script
+2021-10-18 15:03:11.333 +0000	BeginTestCase		Exersice3	18	on_masterscript	MasterScript.script
+2021-10-18 15:03:11.824 +0000	Log		67890	24	on_masterscript	MasterScript.script
+2021-10-18 15:03:11.824 +0000	Log		0.371 seconds	25	on_masterscript	MasterScript.script
+2021-10-18 15:03:11.824 +0000	EndTestCase		(Duration:"0.491", Errors:"0", Exceptions:"0", StartTime:"2021-10-18 15:03:11 +0000", Successes:"0", TestCase:"Exersice3", Warnings:"0")	26	on_masterscript	MasterScript.script
+2021-10-18 15:03:12.054 +0000	EndTestCase		(Duration:"0.764", Errors:"0", Exceptions:"0", StartTime:"2021-10-18 15:03:11 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-18 15:03:12.107 +0000	SUCCESS		Execution Time 0:00:00 MasterScript.script

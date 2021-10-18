@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		565,
+		499,
+		244,
+		29
+	],
+	"lastmodifieddate": 1633991571.0050001,
+	"createddate": 1633991571.0050001,
+	"name": "HTCProductInCart",
+	"lastfounddate": 1634061922.6160002,
+	"ocrcapturestring": "HTC One M8 Android L 5.0 Lollipop",
+	"lastfoundlocation": [
+		565,
+		499,
+		244,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[122,14]",
+					"Tolerance": "_54",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "HTCProductInCart.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					565,
+					499,
+					244,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "HTC One M8 Android L 5.0 Lollipop"
+			}
+	]
+}

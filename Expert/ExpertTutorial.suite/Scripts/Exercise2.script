@@ -1,0 +1,43 @@
+﻿//OPEN BROWSER
+Run "Utils/OpenBrowser"
+
+//NAVIGATE WEBSITE
+Run "Utils/NavigateWebSite" ("http://nopcommerce.testplant.com")
+
+//MOVE TO ELECTRONICS CATEGORY
+set the SearchRectangle to [437,245,1477,325]
+MoveTo text:"Electronics", waitFor:20
+
+//CLICK ON SUBCATEGORY
+set the SearchRectangle to [623,303,818,426]
+Click text:"Camera & photo", waitFor:20
+
+//CLEAN THE SEARCH RECTANGLE
+set the SearchRectangle to []
+
+//SCROLL DOWN UNTIL PRODUCT IS FOUND
+Moveto remotescreensize()*(1/2)
+repeat until ImageFound(text:"Apple iCAM", waitFor:0)
+	ScrollWheelDown 2
+	wait 8
+end repeat
+
+//GET THE PRICE 
+DoubleClick text:"$1,300.00", waitFor:10
+
+//COPY COST
+TypeText controlKey & "c"
+
+//LOG CLIPBOARD
+put RemoteClipboard() into productValue
+
+log "The value is: " & productValue
+
+//CLOSE BROWSER
+Run "Utils/CloseBrowser"
+
+
+
+
+
+

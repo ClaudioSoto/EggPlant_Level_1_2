@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="BuilInFunctions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2021-10-14 19:36:34 +0000</FirstRun>
+  <LastRun>2021-10-14 20:00:50 +0000</LastRun>
+  <TotalTimeOnSuccess>1.769000</TotalTimeOnSuccess>
+ </script>
+ <script name="MasterScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2021-10-13 14:58:35 +0000</FirstRun>
+  <LastRun>2021-10-13 16:21:38 +0000</LastRun>
+  <TotalTimeOnSuccess>12.643000</TotalTimeOnSuccess>
+ </script>
+ <script name="Problems">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>34</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2021-10-15 14:55:07 +0000</FirstRun>
+  <LastRun>2021-10-15 16:21:40 +0000</LastRun>
+  <TotalTimeOnSuccess>37.934000</TotalTimeOnSuccess>
+ </script>
+ <script name="OnePieceTurboSession">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2021-10-13 21:46:38 +0000</FirstRun>
+  <LastRun>2021-10-13 21:47:57 +0000</LastRun>
+  <TotalTimeOnSuccess>18.052000</TotalTimeOnSuccess>
+ </script>
+</statistics>

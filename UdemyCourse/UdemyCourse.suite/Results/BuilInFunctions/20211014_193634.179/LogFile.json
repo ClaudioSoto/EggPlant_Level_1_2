@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running BuilInFunctions.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 19:36:34.187 +0000"
+			},
+		{
+				"handlerName": "on_builinfunctions",
+				"timestamp": "2021-10-14 19:36:34.243 +0000",
+				"message": "10 0 25 1",
+				"scriptName": "BuilInFunctions.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.18\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 19:36:34 +0000\", Successes:\"1\", TestCase:\"BuilInFunctions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 19:36:34.369 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:00 BuilInFunctions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 19:36:34.410 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 19:36:34.189 +0000"
+}

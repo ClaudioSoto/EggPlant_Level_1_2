@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="ExpertTutorial.suite" timestamp="2021-10-12 16:38:26.675 +0000"
+ tests="1"  failures="1" errors="1" time="36.543000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 16:38:26.675 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="error"  time="36.531">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;MaximizeIcon&quot; -- Execution Time 0:00:36 MasterScript.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;MaximizeIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

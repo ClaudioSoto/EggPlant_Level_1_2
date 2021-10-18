@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running OnePieceTurboSession.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 21:46:38.403 +0000"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:46:38.695 +0000",
+				"scriptName": "OnePieceTurboSession.script",
+				"message": "at (188, 699)",
+				"image": "ChromeIcon",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:46:40.124 +0000",
+				"scriptName": "OnePieceTurboSession.script",
+				"message": "at (178, 49)",
+				"image": "NavBarChrome",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:46:41.421 +0000",
+				"message": "www.google.com[return]",
+				"scriptName": "OnePieceTurboSession.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:46:42.534 +0000",
+				"message": "one piece wiki[return]",
+				"scriptName": "OnePieceTurboSession.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_onepieceturbosession",
+				"timestamp": "2021-10-13 21:47:07.002 +0000",
+				"scriptName": "OnePieceTurboSession.script",
+				"message": "No Image Found On Screen: \"ReydelosPiratasOnePieceWiki\"",
+				"image": "ReydelosPiratasOnePieceWiki",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"28.93\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-13 21:46:38 +0000\", Successes:\"0\", TestCase:\"OnePieceTurboSession.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 21:47:07.340 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"ReydelosPiratasOnePieceWiki\" -- Execution Time 0:00:28 OnePieceTurboSession.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-13 21:47:08.537 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 21:46:38.409 +0000"
+}

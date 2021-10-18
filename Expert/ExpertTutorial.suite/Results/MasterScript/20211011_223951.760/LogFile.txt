@@ -1,0 +1,4 @@
+﻿2021-10-11 22:39:51.767 +0000	START		Running MasterScript.script
+2021-10-11 22:40:07.923 +0000	Exception	ChromeIcon	No Image Found On Screen: "ChromeIcon"	1	on_masterscript	MasterScript.script
+2021-10-11 22:40:08.093 +0000	EndTestCase		(Duration:"16.321", Errors:"1", Exceptions:"1", StartTime:"2021-10-11 22:39:51 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-11 22:40:08.108 +0000	ABORTED		Execution Time 0:00:16 MasterScript.script

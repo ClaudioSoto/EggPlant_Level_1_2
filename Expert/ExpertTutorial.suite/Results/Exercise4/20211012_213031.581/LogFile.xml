@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise4_script" package="ExpertTutorial.suite" timestamp="2021-10-12 21:30:31.581 +0000"
+ tests="1"  failures="1" errors="1" time="19.810000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 21:30:31.581 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Exercise4.script" assertions="1" status="error"  time="19.807">
+    <failure type="FAILURE" message="Error Running Script Command: Exercise4 Error - Too Many Parameters, please use searchrectangle() with no parameters\n -- Execution Time 0:00:19 Exercise4.script" />
+    <error type="Exception" message="Too Many Parameters, please use searchrectangle() with no parameters\n" />
+  </testcase>
+ </testsuite>
+</testsuites>

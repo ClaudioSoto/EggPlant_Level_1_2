@@ -1,0 +1,6 @@
+﻿2021-10-13 19:16:10.167 +0000	START		Running Exercise5.script
+2021-10-13 19:16:10.475 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-13 19:16:14.238 +0000	typetext		http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-13 19:16:14.988 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-13 19:16:15.187 +0000	EndTestCase		(Duration:"5.014", Errors:"0", Exceptions:"0", StartTime:"2021-10-13 19:16:10 +0000", Successes:"1", TestCase:"Exercise5.script", Warnings:"0")
+2021-10-13 19:16:15.237 +0000	SUCCESS		Execution Time 0:00:05 Exercise5.script

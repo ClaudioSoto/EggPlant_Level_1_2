@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise1_script" package="GeniusTutorial.suite" timestamp="2021-10-14 17:50:42.208 +0000"
+ tests="1"  failures="1" errors="1" time="51.325000">
+  <properties>
+   <property name="RunDate" value="2021-10-14 17:50:42.208 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Exercise1.script" assertions="1" status="error"  time="51.313">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;TextArea&quot;  Restricted Search Rectangle ((80,388),(131,424))\n -- Execution Time 0:00:51 Exercise1.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;TextArea&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

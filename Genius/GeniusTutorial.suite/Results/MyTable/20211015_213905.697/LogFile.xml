@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MyTable_table" package="GeniusTutorial.suite" timestamp="2021-10-15 21:39:05.697 +0000"
+ tests="1"  failures="0" errors="0" time="2.913000">
+  <properties>
+   <property name="RunDate" value="2021-10-15 21:39:05.697 +0000"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="MyTable.table" assertions="1" status="success"  time="2.88">
+  </testcase>
+ </testsuite>
+</testsuites>

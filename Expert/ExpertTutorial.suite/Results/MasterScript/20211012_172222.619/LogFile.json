@@ -1,0 +1,225 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:22:22.626 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 17:22:22.949 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 17:22:25.009 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:25.739 +0000",
+				"message": "at (960, 540)",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:26.247 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:26.454 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:31.780 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:31.804 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:37.120 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:37.164 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:42.433 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:42.470 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:47.704 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "Unable to Find Image HTCProduct",
+				"image": "HTCProduct",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:47.714 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:52.942 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "found at (1402, 829)",
+				"image": "HTCProduct",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:53.234 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "at (1402, 829)",
+				"image": "HTCProduct",
+				"handlerLine": 15,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:53.375 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "found at (448, 972)",
+				"image": "AddToCartIcon.png",
+				"handlerLine": 18,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:22:54.270 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "at (448, 972)",
+				"image": "AddToCartIcon",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:23:09.481 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "at (1473, 90)",
+				"image": "CartIcon",
+				"handlerLine": 23,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:23:10.507 +0000",
+				"scriptName": "Exercise1.script",
+				"message": "found at (695, 513)",
+				"image": "HTCProductInCart",
+				"handlerLine": 26,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:23:10.513 +0000",
+				"message": "Test passed",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 27,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-12 17:23:10.706 +0000",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 33,
+				"identifier": "keydown"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 17:23:16.078 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 17:23:18.121 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:24:16.494 +0000",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"114.314\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-12 17:22:22 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:24:16.945 +0000"
+			},
+		{
+				"message": "Execution Time 0:01:54 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-12 17:24:16.956 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:22:22.629 +0000"
+}

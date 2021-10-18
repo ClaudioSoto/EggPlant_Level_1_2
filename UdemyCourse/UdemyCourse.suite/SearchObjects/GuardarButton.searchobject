@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		839,
+		533,
+		66,
+		16
+	],
+	"lastmodifieddate": 1634315445.2389998,
+	"createddate": 1634315445.2389998,
+	"name": "GuardarButton",
+	"lastfounddate": 1634315510.8080001,
+	"ocrcapturestring": "Guardar",
+	"lastfoundlocation": [
+		839,
+		533,
+		66,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,8]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "GuardarButton.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					839,
+					533,
+					66,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Guardar"
+			}
+	]
+}

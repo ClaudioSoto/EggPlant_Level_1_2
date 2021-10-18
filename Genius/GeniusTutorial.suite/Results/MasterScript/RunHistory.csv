@@ -1,0 +1,35 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-10-14 18:00:39.112 +0000,"Success",0:00:12,0,0,0,"20211014_180039.112/LogFile.txt","","",1
+2021-10-14 18:30:26.351 +0000,"Success",0:01:43,0,0,0,"20211014_183026.351/LogFile.txt","","",1
+2021-10-14 21:42:31.715 +0000,"Aborted",0:00:56,1,0,1,"20211014_214231.715/LogFile.txt","","",0
+2021-10-15 19:45:44.296 +0000,"Failure",0:00:00,1,0,0,"20211015_194544.296/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'ejercicio2_openbrowser'",0
+2021-10-15 19:45:59.880 +0000,"Failure",0:00:00,1,0,0,"20211015_194559.880/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'.",0
+2021-10-15 19:46:34.013 +0000,"Failure",0:00:00,1,0,0,"20211015_194634.013/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'ejercicio2_openbrowser'",0
+2021-10-15 19:47:45.524 +0000,"Failure",0:00:00,1,0,0,"20211015_194745.524/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'.",0
+2021-10-15 19:48:11.494 +0000,"Failure",0:00:00,1,0,0,"20211015_194811.494/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'.",0
+2021-10-15 19:49:08.297 +0000,"Failure",0:00:00,1,0,0,"20211015_194908.297/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'openbrowser'",0
+2021-10-15 19:51:01.697 +0000,"Failure",0:00:00,1,0,0,"20211015_195101.697/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'.",0
+2021-10-15 19:52:23.456 +0000,"Failure",0:00:00,1,0,0,"20211015_195223.456/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'.",0
+2021-10-15 19:52:46.724 +0000,"Failure",0:00:00,1,0,0,"20211015_195246.724/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'ejercicio2_openbrowser'",0
+2021-10-15 19:54:11.872 +0000,"Failure",0:00:00,1,0,0,"20211015_195411.872/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'ejercicio2_openbrowser'",0
+2021-10-15 19:55:03.902 +0000,"Failure",0:00:00,1,0,0,"20211015_195503.902/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2'.",0
+2021-10-15 19:55:36.886 +0000,"Failure",0:00:00,1,0,0,"20211015_195536.886/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2.OpenBrowser'.",0
+2021-10-15 19:56:04.939 +0000,"Failure",0:00:00,1,0,0,"20211015_195604.939/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Ejercicio2.OpenBrowser'.",0
+2021-10-15 19:56:15.838 +0000,"Failure",0:00:00,1,0,0,"20211015_195615.838/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '/Ejercicio2.OpenBrowser'.",0
+2021-10-15 19:56:23.220 +0000,"Failure",0:00:00,1,0,0,"20211015_195623.220/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: '_ejercicio2_openbrowser'",0
+2021-10-15 19:57:00.040 +0000,"Success",0:00:00,0,0,0,"20211015_195700.040/LogFile.txt","","",1
+2021-10-15 19:57:29.732 +0000,"Success",0:00:01,0,0,0,"20211015_195729.732/LogFile.txt","","",1
+2021-10-15 19:59:16.240 +0000,"Success",0:00:03,0,0,0,"20211015_195916.240/LogFile.txt","","",1
+2021-10-15 20:05:51.991 +0000,"Success",0:00:11,0,0,0,"20211015_200551.991/LogFile.txt","","",1
+2021-10-15 20:06:49.426 +0000,"Failure",0:00:45,1,0,1,"20211015_200649.426/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Squares/PurpleSquare.png"" within 20.00 seconds",0
+2021-10-15 20:07:53.516 +0000,"Success",0:00:26,0,0,0,"20211015_200753.516/LogFile.txt","","",1
+2021-10-15 20:09:21.656 +0000,"Failure",0:00:20,1,0,0,"20211015_200921.656/LogFile.txt","","STInvalidNumber -- Value is not a number: 'count'",0
+2021-10-15 20:10:19.579 +0000,"Success",0:01:00,0,0,0,"20211015_201019.579/LogFile.txt","","",1
+2021-10-15 20:11:49.206 +0000,"Failure",0:00:40,1,0,0,"20211015_201149.206/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2021-10-15 20:13:47.865 +0000,"Success",0:00:57,0,0,0,"20211015_201347.865/LogFile.txt","","",1
+2021-10-18 14:38:36.821 +0000,"Failure",0:00:00,1,0,0,"20211018_143836.821/LogFile.txt","","SenseTalk Compiler Exception -- in exercise3failedscript:\nSyntax Error at line 2: Syntax Error - can't understand ""int"" at character 15",0
+2021-10-18 14:39:41.083 +0000,"Success",0:00:00,0,0,0,"20211018_143941.083/LogFile.txt","","",1
+2021-10-18 14:45:32.166 +0000,"Success",0:00:00,0,0,0,"20211018_144532.166/LogFile.txt","","",1
+2021-10-18 14:45:54.337 +0000,"Success",0:00:00,0,0,0,"20211018_144554.337/LogFile.txt","","",1
+2021-10-18 14:51:11.192 +0000,"Success",0:00:00,0,0,0,"20211018_145111.192/LogFile.txt","","",1
+2021-10-18 15:03:11.277 +0000,"Success",0:00:00,0,0,0,"20211018_150311.277/LogFile.txt","","",1

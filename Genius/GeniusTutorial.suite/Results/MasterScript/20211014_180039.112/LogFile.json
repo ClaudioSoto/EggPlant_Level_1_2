@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 18:00:39.116 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 18:00:39.435 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 18:00:51.123 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"12.134\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 18:00:39 +0000\", Successes:\"1\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 18:00:51.258 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:12 MasterScript.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 18:00:51.292 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 18:00:39.123 +0000"
+}

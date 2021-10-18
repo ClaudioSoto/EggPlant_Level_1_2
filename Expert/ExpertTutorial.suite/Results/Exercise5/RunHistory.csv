@@ -1,0 +1,8 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-10-13 19:16:10.161 +0000,"Success",0:00:05,0,0,0,"20211013_191610.161/LogFile.txt","","",1
+2021-10-13 19:17:25.357 +0000,"Success",0:00:03,0,0,0,"20211013_191725.357/LogFile.txt","","",1
+2021-10-13 19:19:16.957 +0000,"Success",0:00:12,0,0,0,"20211013_191916.957/LogFile.txt","","",1
+2021-10-13 19:32:29.123 +0000,"Failure",0:00:36,1,0,1,"20211013_193229.123/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""GreenSquare""",0
+2021-10-13 19:41:34.806 +0000,"Success",0:00:25,0,0,0,"20211013_194134.806/LogFile.txt","","",1
+2021-10-13 19:45:14.019 +0000,"Failure",0:00:03,1,0,1,"20211013_194514.019/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: GreenSquare",0
+2021-10-13 19:46:14.510 +0000,"Success",0:00:27,0,0,0,"20211013_194614.510/LogFile.txt","","",1

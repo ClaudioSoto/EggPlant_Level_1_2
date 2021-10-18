@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise5A.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 19:32:29.129 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-13 19:32:31.200 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-13 19:32:34.529 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:33:05.808 +0000",
+				"scriptName": "Exercise5A.script",
+				"message": "No Image Found On Screen: \"GreenSquare\"",
+				"image": "GreenSquare",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"36.868\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-13 19:32:29 +0000\", Successes:\"0\", TestCase:\"Exercise5A.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 19:33:06.000 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"GreenSquare\" -- Execution Time 0:00:36 Exercise5A.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-13 19:33:06.695 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 19:32:29.132 +0000"
+}

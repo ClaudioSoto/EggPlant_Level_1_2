@@ -1,0 +1,9 @@
+﻿2021-10-12 21:24:11.758 +0000	START		Running Exercise4.script
+2021-10-12 21:24:12.084 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:24:14.768 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:24:14.782 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	18	on_exercise4	Exercise4.script
+2021-10-12 21:24:17.714 +0000	click	FullName	at (719, 179)	20	on_exercise4	Exercise4.script
+2021-10-12 21:24:18.594 +0000	typetext		Randy	21	on_exercise4	Exercise4.script
+2021-10-12 21:24:19.340 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-12 21:24:19.463 +0000	EndTestCase		(Duration:"7.699", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 21:24:11 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:24:19.510 +0000	SUCCESS		Execution Time 0:00:07 Exercise4.script

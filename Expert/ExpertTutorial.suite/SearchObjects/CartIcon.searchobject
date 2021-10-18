@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1633991503.0570002,
+	"lastfoundlocation": [
+		1413,
+		78,
+		29,
+		28
+	],
+	"originalcapturelocation": [
+		1413,
+		78,
+		29,
+		28
+	],
+	"createddate": 1633991503.0570002,
+	"lastfounddate": 1634061921.3239999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[60,12]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "CartIcon.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"capturerect": [
+					1413,
+					78,
+					29,
+					28
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.50.44"
+			}
+	],
+	"name": "CartIcon"
+}

@@ -1,0 +1,4 @@
+﻿2021-10-13 21:46:20.965 +0000	START		Running OnePieceTurboSession.script
+2021-10-13 21:46:36.050 +0000	Exception	ChromeIcon	No Image Found On Screen: "ChromeIcon"	8	on_onepieceturbosession	OnePieceTurboSession.script
+2021-10-13 21:46:36.341 +0000	EndTestCase		(Duration:"15.374", Errors:"1", Exceptions:"1", StartTime:"2021-10-13 21:46:20 +0000", Successes:"0", TestCase:"OnePieceTurboSession.script", Warnings:"0")
+2021-10-13 21:46:36.361 +0000	ABORTED		Execution Time 0:00:15 OnePieceTurboSession.script

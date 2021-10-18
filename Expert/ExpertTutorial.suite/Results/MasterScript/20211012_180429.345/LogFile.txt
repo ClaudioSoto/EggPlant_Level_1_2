@@ -1,0 +1,30 @@
+﻿2021-10-12 18:04:29.352 +0000	START		Running MasterScript.script
+2021-10-12 18:04:29.742 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 18:04:31.831 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 18:04:32.567 +0000	moveto		at (960, 540)	8	on_exercise1	Exercise1.script
+2021-10-12 18:04:33.076 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	9	on_exercise1	Exercise1.script
+2021-10-12 18:04:33.269 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 18:04:38.576 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 18:04:38.605 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 18:04:43.824 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 18:04:43.828 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 18:04:49.076 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 18:04:49.188 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 18:04:54.449 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 18:04:54.459 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 18:04:59.721 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 18:04:59.826 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 18:05:05.022 +0000	imagefound	HTCProduct	found at (1402, 629)	12	on_exercise1	Exercise1.script
+2021-10-12 18:05:05.252 +0000	click	HTCProduct	at (1402, 629)	15	on_exercise1	Exercise1.script
+2021-10-12 18:05:05.383 +0000	waitfor	AddToCartIcon.png	found at (448, 772)	18	on_exercise1	Exercise1.script
+2021-10-12 18:05:06.271 +0000	click	AddToCartIcon	at (448, 772)	19	on_exercise1	Exercise1.script
+2021-10-12 18:05:21.489 +0000	doubleclick	CartIcon	at (1473, 90)	23	on_exercise1	Exercise1.script
+2021-10-12 18:05:22.618 +0000	imagefound	HTCProductInCart	found at (687, 513)	26	on_exercise1	Exercise1.script
+2021-10-12 18:05:22.623 +0000	LogSuccess		Test passed	27	on_exercise1	Exercise1.script
+2021-10-12 18:05:22.666 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-12 18:05:28.588 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 18:05:30.418 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 18:05:30.436 +0000	set		SEARCHRECTANGLE = [437,245,1477,325]	8	on_exercise2	Exercise2.script
+2021-10-12 18:06:08.509 +0000	Exception	(TEXT:"Electronics")	No Text Found On Screen: "(TEXT:"Electronics")". Text not found.	9	on_exercise2	Exercise2.script
+2021-10-12 18:06:08.682 +0000	EndTestCase		(Duration:"99.324", Errors:"1", Exceptions:"1", StartTime:"2021-10-12 18:04:29 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 18:06:08.692 +0000	ABORTED		Execution Time 0:01:39 MasterScript.script

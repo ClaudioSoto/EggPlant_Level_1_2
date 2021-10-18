@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise4_script" package="ExpertTutorial.suite" timestamp="2021-10-12 21:33:47.501 +0000"
+ tests="1"  failures="0" errors="0" time="43.506000">
+  <properties>
+   <property name="RunDate" value="2021-10-12 21:33:47.501 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Exercise4.script" assertions="1" status="error"  time="43.496">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;TitleOfPage&quot; within 20.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

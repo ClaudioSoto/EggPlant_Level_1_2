@@ -1,0 +1,88 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1B.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 18:12:54.951 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 18:12:55.322 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 18:13:07.494 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:13:31.855 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found at (67, 225)",
+				"image": "SquaresB/Green",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:13:31.855 +0000",
+				"message": "FIGURA VERDE ENCONTRADA",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:13:32.787 +0000",
+				"message": "moved 2",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 10,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:13:32.911 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found at (67, 107)",
+				"image": "SquaresB/Green",
+				"handlerLine": 13,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:13:33.024 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "found at (227, 101)",
+				"image": "SquaresB/Purple",
+				"handlerLine": 19,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:13:33.035 +0000",
+				"message": "Las bajadas fueron: 0",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"38.342\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 18:12:54 +0000\", Successes:\"1\", TestCase:\"Exercise1B.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 18:13:33.298 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:38 Exercise1B.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 18:13:33.332 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 18:12:54.955 +0000"
+}

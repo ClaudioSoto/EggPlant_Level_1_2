@@ -1,0 +1,3 @@
+﻿2021-10-12 21:15:06.660 +0000	START		Running Exercise4.script
+2021-10-12 21:15:10.513 +0000	EndTestCase		(Duration:"3.848", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 21:15:06 +0000", Successes:"0", TestCase:"Exercise4.script", Warnings:"0")
+2021-10-12 21:15:10.526 +0000	ABORTED		Execution Time 0:00:03 Exercise4.script

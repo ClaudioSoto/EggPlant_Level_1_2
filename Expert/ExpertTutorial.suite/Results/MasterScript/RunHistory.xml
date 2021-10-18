@@ -1,0 +1,820 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="MasterScript">
+ <run>
+  <RunDate>2021-10-11 22:37:10.099 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>49.357000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_223710.099/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;AddToCartIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:38:37.986 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>54.399000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_223837.986/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;AddToCartIcon.png&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:39:51.760 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>16.333000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_223951.760/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:40:09.531 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>65.694000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_224009.531/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:42:06.774 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>15.386000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_224206.774/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:42:23.255 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>46.408000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_224223.255/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:44:32.585 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>37.067000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211011_224432.585/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:46:00.711 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>50.110000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_224600.711/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:47:13.030 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>45.939000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_224713.030/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:48:29.697 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>51.492000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211011_224829.697/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:50:43.851 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.125000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_225043.851/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:51:00.597 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.120000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211011_225100.597/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-11 22:51:47.316 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>53.304000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211011_225147.316/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:38:26.675 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.543000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_163826.675/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;MaximizeIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:39:31.933 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>31.487000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_163931.933/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:40:34.574 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.006000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_164034.574/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;ChromeIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:41:03.586 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>54.507000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_164103.586/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:45:52.765 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>49.035000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_164552.765/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:51:08.795 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>54.066000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_165108.795/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 16:59:19.100 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.190000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_165919.100/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:03:05.005 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.169000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_170305.005/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:03:50.937 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>16.497000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_170350.937/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:04:30.827 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>49.678000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_170430.827/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:09:50.946 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.196000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_170950.946/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:10:29.869 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.193000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_171029.869/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:11:23.003 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.197000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_171123.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:15:19.380 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.209000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171519.380/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:16:19.440 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.205000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171619.440/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:16:38.025 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.216000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171638.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:16:55.647 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.209000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171655.647/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:20:16.375 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>82.191000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_172016.375/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;ChromeIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:22:22.619 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>114.324000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_172222.619/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:24:38.417 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>68.176000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_172438.417/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:27:05.534 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>49.930000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_172705.534/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:29:33.843 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>7.029000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_172933.843/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:30:21.061 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.507000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_173021.061/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- searchrectangle Error - Too Many Parameters, please use searchrectangle() with no parameters
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:32:51.168 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>12.248000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_173251.168/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:36:17.315 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>142.980000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_173617.315/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:39:58.998 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>38.408000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_173958.998/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 17:41:19.071 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>51.173000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_174119.071/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:04:29.345 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>99.336000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_180429.345/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:06:10.808 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>48.517000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_180610.808/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:48:22.914 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.193000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_184822.914/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:48:43.175 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.184000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_184843.175/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:49:10.068 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.174000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_184910.068/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;exercise3.a&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:49:47.259 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.192000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_184947.259/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Exercise3&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:50:05.695 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.185000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_185005.695/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:52:47.003 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.196000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_185247.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:52:57.871 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.203000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_185257.871/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:56:40.529 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.314000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_185640.529/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:56:54.555 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.309000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_185654.555/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;globaladd&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:58:55.199 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.209000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_185855.199/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;globaladd&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:59:39.484 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.252000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_185939.484/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;total&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 18:59:54.640 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.258000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_185954.640/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;total&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:00:57.206 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.255000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_190057.206/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;total&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:06:43.590 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>7.864000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_190643.590/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:11:10.720 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.704000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_191110.720/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;division&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:11:32.337 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>6.801000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_191132.337/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:16:13.402 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.229000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_191613.402/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:17:32.316 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.231000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_191732.316/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:17:54.858 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>49.956000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_191754.858/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:18:51.756 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.205000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_191851.756/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;result&#x27; and &#x27;20&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 19:19:30.871 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>11.508000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_191930.871/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 20:29:40.649 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>3.472000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_202940.649/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-12 21:50:33.758 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>74.353000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211012_215033.758/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:47:23.065 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.279000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211013_194723.065/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;exercise5a&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:47:32.032 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>35.280000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211013_194732.032/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;SQUARES&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-10-13 19:48:20.217 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>23.514000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20211013_194820.217/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

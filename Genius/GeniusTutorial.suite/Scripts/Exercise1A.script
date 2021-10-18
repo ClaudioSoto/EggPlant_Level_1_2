@@ -1,0 +1,55 @@
+﻿Run "Utils/Functions".OpenBrowser
+Run "Utils/Functions".SearchWebSite "http://epftraining.eggplantsoftware.com/information_list.html"
+
+put "Claudio" into nombre
+put 25 into edad
+
+log nombre
+log nombre && edad
+log "Mi nombre es" && nombre && "y mi edad es" && edad
+
+put ["rojo","azul","negro","morado"] into colores
+log item 2 of colores
+
+Repeat with each item color of colores
+	log color
+End repeat
+
+WaitFor 25, "Squares/GreenSquare"
+
+put ReadText("Squares/GreenSquare", "Squares/PurpleSquare") into name2
+log name2
+
+set the SearchRectangle to [80,388,131,424]
+put ReadText([80,388], [131,424]) into age2
+log age2
+
+log edad + age2
+put "" into answer
+if  age2 is greater than edad
+	put "JOHN DOW IS OLDER" into answer
+else
+	put  "IM OLDER" into answer
+end if
+
+set the SearchRectangle to []
+
+log answer
+Click "TextArea"
+TypeText answer
+
+Click imageName:"Submit", waitFor:10
+TypeText returnKey
+
+LogSuccess "Script finalizado correctamente"
+
+(*
+put ImageRectangle("Squares/GreenSquare") into greenSquareLoc
+put ImageRectangle("Squares/PurpleSquare") into purpleSquareLoc
+
+set myRectangle to [greenSquareLoc's bottomRight,[RemoteScreenSize()'s X, purpleSquareLoc's top]]
+
+set the SearchRectangle to myRectangle
+*)
+
+Run "Utils/Functions".CloseBrowser

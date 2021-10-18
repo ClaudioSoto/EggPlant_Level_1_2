@@ -1,0 +1,57 @@
+﻿//OPEN BROWSER
+Run "Utils/OpenBrowser"
+
+//NAVIGATE WEBSITE
+Run "Utils/NavigateWebSite" ("http://epftraining.eggplantsoftware.com/responsive_form.html")
+
+set myExcelDB to {type:"excel", file:"C:\Users\claudio.sotoayala\Downloads\ResponsiveList.xlsx"} -- set the specified variable, myExcelDB, to store the contents of the referenced Excel file
+
+put the records of myExcelDB into data -- fetch all records from the myExcelDB variable and place them into the states variable
+
+WaitFor 30, "TitleOfPage"
+
+
+Repeat for each record in data
+	put the @"full name" of record into name
+	put the email of record into email
+	put the message of record into message
+	put the color of record into color
+	put the device of record into device
+	put the @"supper time" of record into supperTime
+	log name && email && message && color && device && supperTime
+	
+	Click "FullName"
+	TypeText name
+	
+	Click "Email"
+	TypeText email
+	
+	Click "Message"
+	TypeText message
+	
+	set the SearchRectangle to [629,400,714,473]
+	if ImageFound(text:color)
+		Click text:color, waitFor:2
+	else
+		LogWarning "The color: " & color & " does not exist" 
+	end if
+	
+	set the SearchRectangle to [630,488,715,561]
+	Click text:device, waitFor:2
+	
+	set the SearchRectangle to []
+	
+	Click "SupperTime"
+	
+	set the SearchRectangle to [626,593,716,653]
+	Click text:supperTime, waitFor:2
+	
+	set the SearchRectangle to []
+
+	Click "Submit"
+	KeyDown returnKey
+	
+End Repeat
+
+//CLOSE BROWSER
+Run "Utils/CloseBrowser"

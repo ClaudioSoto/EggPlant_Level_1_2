@@ -1,0 +1,38 @@
+﻿2021-10-14 18:24:43.208 +0000	START		Running Exercise1B.script
+2021-10-14 18:24:43.527 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 18:24:55.731 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_searchwebsite	Utils/Functions.script
+2021-10-14 18:25:07.707 +0000	imagefound	SquaresB/Green	found at (67, 225)	4	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:07.707 +0000	Log		FIGURA VERDE ENCONTRADA	5	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:08.225 +0000	scrollwheeldown		moved 3	10	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:18.342 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	16	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:18.343 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:20.482 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:20.482 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:22.605 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:22.605 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:24.714 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:24.729 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:26.835 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:26.852 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:28.957 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:28.957 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:31.065 +0000	imagefound	SquaresB/Purple	Unable to Find Image SquaresB/Purple	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:31.065 +0000	scrollwheeldown		moved 3	17	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:33.174 +0000	imagefound	SquaresB/Purple	found at (69, 940)	21	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:33.182 +0000	Log		Las bajadas fueron: 7	23	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:33.182 +0000	Log		Las bajadas in index fueron:7	24	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:33.266 +0000	imagefound	SquaresB/Blue	Unable to Find Image SquaresB/Blue	26	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:33.274 +0000	scrollwheeldown		moved 3	27	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:35.351 +0000	imagefound	SquaresB/Blue	Unable to Find Image SquaresB/Blue	31	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:35.360 +0000	scrollwheeldown		moved 3	27	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:37.473 +0000	imagefound	SquaresB/Blue	Unable to Find Image SquaresB/Blue	31	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:37.483 +0000	scrollwheeldown		moved 3	27	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:39.603 +0000	imagefound	SquaresB/Blue	Unable to Find Image SquaresB/Blue	31	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:39.604 +0000	scrollwheeldown		moved 3	27	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:41.715 +0000	imagefound	SquaresB/Blue	found at (67, 956)	31	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:41.858 +0000	everyimagelocation	SquaresB/Orange	found 3 images	33	on_exercise1b	Exercise1B.script
+2021-10-14 18:25:41.866 +0000	Log		orangeSquares	34	on_exercise1b	Exercise1B.script
+2021-10-14 18:26:12.415 +0000	Exception	SquaresB/Purple	No Image Found On Screen: "SquaresB/Purple"	37	on_exercise1b	Exercise1B.script
+2021-10-14 18:26:29.555 +0000	Exception	SquaresB/Green	No Image Found On Screen: "SquaresB/Green"	40	on_exercise1b	Exercise1B.script
+2021-10-14 18:26:29.776 +0000	EndTestCase		(Duration:"106.564", Errors:"1", Exceptions:"2", StartTime:"2021-10-14 18:24:43 +0000", Successes:"0", TestCase:"Exercise1B.script", Warnings:"0")
+2021-10-14 18:26:29.788 +0000	ABORTED		Execution Time 0:01:46 Exercise1B.script

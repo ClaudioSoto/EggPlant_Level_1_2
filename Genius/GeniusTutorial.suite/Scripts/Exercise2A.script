@@ -1,0 +1,25 @@
+﻿Run "/Ejercicio2/Functions".OpenBrowser "chrome"
+Run "/Ejercicio2/Functions".OpenBrowser "http://epftraining.eggplantsoftware.com/scrolling.html"
+WaitFor 20, "Squares/PurpleSquare.png"
+click RemoteScreenSize()/2
+ScrollWheelDown 5
+wait 5
+put 0 into counter
+
+Repeat until ImageFound(imageName:"SquaresB/Purple", waitFor:0)
+	ScrollWheelDown 2
+	wait 3
+	put (counter+1) into counter
+	if counter is greater than 10
+		LogError "Too much scroll down"
+		Exit repeat
+	end if
+End repeat
+
+LogSuccess "TEST PASSED"
+
+Run "/Ejercicio2/Functions".CloseBrowser
+
+//CaptureScreen - saca foto en el momento que re requiere
+//TraceScreenOne - saca fotos a cada paso que da el script
+//StartMovie "Nombre del video" - StopMovie, todo lo que este dentro se graba un video con el nombre dado

@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Problems.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 15:50:39.781 +0000"
+			},
+		{
+				"handlerName": "on_problems",
+				"timestamp": "2021-10-15 15:50:39.839 +0000",
+				"message": "[5,4,3,2,1]",
+				"scriptName": "Problems.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.169\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-15 15:50:39 +0000\", Successes:\"0\", TestCase:\"Problems.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 15:50:39.956 +0000"
+			},
+		{
+				"message": "STUnknownMessage: ERROR: No Such Function: 'item' -- Execution Time 0:00:00 Problems.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-15 15:50:39.997 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 15:50:39.785 +0000"
+}

@@ -1,0 +1,102 @@
+﻿2021-10-12 21:47:09.385 +0000	START		Running Exercise4.script
+2021-10-12 21:47:09.714 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 21:47:12.429 +0000	typetext		http://epftraining.eggplantsoftware.com/responsive_form.html[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 21:47:23.058 +0000	waitfor	TitleOfPage	found at (437, 114)	11	on_exercise4	Exercise4.script
+2021-10-12 21:47:23.059 +0000	Log		Randy me@you.com Hi everyone! Purple Laptop Breakfast	21	on_exercise4	Exercise4.script
+2021-10-12 21:47:23.428 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:47:24.378 +0000	typetext		Randy	24	on_exercise4	Exercise4.script
+2021-10-12 21:47:25.293 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:47:26.293 +0000	typetext		me@you.com	27	on_exercise4	Exercise4.script
+2021-10-12 21:47:27.212 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:47:28.295 +0000	typetext		Hi everyone!	30	on_exercise4	Exercise4.script
+2021-10-12 21:47:28.310 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:47:29.517 +0000	imagefound	(TEXT:"Purple")	found at (672, 464)	33	on_exercise4	Exercise4.script
+2021-10-12 21:47:29.791 +0000	click	(TEXT:"Purple")	at (672, 464)	34	on_exercise4	Exercise4.script
+2021-10-12 21:47:29.804 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	39	on_exercise4	Exercise4.script
+2021-10-12 21:47:30.648 +0000	click	(TEXT:"Laptop")	at (673, 526)	40	on_exercise4	Exercise4.script
+2021-10-12 21:47:30.649 +0000	set		SEARCHRECTANGLE = []	42	on_exercise4	Exercise4.script
+2021-10-12 21:47:31.603 +0000	click	SupperTime	at (669, 584)	44	on_exercise4	Exercise4.script
+2021-10-12 21:47:31.611 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	46	on_exercise4	Exercise4.script
+2021-10-12 21:47:32.475 +0000	click	(TEXT:"Breakfast")	at (661, 603)	47	on_exercise4	Exercise4.script
+2021-10-12 21:47:32.476 +0000	set		SEARCHRECTANGLE = []	49	on_exercise4	Exercise4.script
+2021-10-12 21:47:33.401 +0000	click	Submit	at (657, 619)	51	on_exercise4	Exercise4.script
+2021-10-12 21:47:34.126 +0000	keydown		[returnKey]	52	on_exercise4	Exercise4.script
+2021-10-12 21:47:34.126 +0000	Log		Phil p@ill.go It's Cloudy out today Yellow Desktop Lunch	21	on_exercise4	Exercise4.script
+2021-10-12 21:47:35.001 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:47:35.826 +0000	typetext		Phil	24	on_exercise4	Exercise4.script
+2021-10-12 21:47:36.700 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:47:37.639 +0000	typetext		p@ill.go	27	on_exercise4	Exercise4.script
+2021-10-12 21:47:38.539 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:47:39.895 +0000	typetext		It's Cloudy out today	30	on_exercise4	Exercise4.script
+2021-10-12 21:47:39.907 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:47:40.705 +0000	imagefound	(TEXT:"Yellow")	found at (674, 438)	33	on_exercise4	Exercise4.script
+2021-10-12 21:47:41.026 +0000	click	(TEXT:"Yellow")	at (674, 438)	34	on_exercise4	Exercise4.script
+2021-10-12 21:47:41.034 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	39	on_exercise4	Exercise4.script
+2021-10-12 21:47:42.042 +0000	click	(TEXT:"Desktop")	at (676, 551)	40	on_exercise4	Exercise4.script
+2021-10-12 21:47:42.046 +0000	set		SEARCHRECTANGLE = []	42	on_exercise4	Exercise4.script
+2021-10-12 21:47:43.209 +0000	click	SupperTime	at (669, 584)	44	on_exercise4	Exercise4.script
+2021-10-12 21:47:43.216 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	46	on_exercise4	Exercise4.script
+2021-10-12 21:47:44.227 +0000	click	(TEXT:"Lunch")	at (651, 620)	47	on_exercise4	Exercise4.script
+2021-10-12 21:47:44.232 +0000	set		SEARCHRECTANGLE = []	49	on_exercise4	Exercise4.script
+2021-10-12 21:47:45.324 +0000	click	Submit	at (657, 619)	51	on_exercise4	Exercise4.script
+2021-10-12 21:47:46.038 +0000	keydown		[returnKey]	52	on_exercise4	Exercise4.script
+2021-10-12 21:47:46.055 +0000	Log		Lauren ren@ru.po Jars are made out of Honey Orange Phone Dinner	21	on_exercise4	Exercise4.script
+2021-10-12 21:47:46.935 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:47:47.836 +0000	typetext		Lauren	24	on_exercise4	Exercise4.script
+2021-10-12 21:47:48.749 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:47:49.717 +0000	typetext		ren@ru.po	27	on_exercise4	Exercise4.script
+2021-10-12 21:47:50.578 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:47:52.092 +0000	typetext		Jars are made out of Honey	30	on_exercise4	Exercise4.script
+2021-10-12 21:47:52.109 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:47:52.886 +0000	imagefound	(TEXT:"Orange")	found at (674, 414)	33	on_exercise4	Exercise4.script
+2021-10-12 21:47:53.216 +0000	click	(TEXT:"Orange")	at (674, 414)	34	on_exercise4	Exercise4.script
+2021-10-12 21:47:53.232 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	39	on_exercise4	Exercise4.script
+2021-10-12 21:47:54.211 +0000	click	(TEXT:"Phone")	at (670, 500)	40	on_exercise4	Exercise4.script
+2021-10-12 21:47:54.219 +0000	set		SEARCHRECTANGLE = []	42	on_exercise4	Exercise4.script
+2021-10-12 21:47:55.362 +0000	click	SupperTime	at (669, 584)	44	on_exercise4	Exercise4.script
+2021-10-12 21:47:55.374 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	46	on_exercise4	Exercise4.script
+2021-10-12 21:47:56.327 +0000	click	(TEXT:"Dinner")	at (652, 636)	47	on_exercise4	Exercise4.script
+2021-10-12 21:47:56.333 +0000	set		SEARCHRECTANGLE = []	49	on_exercise4	Exercise4.script
+2021-10-12 21:47:57.387 +0000	click	Submit	at (657, 619)	51	on_exercise4	Exercise4.script
+2021-10-12 21:47:58.110 +0000	keydown		[returnKey]	52	on_exercise4	Exercise4.script
+2021-10-12 21:47:58.126 +0000	Log		Patty patty@mayo.doug I love the beets Yellow Phone Lunch	21	on_exercise4	Exercise4.script
+2021-10-12 21:47:59.026 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:47:59.870 +0000	typetext		Patty	24	on_exercise4	Exercise4.script
+2021-10-12 21:48:00.740 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:48:01.841 +0000	typetext		patty@mayo.doug	27	on_exercise4	Exercise4.script
+2021-10-12 21:48:02.728 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:48:03.850 +0000	typetext		I love the beets	30	on_exercise4	Exercise4.script
+2021-10-12 21:48:03.868 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:48:04.642 +0000	imagefound	(TEXT:"Yellow")	found at (674, 438)	33	on_exercise4	Exercise4.script
+2021-10-12 21:48:04.970 +0000	click	(TEXT:"Yellow")	at (674, 438)	34	on_exercise4	Exercise4.script
+2021-10-12 21:48:04.980 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	39	on_exercise4	Exercise4.script
+2021-10-12 21:48:05.954 +0000	click	(TEXT:"Phone")	at (670, 500)	40	on_exercise4	Exercise4.script
+2021-10-12 21:48:05.961 +0000	set		SEARCHRECTANGLE = []	42	on_exercise4	Exercise4.script
+2021-10-12 21:48:07.088 +0000	click	SupperTime	at (669, 584)	44	on_exercise4	Exercise4.script
+2021-10-12 21:48:07.092 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	46	on_exercise4	Exercise4.script
+2021-10-12 21:48:08.145 +0000	click	(TEXT:"Lunch")	at (651, 620)	47	on_exercise4	Exercise4.script
+2021-10-12 21:48:08.146 +0000	set		SEARCHRECTANGLE = []	49	on_exercise4	Exercise4.script
+2021-10-12 21:48:09.312 +0000	click	Submit	at (657, 619)	51	on_exercise4	Exercise4.script
+2021-10-12 21:48:10.033 +0000	keydown		[returnKey]	52	on_exercise4	Exercise4.script
+2021-10-12 21:48:10.042 +0000	Log		Tom tom@top.hat Trees are Colorful Green Laptop Dinner	21	on_exercise4	Exercise4.script
+2021-10-12 21:48:10.932 +0000	click	FullName	at (719, 179)	23	on_exercise4	Exercise4.script
+2021-10-12 21:48:11.715 +0000	typetext		Tom	24	on_exercise4	Exercise4.script
+2021-10-12 21:48:12.567 +0000	click	Email	at (740, 210)	26	on_exercise4	Exercise4.script
+2021-10-12 21:48:13.579 +0000	typetext		tom@top.hat	27	on_exercise4	Exercise4.script
+2021-10-12 21:48:14.426 +0000	click	Message	at (753, 284)	29	on_exercise4	Exercise4.script
+2021-10-12 21:48:15.706 +0000	typetext		Trees are Colorful	30	on_exercise4	Exercise4.script
+2021-10-12 21:48:15.718 +0000	set		SEARCHRECTANGLE = [629,400,714,473]	32	on_exercise4	Exercise4.script
+2021-10-12 21:48:19.333 +0000	imagefound	(TEXT:"Green")	Unable to Find Image (TEXT:"Green"). Text not found.	33	on_exercise4	Exercise4.script
+2021-10-12 21:48:19.342 +0000	LogWarning		The color: Green does not exist	36	on_exercise4	Exercise4.script
+2021-10-12 21:48:19.350 +0000	set		SEARCHRECTANGLE = [630,488,715,561]	39	on_exercise4	Exercise4.script
+2021-10-12 21:48:19.672 +0000	click	(TEXT:"Laptop")	at (673, 526)	40	on_exercise4	Exercise4.script
+2021-10-12 21:48:19.683 +0000	set		SEARCHRECTANGLE = []	42	on_exercise4	Exercise4.script
+2021-10-12 21:48:20.788 +0000	click	SupperTime	at (669, 584)	44	on_exercise4	Exercise4.script
+2021-10-12 21:48:20.796 +0000	set		SEARCHRECTANGLE = [626,593,716,653]	46	on_exercise4	Exercise4.script
+2021-10-12 21:48:21.769 +0000	click	(TEXT:"Dinner")	at (652, 636)	47	on_exercise4	Exercise4.script
+2021-10-12 21:48:21.778 +0000	set		SEARCHRECTANGLE = []	49	on_exercise4	Exercise4.script
+2021-10-12 21:48:22.901 +0000	click	Submit	at (657, 619)	51	on_exercise4	Exercise4.script
+2021-10-12 21:48:23.619 +0000	keydown		[returnKey]	52	on_exercise4	Exercise4.script
+2021-10-12 21:48:24.369 +0000	keydown		[windowsAltKey][F4]	2	on_utils_closebrowser	Utils/CloseBrowser.script
+2021-10-12 21:48:24.522 +0000	EndTestCase		(Duration:"75.137", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 21:47:09 +0000", Successes:"1", TestCase:"Exercise4.script", Warnings:"1")
+2021-10-12 21:48:24.572 +0000	SUCCESS		Execution Time 0:01:15 Exercise4.script

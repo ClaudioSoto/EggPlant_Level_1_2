@@ -1,0 +1,5 @@
+﻿2021-10-12 18:56:40.535 +0000	START		Running MasterScript.script
+2021-10-12 18:56:40.614 +0000	Log		The add result is: 10	9	on_masterscript	MasterScript.script
+2021-10-12 18:56:40.623 +0000	Log		Welcome to Sense Talk	2	on_welcome	Exercise3B.script
+2021-10-12 18:56:40.844 +0000	EndTestCase		(Duration:"0.304", Errors:"1", Exceptions:"0", StartTime:"2021-10-12 18:56:40 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 18:56:41.238 +0000	FAILURE	Screen_Error.png	STInvalidNumber: Value is not a number: 'num1' -- Execution Time 0:00:00 MasterScript.script

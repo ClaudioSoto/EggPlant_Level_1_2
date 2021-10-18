@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise1_script" package="GeniusTutorial.suite" timestamp="2021-10-14 17:53:58.810 +0000"
+ tests="1"  failures="1" errors="1" time="33.777000">
+  <properties>
+   <property name="RunDate" value="2021-10-14 17:53:58.810 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Exercise1.script" assertions="1" status="error"  time="33.765">
+    <failure type="FAILURE" message="File Not Found: click Error - Could Not Open Image: Submit -- Execution Time 0:00:33 Exercise1.script" />
+    <error type="Exception" message="Could Not Open Image: Submit" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,39 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 15:42:09.545 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 15:42:09.845 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 15:42:50.379 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "Unable To Find Any Image On Screen \"SearchBar\" within 20.00 seconds",
+				"image": "SearchBar",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"41.108\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-14 15:42:09 +0000\", Successes:\"0\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 15:42:50.661 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"SearchBar\" within 20.00 seconds -- Execution Time 0:00:41 Exercise1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-14 15:42:51.425 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 15:42:09.545 +0000"
+}

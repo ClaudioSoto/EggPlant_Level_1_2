@@ -1,0 +1,110 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 21:42:31.727 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 21:42:32.086 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 21:42:43.662 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/information_list.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.691 +0000",
+				"message": "Claudio",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.702 +0000",
+				"message": "Claudio 25",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.710 +0000",
+				"message": "Mi nombre es Claudio y mi edad es 25",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.715 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.723 +0000",
+				"message": "rojo",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.732 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.738 +0000",
+				"message": "negro",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:42:43.741 +0000",
+				"message": "morado",
+				"scriptName": "Exercise1A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1a",
+				"timestamp": "2021-10-14 21:43:28.295 +0000",
+				"scriptName": "Exercise1A.script",
+				"message": "Unable To Find Any Image On Screen \"Squares/GreenSquare\" within 25.00 seconds",
+				"image": "Squares/GreenSquare",
+				"handlerLine": 18,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"56.707\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-14 21:42:31 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 21:43:28.435 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:56 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-14 21:43:28.448 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 21:42:31.728 +0000"
+}

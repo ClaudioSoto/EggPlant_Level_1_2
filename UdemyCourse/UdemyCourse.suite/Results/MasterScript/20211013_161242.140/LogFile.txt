@@ -1,0 +1,11 @@
+﻿2021-10-13 16:12:42.147 +0000	START		Running MasterScript.script
+2021-10-13 16:12:42.217 +0000	Log		Hello world my friends	5	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.225 +0000	Log		This is an example	5	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.228 +0000	Log		Of reading from a file	5	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.228 +0000	Log		Using eggplant to do it	5	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.236 +0000	Log		Claudio is the best engineer	5	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.243 +0000	Log		This is an example	9	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.243 +0000	Log		["This","is","an","example"]	11	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.253 +0000	Log		example	14	on_masterscript	MasterScript.script
+2021-10-13 16:12:42.417 +0000	EndTestCase		(Duration:"0.27", Errors:"1", Exceptions:"0", StartTime:"2021-10-13 16:12:42 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-13 16:12:42.838 +0000	FAILURE	Screen_Error.png	STFileException: Failed to write to file C:/Users/claudio.sotoayala/Documents/Hello world my friends\nThis is an example\nOf reading from a file\nUsing eggplant to do itClaudio is the best engineer -- Execution Time 0:00:00 MasterScript.script

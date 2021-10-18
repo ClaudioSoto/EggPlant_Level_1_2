@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Exercise1">
+ <run>
+  <RunDate>2021-10-12 17:15:00.108 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.195000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20211012_171500.108/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;Utils&#x27;</ErrorMessage>
+ </run>
+</runHistory>

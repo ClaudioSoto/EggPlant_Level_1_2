@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 20:52:32.631 +0000"
+			},
+		{
+				"message": "(Duration:\"2.057\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 20:52:32 +0000\", Successes:\"0\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 20:52:34.693 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Workbook Error: Wrong file type (must be 'xls' or 'xlsx' file): C:/Users/claudio.sotoayala/Documents/{file:\"C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx\", name:\"ExcelFile\"} -- Execution Time 0:00:02 Exercise4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 20:52:35.074 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 20:52:32.635 +0000"
+}

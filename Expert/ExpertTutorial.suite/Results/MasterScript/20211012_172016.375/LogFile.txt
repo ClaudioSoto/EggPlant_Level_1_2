@@ -1,0 +1,29 @@
+﻿2021-10-12 17:20:16.381 +0000	START		Running MasterScript.script
+2021-10-12 17:20:16.705 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:20:18.601 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:20:19.332 +0000	moveto		at (960, 540)	8	on_exercise1	Exercise1.script
+2021-10-12 17:20:19.745 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	9	on_exercise1	Exercise1.script
+2021-10-12 17:20:20.042 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:25.354 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:25.360 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:30.671 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:30.677 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:35.945 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:35.982 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:41.186 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:41.190 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:46.457 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:46.471 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:51.748 +0000	imagefound	HTCProduct	Unable to Find Image HTCProduct	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:51.829 +0000	scrollwheeldown		moved 2	10	on_exercise1	Exercise1.script
+2021-10-12 17:20:56.975 +0000	imagefound	HTCProduct	found at (1402, 429)	12	on_exercise1	Exercise1.script
+2021-10-12 17:20:57.192 +0000	click	HTCProduct	at (1402, 429)	15	on_exercise1	Exercise1.script
+2021-10-12 17:20:57.264 +0000	waitfor	AddToCartIcon.png	found at (448, 572)	18	on_exercise1	Exercise1.script
+2021-10-12 17:20:58.422 +0000	click	AddToCartIcon	at (448, 572)	19	on_exercise1	Exercise1.script
+2021-10-12 17:21:13.642 +0000	doubleclick	CartIcon	at (1473, 90)	23	on_exercise1	Exercise1.script
+2021-10-12 17:21:14.323 +0000	imagefound	HTCProductInCart	found at (695, 513)	26	on_exercise1	Exercise1.script
+2021-10-12 17:21:14.327 +0000	LogSuccess		Test passed	27	on_exercise1	Exercise1.script
+2021-10-12 17:21:14.763 +0000	keydown		[windowsAltKey][F4]	33	on_exercise1	Exercise1.script
+2021-10-12 17:21:38.436 +0000	Exception	ChromeIcon	No Image Found On Screen: "ChromeIcon"	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:21:38.567 +0000	EndTestCase		(Duration:"82.181", Errors:"1", Exceptions:"1", StartTime:"2021-10-12 17:20:16 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 17:21:38.990 +0000	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "ChromeIcon" -- Execution Time 0:01:22 MasterScript.script

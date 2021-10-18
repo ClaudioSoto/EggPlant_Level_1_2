@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise5A.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 19:45:14.027 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-13 19:45:14.346 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-13 19:45:17.023 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:45:17.079 +0000",
+				"scriptName": "Exercise5A.script",
+				"message": "Could Not Open Image: GreenSquare",
+				"image": "GreenSquare",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"3.297\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-13 19:45:14 +0000\", Successes:\"0\", TestCase:\"Exercise5A.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 19:45:17.340 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: GreenSquare -- Execution Time 0:00:03 Exercise5A.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-13 19:45:17.894 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 19:45:14.036 +0000"
+}

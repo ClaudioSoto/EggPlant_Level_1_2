@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		179,
+		281,
+		318,
+		23
+	],
+	"lastmodifieddate": 1634161561.925,
+	"createddate": 1634161561.925,
+	"name": "ReydelosPiratasOnePieceWiki",
+	"lastfounddate": 1634161694.1459999,
+	"ocrcapturestring": "Rey de los Piratas - One Piece Wiki",
+	"lastfoundlocation": [
+		179,
+		281,
+		318,
+		23
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "Rey de los Piratas - One Piece Wiki",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[133,7]",
+					"Tolerance": "_70",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"type": 1,
+				"capturerect": [
+					179,
+					281,
+					318,
+					23
+				],
+				"name": "ReydelosPiratasOnePieceWiki.png"
+			}
+	]
+}

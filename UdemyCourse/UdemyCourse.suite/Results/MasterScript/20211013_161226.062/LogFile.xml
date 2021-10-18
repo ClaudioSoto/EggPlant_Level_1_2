@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="UdemyCourse.suite" timestamp="2021-10-13 16:12:26.062 +0000"
+ tests="1"  failures="1" errors="0" time="0.290000">
+  <properties>
+   <property name="RunDate" value="2021-10-13 16:12:26.062 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="failure"  time="0.276">
+    <failure type="FAILURE" message="STFileException: Failed to write to file C:/Users/claudio.sotoayala/Documents/Hello world my friends\nThis is an example\nOf reading from a file\nUsing eggplant to do itClaudio is the best engineer -- Execution Time 0:00:00 MasterScript.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

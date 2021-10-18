@@ -1,0 +1,10 @@
+﻿2021-10-15 20:05:51.997 +0000	START		Running MasterScript.script
+2021-10-15 20:05:52.136 +0000	typetext		[windowsKey]r	2	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:05:53.074 +0000	typetext		chrome[returnKey]	3	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:05:54.240 +0000	typetext		[windowsKey]r	2	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:05:56.509 +0000	typetext		http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]	3	on_openbrowser	Ejercicio2/Functions.script
+2021-10-15 20:06:02.552 +0000	waitfor	Squares/PurpleSquare.png	found at (228, 226)	12	on_masterscript	MasterScript.script
+2021-10-15 20:06:02.991 +0000	scrollwheeldown		moved 3	13	on_masterscript	MasterScript.script
+2021-10-15 20:06:03.038 +0000	imagefound	SquaresB/Purple	found at (227, 124)	16	on_masterscript	MasterScript.script
+2021-10-15 20:06:03.374 +0000	EndTestCase		(Duration:"11.373", Errors:"0", Exceptions:"0", StartTime:"2021-10-15 20:05:52 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-15 20:06:03.431 +0000	SUCCESS		Execution Time 0:00:11 MasterScript.script

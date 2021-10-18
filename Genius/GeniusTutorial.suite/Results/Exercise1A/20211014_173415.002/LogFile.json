@@ -1,0 +1,148 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 17:34:15.011 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 17:34:15.341 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 17:34:27.468 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/information_list.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.481 +0000",
+				"message": "Claudio",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.487 +0000",
+				"message": "Claudio 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.487 +0000",
+				"message": "Mi nombre es Claudio y mi edad es 25",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.502 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.506 +0000",
+				"message": "rojo",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.506 +0000",
+				"message": "azul",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.519 +0000",
+				"message": "negro",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:34:37.521 +0000",
+				"message": "morado",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:35:00.495 +0000",
+				"message": "(69,226)",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 18,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:35:00.500 +0000",
+				"scriptName": "Exercise1.script",
+				"identifier": "Log",
+				"handlerLine": 19
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:35:00.505 +0000",
+				"message": "SEARCHRECTANGLE = [80,388,131,424]",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 21,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:35:00.530 +0000",
+				"message": "(80,388,131,424)",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 22,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:35:00.534 +0000",
+				"message": "40",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 23,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise1",
+				"timestamp": "2021-10-14 17:35:00.534 +0000",
+				"message": "65",
+				"scriptName": "Exercise1.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"685.061\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-14 17:34:15 +0000\", Successes:\"0\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 17:45:40.080 +0000"
+			},
+		{
+				"message": "Execution Time 0:11:25 Exercise1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-14 17:45:40.113 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 17:34:15.017 +0000"
+}

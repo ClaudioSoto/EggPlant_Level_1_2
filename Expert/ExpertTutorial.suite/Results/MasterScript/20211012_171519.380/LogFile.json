@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:15:19.388 +0000"
+			},
+		{
+				"message": "(Duration:\"0.198\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 17:15:19 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:15:19.590 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STInvalidNumber: Value is not a number: 'Utils' -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 17:15:19.968 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:15:19.392 +0000"
+}

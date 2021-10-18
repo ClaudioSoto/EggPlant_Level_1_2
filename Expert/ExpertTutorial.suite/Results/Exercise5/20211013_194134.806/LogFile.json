@@ -1,0 +1,135 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise5A.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 19:41:34.813 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-13 19:41:37.887 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-13 19:41:40.510 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/Debugging.html[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:45.234 +0000",
+				"scriptName": "Exercise5A.script",
+				"message": "at (99, 258)",
+				"image": "GreenSquare",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:46.043 +0000",
+				"scriptName": "Exercise5A.script",
+				"message": "found 4 images",
+				"image": "GreenSquare",
+				"handlerLine": 11,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:46.043 +0000",
+				"message": "[102,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:46.158 +0000",
+				"message": "at (102, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:48.160 +0000",
+				"message": "[390,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:48.271 +0000",
+				"message": "at (390, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:50.283 +0000",
+				"message": "[966,445]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:50.395 +0000",
+				"message": "at (966, 445)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:52.419 +0000",
+				"message": "[1221,452]",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:52.560 +0000",
+				"message": "at (1221, 452)",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_exercise5a",
+				"timestamp": "2021-10-13 19:41:54.571 +0000",
+				"message": "All green squares were clicked",
+				"scriptName": "Exercise5A.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_utils_closebrowser",
+				"timestamp": "2021-10-13 19:41:59.649 +0000",
+				"message": "[windowsAltKey][F4]",
+				"scriptName": "Utils/CloseBrowser.script",
+				"handlerLine": 2,
+				"identifier": "keydown"
+			},
+		{
+				"message": "(Duration:\"25.026\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-13 19:41:34 +0000\", Successes:\"1\", TestCase:\"Exercise5A.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 19:41:59.846 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:25 Exercise5A.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-13 19:41:59.897 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 19:41:34.820 +0000"
+}

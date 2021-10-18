@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 17:56:17.436 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 17:56:28.273 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "No Image Found On Screen: \"ChromeIcon\"",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"11.024\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-14 17:56:17 +0000\", Successes:\"0\", TestCase:\"Exercise1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 17:56:28.472 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:11 Exercise1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-14 17:56:28.489 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 17:56:17.446 +0000"
+}

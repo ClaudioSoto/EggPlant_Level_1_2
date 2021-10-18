@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		173,
+		679,
+		34,
+		33
+	],
+	"lastmodifieddate": 1634161559.8530002,
+	"createddate": 1634161559.8530002,
+	"name": "ChromeIcon",
+	"lastfounddate": 1634321056.632,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		173,
+		679,
+		34,
+		33
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "□",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[15,20]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					173,
+					679,
+					34,
+					33
+				],
+				"name": "ChromeIcon.png"
+			}
+	]
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="ExpertTutorial.suite" timestamp="2021-10-11 22:46:00.711 +0000"
+ tests="1"  failures="2" errors="0" time="50.110000">
+  <properties>
+   <property name="RunDate" value="2021-10-11 22:46:00.711 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="failure"  time="50.1">
+    <failure type="LogError" message="Test failed" />
+    <failure type="FAILURE" message="Script Error: Number of Errors logged: 1 -- Execution Time 0:00:50 MasterScript.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

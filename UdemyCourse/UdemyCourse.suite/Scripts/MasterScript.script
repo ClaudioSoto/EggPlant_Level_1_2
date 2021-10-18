@@ -1,0 +1,23 @@
+﻿put file ResourcePath("Practice1.txt") into fileVar
+
+//TO ITERATE OVER THE LINES IN THE FILE
+repeat with each line of fileVar
+	log it
+end repeat
+
+//TO GET A SPECIFIC LINE
+log the second line of fileVar
+put split(the second line of fileVar," ") into lineTwo
+log lineTwo
+
+//TO GET A WORD OF SPECIFIC LINE
+log item 4 of lineTwo
+
+//APPEND TEXT TO A FILE
+put "Claudio is the best engineer" into text
+put crlf after file ResourcePath("Practice1.txt") 
+put text after file ResourcePath("Practice1.txt") 
+log fileVar
+
+//CREATE FILE
+put "Claudio is creating a file from 0 to hero" into file "C:\Users\claudio.sotoayala\Desktop\Misc\Eggplant\UdemyCourse\UdemyCourse.suite\Resources\CreatingFile.txt"

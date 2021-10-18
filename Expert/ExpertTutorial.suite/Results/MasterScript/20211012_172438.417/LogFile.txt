@@ -1,0 +1,7 @@
+﻿2021-10-12 17:24:38.425 +0000	START		Running MasterScript.script
+2021-10-12 17:24:38.796 +0000	doubleclick	ChromeIcon	at (189, 696)	2	on_utils_openbrowser	Utils/OpenBrowser.script
+2021-10-12 17:24:41.061 +0000	typetext		http://nopcommerce.testplant.com[returnKey]	3	on_utils_navigatewebsite	Utils/NavigateWebSite.script
+2021-10-12 17:25:38.548 +0000	LogWarning		Timing Problem: Increase search time in script for this search
+2021-10-12 17:25:46.164 +0000	moveto	(TEXT:"Electronics")	at (675, 286)	8	on_exercise2	Exercise2.script
+2021-10-12 17:25:46.595 +0000	EndTestCase		(Duration:"68.165", Errors:"0", Exceptions:"0", StartTime:"2021-10-12 17:24:38 +0000", Successes:"1", TestCase:"MasterScript.script", Warnings:"1")
+2021-10-12 17:25:46.641 +0000	SUCCESS		Execution Time 0:01:08 MasterScript.script

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:36:17.322 +0000"
+			},
+		{
+				"handlerName": "on_utils_openbrowser",
+				"timestamp": "2021-10-12 17:36:17.704 +0000",
+				"scriptName": "Utils/OpenBrowser.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_utils_navigatewebsite",
+				"timestamp": "2021-10-12 17:36:19.671 +0000",
+				"message": "http://nopcommerce.testplant.com[returnKey]",
+				"scriptName": "Utils/NavigateWebSite.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:36:19.680 +0000",
+				"message": "SEARCHRECTANGLE = [611,263,753,316]",
+				"scriptName": "Exercise2.script",
+				"handlerLine": 8,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_exercise2",
+				"timestamp": "2021-10-12 17:36:30.366 +0000",
+				"scriptName": "Exercise2.script",
+				"message": "at (675, 286)",
+				"image": "(TEXT:\"Electronics\")",
+				"handlerLine": 9,
+				"identifier": "moveto"
+			},
+		{
+				"message": "(Duration:\"142.969\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 17:36:17 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:38:40.296 +0000"
+			},
+		{
+				"message": "Execution Time 0:02:22 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-12 17:38:40.307 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:36:17.325 +0000"
+}

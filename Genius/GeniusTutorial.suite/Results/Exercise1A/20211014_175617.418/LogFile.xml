@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Exercise1_script" package="GeniusTutorial.suite" timestamp="2021-10-14 17:56:17.418 +0000"
+ tests="1"  failures="0" errors="0" time="11.054000">
+  <properties>
+   <property name="RunDate" value="2021-10-14 17:56:17.418 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Exercise1.script" assertions="1" status="error"  time="11.024">
+    <error type="Exception" message="No Image Found On Screen: &quot;ChromeIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

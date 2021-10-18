@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		947,
+		28,
+		23,
+		24
+	],
+	"lastmodifieddate": 1634056974.026,
+	"createddate": 1633990603.309,
+	"name": "MaximizeIcon",
+	"lastfounddate": 1634056793.1389999,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		539,
+		363,
+		18,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[11,12]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "MaximizeIcon.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					947,
+					28,
+					23,
+					24
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

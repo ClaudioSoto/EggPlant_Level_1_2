@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 17:29:33.849 +0000"
+			},
+		{
+				"message": "(Duration:\"7.02\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 17:29:33 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 17:29:40.874 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:07 MasterScript.script",
+				"identifier": "ABORTED",
+				"timestamp": "2021-10-12 17:29:40.885 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 17:29:33.853 +0000"
+}

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise1B.script",
+				"identifier": "START",
+				"timestamp": "2021-10-14 18:03:27.421 +0000"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2021-10-14 18:03:27.708 +0000",
+				"scriptName": "Utils/Functions.script",
+				"message": "at (187, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_searchwebsite",
+				"timestamp": "2021-10-14 18:03:39.129 +0000",
+				"message": "http://epftraining.eggplantsoftware.com/scrolling.html[returnKey]",
+				"scriptName": "Utils/Functions.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:03:59.276 +0000",
+				"scriptName": "Exercise1B.script",
+				"message": "Unable to Find Image SquaresB/Green",
+				"image": "SquaresB/Green",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_exercise1b",
+				"timestamp": "2021-10-14 18:03:59.293 +0000",
+				"message": "FIGURA NO ENCONTRADA",
+				"scriptName": "Exercise1B.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"31.942\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-10-14 18:03:27 +0000\", Successes:\"1\", TestCase:\"Exercise1B.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-14 18:03:59.369 +0000"
+			},
+		{
+				"message": "Execution Time 0:00:31 Exercise1B.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2021-10-14 18:03:59.417 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-14 18:03:27.421 +0000"
+}

@@ -1,0 +1,85 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-13 16:12:26.075 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.156 +0000",
+				"message": "Hello world my friends",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.161 +0000",
+				"message": "This is an example",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.165 +0000",
+				"message": "Of reading from a file",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.170 +0000",
+				"message": "Using eggplant to do it",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.175 +0000",
+				"message": "Claudio is the best engineer",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 5,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.179 +0000",
+				"message": "This is an example",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.179 +0000",
+				"message": "[\"This\",\"is\",\"an\",\"example\"]",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-13 16:12:26.191 +0000",
+				"message": "example",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 14,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.276\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-13 16:12:26 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-13 16:12:26.358 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STFileException: Failed to write to file C:/Users/claudio.sotoayala/Documents/Hello world my friends\\nThis is an example\\nOf reading from a file\\nUsing eggplant to do itClaudio is the best engineer -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-13 16:12:26.754 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-13 16:12:26.076 +0000"
+}

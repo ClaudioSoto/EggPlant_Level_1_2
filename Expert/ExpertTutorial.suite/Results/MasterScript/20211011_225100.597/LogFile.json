@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-11 22:51:00.604 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-11 22:51:00.655 +0000",
+				"message": "Remote Connection Unavailable",
+				"scriptName": "MasterScript.script",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.106\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-11 22:51:00 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-11 22:51:00.717 +0000"
+			},
+		{
+				"message": "No Remote Connection: doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-11 22:51:00.752 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-11 22:51:00.604 +0000"
+}

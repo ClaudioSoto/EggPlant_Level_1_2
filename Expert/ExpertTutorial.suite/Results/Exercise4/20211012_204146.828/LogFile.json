@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Exercise4.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 20:41:46.834 +0000"
+			},
+		{
+				"message": "(Duration:\"0.187\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-12 20:41:46 +0000\", Successes:\"0\", TestCase:\"Exercise4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 20:41:47.026 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STFileException: File C:/Users/claudio.sotoayala/Desktop/Misc/Eggplant/Expert/ExpertTutorial.suite/Resources/ResponsiveList.xlsx couldn't be read using the defaultStringEncoding (ASCII) -- Execution Time 0:00:00 Exercise4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 20:41:47.405 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 20:41:46.838 +0000"
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1873,
+		1,
+		46,
+		28
+	],
+	"lastmodifieddate": 1633991806.5349998,
+	"createddate": 1633991806.5349998,
+	"name": "CloseBrowserIcon",
+	"lastfounddate": 1633992760.2680001,
+	"ocrcapturestring": "X",
+	"lastfoundlocation": [
+		1873,
+		1,
+		46,
+		28
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,14]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "CloseBrowserIcon.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					1873,
+					1,
+					46,
+					28
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "X"
+			}
+	]
+}

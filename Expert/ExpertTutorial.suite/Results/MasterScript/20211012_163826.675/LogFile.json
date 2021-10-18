@@ -1,0 +1,39 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-12 16:38:26.683 +0000"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 16:38:27.001 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "at (189, 696)",
+				"image": "ChromeIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_masterscript",
+				"timestamp": "2021-10-12 16:39:03.102 +0000",
+				"scriptName": "MasterScript.script",
+				"message": "No Image Found On Screen: \"MaximizeIcon\"",
+				"image": "MaximizeIcon",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"36.531\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-10-12 16:38:26 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-12 16:39:03.219 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"MaximizeIcon\" -- Execution Time 0:00:36 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-12 16:39:03.865 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-12 16:38:26.687 +0000"
+}

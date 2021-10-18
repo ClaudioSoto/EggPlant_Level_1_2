@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-10-12 19:14:13.017 +0000,"Success",0:00:00,0,0,0,"20211012_191413.017/LogFile.txt","","",1
+2021-10-12 19:14:36.858 +0000,"Success",0:00:00,0,0,0,"20211012_191436.858/LogFile.txt","","",1
+2021-10-12 19:15:15.387 +0000,"Success",0:00:00,0,0,0,"20211012_191515.387/LogFile.txt","","",1
+2021-10-12 19:15:37.969 +0000,"Success",0:00:00,0,0,0,"20211012_191537.969/LogFile.txt","","",1

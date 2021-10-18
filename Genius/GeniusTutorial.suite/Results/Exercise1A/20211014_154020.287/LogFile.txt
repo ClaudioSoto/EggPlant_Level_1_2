@@ -1,0 +1,4 @@
+﻿2021-10-14 15:40:20.287 +0000	START		Running Exercise1.script
+2021-10-14 15:40:20.737 +0000	doubleclick	ChromeIcon	at (187, 696)	2	on_openbrowser	Utils/Functions.script
+2021-10-14 15:40:21.004 +0000	EndTestCase		(Duration:"0.701", Errors:"0", Exceptions:"0", StartTime:"2021-10-14 15:40:20 +0000", Successes:"1", TestCase:"Exercise1.script", Warnings:"0")
+2021-10-14 15:40:21.073 +0000	SUCCESS		Execution Time 0:00:00 Exercise1.script

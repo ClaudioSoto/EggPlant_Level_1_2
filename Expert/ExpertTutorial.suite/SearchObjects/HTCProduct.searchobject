@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1266,
+		627,
+		273,
+		27
+	],
+	"lastmodifieddate": 1633991198.165,
+	"createddate": 1633991198.165,
+	"name": "HTCProduct",
+	"lastfounddate": 1634061905.1329999,
+	"ocrcapturestring": "HTC One M8 Android L 5.0 Lollipop",
+	"lastfoundlocation": [
+		1266,
+		616,
+		273,
+		27
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[136,13]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "HTCProduct.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					1266,
+					627,
+					273,
+					27
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "HTC One M8 Android L 5.0 Lollipop"
+			}
+	]
+}

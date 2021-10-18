@@ -1,0 +1,25 @@
+﻿//OPEN BROWSER
+Run "Utils/OpenBrowser"
+
+//NAVIGATE A WEBSITE
+Run "Utils/NavigateWebSite"("http://epftraining.eggplantsoftware.com/Debugging.html")
+
+//CLICK GREEN SQUARE
+Click imageName:"SQUARES", waitFor:20
+
+//OBTAIN ALL THE GREEN SQUARES
+put EveryImageLocation("SQUARES") into imageList
+
+//PRINT ALL THE LOCATIONS AND CLICK
+Repeat with each item image of imageList
+	log image
+	Click [the first item of image, the second item of image]
+	wait 2
+End repeat
+
+//PRINT SUCCESS MESSAGE
+LogSuccess "All green squares were clicked"
+wait 5
+
+//CLOSE BROWSER
+Run "Utils/CloseBrowser"

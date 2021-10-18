@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="OnePieceTurboSession_script" package="UdemyCourse.suite" timestamp="2021-10-13 21:46:20.955 +0000"
+ tests="1"  failures="0" errors="0" time="15.386000">
+  <properties>
+   <property name="RunDate" value="2021-10-13 21:46:20.955 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="OnePieceTurboSession.script" assertions="1" status="error"  time="15.374">
+    <error type="Exception" message="No Image Found On Screen: &quot;ChromeIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

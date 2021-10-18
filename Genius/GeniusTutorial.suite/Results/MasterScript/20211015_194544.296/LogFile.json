@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running MasterScript.script",
+				"identifier": "START",
+				"timestamp": "2021-10-15 19:45:44.302 +0000"
+			},
+		{
+				"message": "(Duration:\"0.22\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-10-15 19:45:44 +0000\", Successes:\"0\", TestCase:\"MasterScript.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2021-10-15 19:45:44.525 +0000"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'ejercicio2_openbrowser' -- Execution Time 0:00:00 MasterScript.script",
+				"identifier": "FAILURE",
+				"timestamp": "2021-10-15 19:45:45.028 +0000"
+			}
+	],
+	"createdTimestamp": "2021-10-15 19:45:44.305 +0000"
+}

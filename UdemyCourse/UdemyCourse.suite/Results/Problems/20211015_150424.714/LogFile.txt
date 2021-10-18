@@ -1,0 +1,34 @@
+﻿2021-10-15 15:04:24.730 +0000	START		Running Problems.script
+2021-10-15 15:04:24.777 +0000	Log		[5,4,3,2,1]	3	on_problems	Problems.script
+2021-10-15 15:04:24.777 +0000	Log		5	11	on_problems	Problems.script
+2021-10-15 15:04:24.792 +0000	Log		Dentro: 5	13	on_problems	Problems.script
+2021-10-15 15:04:24.792 +0000	Log		Dentro: 4	13	on_problems	Problems.script
+2021-10-15 15:04:24.792 +0000	Log		Dentro: 3	13	on_problems	Problems.script
+2021-10-15 15:04:24.792 +0000	Log		Dentro: 2	13	on_problems	Problems.script
+2021-10-15 15:04:24.808 +0000	Log		Dentro: 1	13	on_problems	Problems.script
+2021-10-15 15:04:24.815 +0000	Log		4	11	on_problems	Problems.script
+2021-10-15 15:04:24.815 +0000	Log		Dentro: 4	13	on_problems	Problems.script
+2021-10-15 15:04:24.815 +0000	Log		Dentro: 3	13	on_problems	Problems.script
+2021-10-15 15:04:24.830 +0000	Log		Dentro: 2	13	on_problems	Problems.script
+2021-10-15 15:04:24.846 +0000	Log		Dentro: 1	13	on_problems	Problems.script
+2021-10-15 15:04:24.846 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.846 +0000	Log		3	11	on_problems	Problems.script
+2021-10-15 15:04:24.861 +0000	Log		Dentro: 3	13	on_problems	Problems.script
+2021-10-15 15:04:24.861 +0000	Log		Dentro: 2	13	on_problems	Problems.script
+2021-10-15 15:04:24.861 +0000	Log		Dentro: 1	13	on_problems	Problems.script
+2021-10-15 15:04:24.861 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.877 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.877 +0000	Log		2	11	on_problems	Problems.script
+2021-10-15 15:04:24.877 +0000	Log		Dentro: 2	13	on_problems	Problems.script
+2021-10-15 15:04:24.893 +0000	Log		Dentro: 1	13	on_problems	Problems.script
+2021-10-15 15:04:24.893 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.893 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.893 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.908 +0000	Log		1	11	on_problems	Problems.script
+2021-10-15 15:04:24.915 +0000	Log		Dentro: 1	13	on_problems	Problems.script
+2021-10-15 15:04:24.915 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.915 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.915 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:24.931 +0000	Log		Dentro: 	13	on_problems	Problems.script
+2021-10-15 15:04:25.062 +0000	EndTestCase		(Duration:"0.332", Errors:"0", Exceptions:"0", StartTime:"2021-10-15 15:04:24 +0000", Successes:"1", TestCase:"Problems.script", Warnings:"0")
+2021-10-15 15:04:25.093 +0000	SUCCESS		Execution Time 0:00:00 Problems.script

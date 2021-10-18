@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-10-12 17:11:45.646 +0000,"Failure",0:00:00,1,0,0,"20211012_171145.646/LogFile.txt","","STInvalidNumber -- Value is not a number: 'Utils'",0
+2021-10-12 17:13:05.775 +0000,"Failure",0:00:00,1,0,0,"20211012_171305.775/LogFile.txt","","STInvalidNumber -- Value is not a number: 'Utils'",0
+2021-10-12 17:42:34.025 +0000,"Success",0:00:20,0,0,0,"20211012_174234.025/LogFile.txt","","",1
+2021-10-12 17:58:51.073 +0000,"Aborted",0:01:07,1,0,0,"20211012_175851.073/LogFile.txt","","",0
+2021-10-12 18:02:18.322 +0000,"Success",0:00:29,0,0,0,"20211012_180218.322/LogFile.txt","","",1

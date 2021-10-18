@@ -1,0 +1,5 @@
+﻿2021-10-12 16:38:26.683 +0000	START		Running MasterScript.script
+2021-10-12 16:38:27.001 +0000	doubleclick	ChromeIcon	at (189, 696)	1	on_masterscript	MasterScript.script
+2021-10-12 16:39:03.102 +0000	Exception	MaximizeIcon	No Image Found On Screen: "MaximizeIcon"	2	on_masterscript	MasterScript.script
+2021-10-12 16:39:03.219 +0000	EndTestCase		(Duration:"36.531", Errors:"1", Exceptions:"1", StartTime:"2021-10-12 16:38:26 +0000", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2021-10-12 16:39:03.865 +0000	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "MaximizeIcon" -- Execution Time 0:00:36 MasterScript.script

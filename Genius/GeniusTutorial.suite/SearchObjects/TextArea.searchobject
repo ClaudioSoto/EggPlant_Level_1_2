@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		38,
+		541,
+		113,
+		20
+	],
+	"lastmodifieddate": 1634232767.0420001,
+	"createddate": 1634232767.0420001,
+	"name": "TextArea",
+	"lastfounddate": 1634236258.135,
+	"ocrcapturestring": "Text Area",
+	"lastfoundlocation": [
+		38,
+		541,
+		113,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[53,159]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "TextArea.png",
+				"connectionname": "192.168.50.44",
+				"type": 1,
+				"connectionserverid": "192.168.50.44",
+				"capturerect": [
+					38,
+					541,
+					113,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Text Area"
+			}
+	]
+}
