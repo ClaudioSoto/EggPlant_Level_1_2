@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		13,
-		150,
-		141,
-		39
+		519,
+		581,
+		112,
+		42
 	],
-	"lastmodifieddate": 1634583963.198,
-	"createddate": 1634583963.198,
-	"name": "Login/LoginSuccess",
-	"lastfounddate": 1634670562.1989999,
-	"ocrcapturestring": "Claudio Soto",
+	"lastmodifieddate": 1634668122.836,
+	"createddate": 1634668122.836,
+	"name": "SearchUser/Publicaciones",
+	"lastfounddate": 1634670596.6529999,
+	"ocrcapturestring": "Publicaciones",
 	"lastfoundlocation": [
-		13,
-		150,
-		141,
-		39
+		519,
+		569,
+		112,
+		42
 	],
 	"testlocationdata": [
 		{
@@ -23,26 +23,26 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[70,19]",
-					"Tolerance": "_69",
+					"HotSpot": "[56,21]",
+					"Tolerance": "_64",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "Login/LoginSuccess.png",
+				"name": "SearchUser/Publicaciones.png",
 				"connectionname": "192.168.50.44",
 				"type": 1,
 				"connectionserverid": "192.168.50.44",
 				"capturerect": [
-					13,
-					150,
-					141,
-					39
+					519,
+					581,
+					112,
+					42
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "Claudio Soto"
+				"capturedocrtext": "Publicaciones"
 			}
 	]
 }

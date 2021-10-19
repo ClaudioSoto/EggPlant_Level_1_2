@@ -1,0 +1,34 @@
+﻿BeginTestCase "SearchUser"
+Run "TestCases/Login"
+
+put ["Sofía Soto","Marcela Villers","Paul Ponce","Eduardo Larios","Claudio Soto"] into targets
+
+Repeat with each item user of targets
+	
+	set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("TopBar")
+	Click imageName:"SearchUser/SearchBarFacebook", waitFor:20
+	TypeText user & returnKey
+	
+	set the SearchRectangle to "Utils/FunctionsScreen".ScreenPart("VerticalMiddle")
+	DoubleClick text:the second word of user, waitFor:20
+	
+	set the SearchRectangle to empty
+	WaitFor 20, "SearchUser/Publicaciones"
+	
+	put ReadText([557,691], [871,864]) into userInformation
+	put user & returnKey & userInformation into userInformation
+	put userInformation & returnKey after file ResourcePath("Records.txt")
+	put returnkey after file ResourcePath("Records.txt")
+	
+	
+	if userInformation is not empty
+		LogSuccess "Information gathered successfully"
+	else
+		LogError "Not information gathered"
+	end if
+	
+End repeat
+
+Run "TestCases/Logout"
+
+EndTestCase "SearchUser" 
