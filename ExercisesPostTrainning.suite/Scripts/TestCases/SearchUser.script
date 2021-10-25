@@ -1,7 +1,7 @@
 ﻿BeginTestCase "SearchUser"
 Run "TestCases/Login"
 
-put ["Sofía Soto","Marcela Villers","Paul Ponce","Eduardo Larios","Claudio Soto"] into targets
+put ["Sofía Soto","Marcela Villers","Paul Ponce","Eduardo Larios","Claudio Soto","Andrea Aguilar"] into targets
 
 Repeat with each item user of targets
 	

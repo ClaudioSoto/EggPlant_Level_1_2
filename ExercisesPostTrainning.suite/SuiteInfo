@@ -1,1 +1,1 @@
-﻿{EPVersionNumber = 2108312007; Schedules = (); ScriptMetaData = {}; SuiteEncodedTextKey = "z<yr>/\"G9I)r\\qiN"; helpedSuitesInfo = (); helperSuitesInfo = (); }
+﻿{EPVersionNumber = 2108312007; Schedules = ({ChangeCount = 15; Name = FacebookRoutine; Schedule = ({Num = 1; Run = YES; Script = "MasterScript.script"; ScriptDepth = 0; Status = SUCCESS; }); }); ScriptMetaData = {}; SuiteEncodedTextKey = "z<yr>/\"G9I)r\\qiN"; helpedSuitesInfo = (); helperSuitesInfo = (); }

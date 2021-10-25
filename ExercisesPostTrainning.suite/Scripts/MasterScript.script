@@ -1,18 +1,21 @@
-﻿//OPEN AND SEARCH BROWSER
+﻿
+//OPEN AND SEARCH BROWSER
 Run "Utils/FunctionsBrowser".OpenBrowser("Chrome")
 Run "Utils/FunctionsBrowser".OpenWebSite("www.facebook.com")
 
 //TEST CASES
 BeginTimer[]
-//Run "TestCases/Login"
-//Run "TestCases/Logout"
-//Run "TestCases/Publish"
+Run "TestCases/Login"
+Run "TestCases/Logout"
+Run "TestCases/Publish"
 //Run "TestCases/SendMessage"
-//Run "TestCases/SearchUser"
+Run "TestCases/SearchUser"
 log "Time elapsed: " & EndTimer()
 
 //CLOSE BROWSER
 Run "Utils/FunctionsBrowser".CloseBrowser
+
+
 
 
 
